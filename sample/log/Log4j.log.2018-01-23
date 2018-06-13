@@ -1,0 +1,1432 @@
+[18/01/23 10:02:58][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-65] 20180123100258
+[18/01/23 10:02:58][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-67] Delete screen shots generated 2 days ago.
+[18/01/23 10:03:19][ERROR][com.perficient.test.cat.catinspectweb.util.TestCaseBase-200] Driver have quited by other thread or by hand.
+[18/01/23 10:03:33][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-65] 20180123100333
+[18/01/23 10:03:33][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-67] Delete screen shots generated 2 days ago.
+[18/01/23 10:03:39][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-qa.cat.com/'
+[18/01/23 10:04:36][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //input[@id='submitButton']
+[18/01/23 10:04:39][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //span[@class='create']
+[18/01/23 10:04:40][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //Select[@id='formType']
+[18/01/23 10:04:42][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/01/23 10:04:42][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //select[@id='formFamily']
+[18/01/23 10:04:45][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/01/23 10:04:49][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //button[@class = 'btn btn-sm btn-warning pull-right']
+[18/01/23 10:04:53][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-134] Click on the element find By.xpath: //input[@id = 'cloneForm'] by javascript
+[18/01/23 10:04:54][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //a[@title='Next']
+[18/01/23 10:04:56][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //button[@class = 'btn btn-success']
+[18/01/23 10:04:56][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: (//div[@class='panel-heading']//a[@class='pull-left'])[1]
+[18/01/23 10:04:56][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //Select[@id='formType']
+[18/01/23 10:04:59][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/01/23 10:04:59][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //button[@class = 'btn btn-success']
+[18/01/23 10:04:59][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //select[@id='formFamily']
+[18/01/23 10:05:05][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/01/23 10:05:05][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //a[@title='Next']
+[18/01/23 10:05:05][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //a[@title='Next']
+[18/01/23 10:05:05][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //a[@title='Next']
+[18/01/23 10:05:05][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class='pull-right cat_process form-creation-heading']//a[@title='Publish']
+[18/01/23 10:05:06][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //button[@class = 'btn btn-success']
+[18/01/23 10:05:09][ERROR][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-77] WebDriver error:
+org.openqa.selenium.WebDriverException: unknown error: Element <span _ngcontent-c2="" class="manage_form"></span> is not clickable at point (281, 98). Other element would receive the click: <div class="modal in fade" role="dialog" tabindex="-1" style="display: block;">...</div>
+  (Session info: chrome=62.0.3202.89)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'H2600-0463L', ip: '10.2.7.38', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.33.506120 (e3e53437346286..., userDataDir: C:\Users\herby.he\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 62.0.3202.89, webStorageEnabled: true}
+Session ID: 69bd0889dda52ec3acf316ab471ce7f4
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:279)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:83)
+	at sun.reflect.GeneratedMethodAccessor7.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement$1.invoke(EventFiringWebDriver.java:376)
+	at com.sun.proxy.$Proxy17.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:389)
+	at sun.reflect.GeneratedMethodAccessor7.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+	at com.sun.proxy.$Proxy15.click(Unknown Source)
+	at com.perficient.test.cat.catinspectweb.util.FunctionUtil.click(FunctionUtil.java:314)
+	at com.perficient.test.cat.catinspectweb.util.CustomizedFunctionUtil.click(CustomizedFunctionUtil.java:20)
+	at com.perficient.test.cat.catinspectweb.testcase.debug.TC2941_UserCanChangeFamilyAndTypeWhencloneForm.Verify_TC2941_UserCanChangeFamilyAndTypeWhencloneForm(TC2941_UserCanChangeFamilyAndTypeWhencloneForm.java:76)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:254)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+[18/01/23 10:05:09][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-428] .\errorImages\20180123100509.png
+[18/01/23 10:05:09][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 0 is: java.lang.Thread.getStackTrace(Unknown Source)
+[18/01/23 10:05:09][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 0 stack trace is: -1
+[18/01/23 10:05:09][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 1 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.logStackTraceInfo(CustomAssertion.java:451)
+[18/01/23 10:05:09][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 1 stack trace is: 452
+[18/01/23 10:05:09][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 2 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.printError(CustomAssertion.java:429)
+[18/01/23 10:05:09][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 2 stack trace is: 429
+[18/01/23 10:05:09][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 3 is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.afterMethod(TestCaseBase.java:210)
+[18/01/23 10:05:09][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 3 stack trace is: 210
+[18/01/23 10:05:09][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 4 is: sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[18/01/23 10:05:09][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 4 stack trace is: -2
+[18/01/23 10:05:09][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 5 is: sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[18/01/23 10:05:09][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 5 stack trace is: -1
+[18/01/23 10:05:09][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 6 is: sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[18/01/23 10:05:09][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 6 stack trace is: -1
+[18/01/23 10:05:09][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-455] StackTrace for Assert is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.afterMethod(TestCaseBase.java:210)
+[18/01/23 10:05:09][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-456] Assert LineNumber is: 210
+[18/01/23 10:06:11][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-65] 20180123100611
+[18/01/23 10:06:11][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-67] Delete screen shots generated 2 days ago.
+[18/01/23 10:06:16][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-qa.cat.com/'
+[18/01/23 10:07:06][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //input[@id='submitButton']
+[18/01/23 10:07:10][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //span[@class='create']
+[18/01/23 10:07:11][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //Select[@id='formType']
+[18/01/23 10:07:13][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/01/23 10:07:13][ERROR][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-77] WebDriver error:
+org.openqa.selenium.WebDriverException: unknown error: Element <select _ngcontent-c13="" class="col-xs-8 form-control ng-untouched ng-pristine ng-valid" formcontrolname="formFamily" id="formFamily" name="formFamily">...</select> is not clickable at point (299, 606). Other element would receive the click: <div _ngcontent-c3="" class="navbar-inner footer">...</div>
+  (Session info: chrome=62.0.3202.89)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'H2600-0463L', ip: '10.2.7.38', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.33.506120 (e3e53437346286..., userDataDir: C:\Users\herby.he\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 62.0.3202.89, webStorageEnabled: true}
+Session ID: dba1670f35bca1a76e7ebc9842085444
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:279)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:83)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement$1.invoke(EventFiringWebDriver.java:376)
+	at com.sun.proxy.$Proxy17.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:389)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+	at com.sun.proxy.$Proxy15.click(Unknown Source)
+	at com.perficient.test.cat.catinspectweb.util.FunctionUtil.click(FunctionUtil.java:314)
+	at com.perficient.test.cat.catinspectweb.util.FunctionUtil.selectFromSelectorWithClick(FunctionUtil.java:503)
+	at com.perficient.test.cat.catinspectweb.testcase.debug.TC2941_UserCanChangeFamilyAndTypeWhencloneForm.Verify_TC2941_UserCanChangeFamilyAndTypeWhencloneForm(TC2941_UserCanChangeFamilyAndTypeWhencloneForm.java:45)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:254)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+[18/01/23 10:07:13][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-428] .\errorImages\20180123100713.png
+[18/01/23 10:07:13][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 0 is: java.lang.Thread.getStackTrace(Unknown Source)
+[18/01/23 10:07:13][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 0 stack trace is: -1
+[18/01/23 10:07:13][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 1 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.logStackTraceInfo(CustomAssertion.java:451)
+[18/01/23 10:07:13][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 1 stack trace is: 452
+[18/01/23 10:07:13][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 2 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.printError(CustomAssertion.java:429)
+[18/01/23 10:07:13][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 2 stack trace is: 429
+[18/01/23 10:07:13][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 3 is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.afterMethod(TestCaseBase.java:210)
+[18/01/23 10:07:13][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 3 stack trace is: 210
+[18/01/23 10:07:13][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 4 is: sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[18/01/23 10:07:13][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 4 stack trace is: -2
+[18/01/23 10:07:13][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 5 is: sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[18/01/23 10:07:13][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 5 stack trace is: -1
+[18/01/23 10:07:13][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 6 is: sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[18/01/23 10:07:13][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 6 stack trace is: -1
+[18/01/23 10:07:13][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-455] StackTrace for Assert is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.afterMethod(TestCaseBase.java:210)
+[18/01/23 10:07:13][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-456] Assert LineNumber is: 210
+[18/01/23 10:17:03][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-65] 20180123101703
+[18/01/23 10:17:03][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-67] Delete screen shots generated 2 days ago.
+[18/01/23 10:17:08][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-qa.cat.com/'
+[18/01/23 10:17:56][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //input[@id='submitButton']
+[18/01/23 10:17:59][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //span[@class='create']
+[18/01/23 10:18:00][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //Select[@id='formType']
+[18/01/23 10:18:02][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/01/23 10:18:02][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //select[@id='formFamily']
+[18/01/23 10:18:05][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/01/23 10:18:05][ERROR][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-77] WebDriver error:
+org.openqa.selenium.WebDriverException: unknown error: Element <button _ngcontent-c13="" class="btn btn-sm btn-warning pull-right" type="button">...</button> is not clickable at point (1260, 15). Other element would receive the click: <span _ngcontent-c1="" class="cat-user">...</span>
+  (Session info: chrome=62.0.3202.89)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'H2600-0463L', ip: '10.2.7.38', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.33.506120 (e3e53437346286..., userDataDir: C:\Users\herby.he\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 62.0.3202.89, webStorageEnabled: true}
+Session ID: 97012f8688c9af25b125b1106c057500
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:279)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:83)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement$1.invoke(EventFiringWebDriver.java:376)
+	at com.sun.proxy.$Proxy17.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:389)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+	at com.sun.proxy.$Proxy15.click(Unknown Source)
+	at com.perficient.test.cat.catinspectweb.util.FunctionUtil.click(FunctionUtil.java:314)
+	at com.perficient.test.cat.catinspectweb.util.CustomizedFunctionUtil.click(CustomizedFunctionUtil.java:20)
+	at com.perficient.test.cat.catinspectweb.testcase.debug.TC2941_UserCanChangeFamilyAndTypeWhencloneForm.Verify_TC2941_UserCanChangeFamilyAndTypeWhencloneForm(TC2941_UserCanChangeFamilyAndTypeWhencloneForm.java:48)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:254)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+[18/01/23 10:18:05][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-428] .\errorImages\20180123101805.png
+[18/01/23 10:18:05][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 0 is: java.lang.Thread.getStackTrace(Unknown Source)
+[18/01/23 10:18:05][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 0 stack trace is: -1
+[18/01/23 10:18:05][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 1 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.logStackTraceInfo(CustomAssertion.java:451)
+[18/01/23 10:18:05][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 1 stack trace is: 452
+[18/01/23 10:18:05][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 2 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.printError(CustomAssertion.java:429)
+[18/01/23 10:18:05][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 2 stack trace is: 429
+[18/01/23 10:18:05][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 3 is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.afterMethod(TestCaseBase.java:210)
+[18/01/23 10:18:05][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 3 stack trace is: 210
+[18/01/23 10:18:05][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 4 is: sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[18/01/23 10:18:05][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 4 stack trace is: -2
+[18/01/23 10:18:05][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 5 is: sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[18/01/23 10:18:05][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 5 stack trace is: -1
+[18/01/23 10:18:05][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 6 is: sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[18/01/23 10:18:05][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 6 stack trace is: -1
+[18/01/23 10:18:05][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-455] StackTrace for Assert is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.afterMethod(TestCaseBase.java:210)
+[18/01/23 10:18:05][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-456] Assert LineNumber is: 210
+[18/01/23 10:19:10][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-65] 20180123101910
+[18/01/23 10:19:10][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-67] Delete screen shots generated 2 days ago.
+[18/01/23 10:19:16][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-qa.cat.com/'
+[18/01/23 10:20:07][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //input[@id='submitButton']
+[18/01/23 10:20:10][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //span[@class='create']
+[18/01/23 10:20:10][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //Select[@id='formType']
+[18/01/23 10:20:13][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/01/23 10:20:13][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //select[@id='formFamily']
+[18/01/23 10:20:16][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/01/23 10:20:16][ERROR][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-77] WebDriver error:
+org.openqa.selenium.WebDriverException: unknown error: Element <button _ngcontent-c13="" class="btn btn-sm btn-warning pull-right" type="button">...</button> is not clickable at point (1260, 15). Other element would receive the click: <span _ngcontent-c1="" class="cat-user">...</span>
+  (Session info: chrome=62.0.3202.89)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'H2600-0463L', ip: '10.2.7.38', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.33.506120 (e3e53437346286..., userDataDir: C:\Users\herby.he\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 62.0.3202.89, webStorageEnabled: true}
+Session ID: 8df76209e0118e2ef69bca0e2ec9485e
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:279)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:83)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement$1.invoke(EventFiringWebDriver.java:376)
+	at com.sun.proxy.$Proxy17.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:389)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+	at com.sun.proxy.$Proxy15.click(Unknown Source)
+	at com.perficient.test.cat.catinspectweb.util.FunctionUtil.click(FunctionUtil.java:314)
+	at com.perficient.test.cat.catinspectweb.util.CustomizedFunctionUtil.click(CustomizedFunctionUtil.java:20)
+	at com.perficient.test.cat.catinspectweb.testcase.debug.TC2941_UserCanChangeFamilyAndTypeWhencloneForm.Verify_TC2941_UserCanChangeFamilyAndTypeWhencloneForm(TC2941_UserCanChangeFamilyAndTypeWhencloneForm.java:49)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:254)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+[18/01/23 10:20:16][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-428] .\errorImages\20180123102016.png
+[18/01/23 10:20:16][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 0 is: java.lang.Thread.getStackTrace(Unknown Source)
+[18/01/23 10:20:16][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 0 stack trace is: -1
+[18/01/23 10:20:16][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 1 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.logStackTraceInfo(CustomAssertion.java:451)
+[18/01/23 10:20:16][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 1 stack trace is: 452
+[18/01/23 10:20:16][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 2 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.printError(CustomAssertion.java:429)
+[18/01/23 10:20:16][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 2 stack trace is: 429
+[18/01/23 10:20:16][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 3 is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.afterMethod(TestCaseBase.java:210)
+[18/01/23 10:20:16][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 3 stack trace is: 210
+[18/01/23 10:20:16][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 4 is: sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[18/01/23 10:20:16][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 4 stack trace is: -2
+[18/01/23 10:20:16][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 5 is: sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[18/01/23 10:20:16][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 5 stack trace is: -1
+[18/01/23 10:20:16][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 6 is: sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[18/01/23 10:20:16][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 6 stack trace is: -1
+[18/01/23 10:20:16][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-455] StackTrace for Assert is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.afterMethod(TestCaseBase.java:210)
+[18/01/23 10:20:16][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-456] Assert LineNumber is: 210
+[18/01/23 10:21:46][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-65] 20180123102146
+[18/01/23 10:21:46][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-67] Delete screen shots generated 2 days ago.
+[18/01/23 10:21:51][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-qa.cat.com/'
+[18/01/23 10:22:45][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //input[@id='submitButton']
+[18/01/23 10:22:47][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //span[@class='create']
+[18/01/23 10:22:48][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //Select[@id='formType']
+[18/01/23 10:22:50][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/01/23 10:22:50][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //select[@id='formFamily']
+[18/01/23 10:22:53][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/01/23 10:22:53][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-134] Click on the element find By.xpath: //button[@class = 'btn btn-sm btn-warning pull-right'] by javascript
+[18/01/23 10:22:57][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-134] Click on the element find By.xpath: //input[@id = 'cloneForm'] by javascript
+[18/01/23 10:22:58][ERROR][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-77] WebDriver error:
+org.openqa.selenium.WebDriverException: unknown error: Element <a _ngcontent-c13="" class="pull-right" title="Next">...</a> is not clickable at point (1302, 17). Other element would receive the click: <button _ngcontent-c1="" aria-expanded="false" aria-haspopup="true" class="btn btn-default dropdown-toggle dropdown-menu-right" data-toggle="dropdown" id="dropdownMenu2" type="button">...</button>
+  (Session info: chrome=62.0.3202.89)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'H2600-0463L', ip: '10.2.7.38', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.33.506120 (e3e53437346286..., userDataDir: C:\Users\herby.he\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 62.0.3202.89, webStorageEnabled: true}
+Session ID: 86d4631b338eeb17669af76404271121
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:279)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:83)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement$1.invoke(EventFiringWebDriver.java:376)
+	at com.sun.proxy.$Proxy17.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:389)
+	at com.perficient.test.cat.catinspectweb.util.FunctionUtil.click(FunctionUtil.java:314)
+	at com.perficient.test.cat.catinspectweb.util.CustomizedFunctionUtil.click(CustomizedFunctionUtil.java:20)
+	at com.perficient.test.cat.catinspectweb.testcase.debug.TC2941_UserCanChangeFamilyAndTypeWhencloneForm.Verify_TC2941_UserCanChangeFamilyAndTypeWhencloneForm(TC2941_UserCanChangeFamilyAndTypeWhencloneForm.java:53)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:254)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+[18/01/23 10:22:59][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-428] .\errorImages\20180123102259.png
+[18/01/23 10:22:59][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 0 is: java.lang.Thread.getStackTrace(Unknown Source)
+[18/01/23 10:22:59][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 0 stack trace is: -1
+[18/01/23 10:22:59][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 1 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.logStackTraceInfo(CustomAssertion.java:451)
+[18/01/23 10:22:59][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 1 stack trace is: 452
+[18/01/23 10:22:59][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 2 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.printError(CustomAssertion.java:429)
+[18/01/23 10:22:59][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 2 stack trace is: 429
+[18/01/23 10:22:59][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 3 is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.afterMethod(TestCaseBase.java:210)
+[18/01/23 10:22:59][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 3 stack trace is: 210
+[18/01/23 10:22:59][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 4 is: sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[18/01/23 10:22:59][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 4 stack trace is: -2
+[18/01/23 10:22:59][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 5 is: sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[18/01/23 10:22:59][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 5 stack trace is: -1
+[18/01/23 10:22:59][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 6 is: sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[18/01/23 10:22:59][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 6 stack trace is: -1
+[18/01/23 10:22:59][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-455] StackTrace for Assert is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.afterMethod(TestCaseBase.java:210)
+[18/01/23 10:22:59][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-456] Assert LineNumber is: 210
+[18/01/23 10:24:51][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-65] 20180123102451
+[18/01/23 10:24:51][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-67] Delete screen shots generated 2 days ago.
+[18/01/23 10:24:57][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-qa.cat.com/'
+[18/01/23 10:25:56][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //input[@id='submitButton']
+[18/01/23 10:25:59][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //span[@class='create']
+[18/01/23 10:25:59][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //Select[@id='formType']
+[18/01/23 10:26:01][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/01/23 10:26:02][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //select[@id='formFamily']
+[18/01/23 10:26:04][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/01/23 10:26:05][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-134] Click on the element find By.xpath: //button[@class = 'btn btn-sm btn-warning pull-right'] by javascript
+[18/01/23 10:26:09][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-134] Click on the element find By.xpath: //input[@id = 'cloneForm'] by javascript
+[18/01/23 10:26:10][ERROR][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-77] WebDriver error:
+org.openqa.selenium.WebDriverException: unknown error: Element <a _ngcontent-c13="" class="pull-right" title="Next">...</a> is not clickable at point (1302, 17). Other element would receive the click: <button _ngcontent-c1="" aria-expanded="false" aria-haspopup="true" class="btn btn-default dropdown-toggle dropdown-menu-right" data-toggle="dropdown" id="dropdownMenu2" type="button">...</button>
+  (Session info: chrome=62.0.3202.89)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'H2600-0463L', ip: '10.2.7.38', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.33.506120 (e3e53437346286..., userDataDir: C:\Users\herby.he\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 62.0.3202.89, webStorageEnabled: true}
+Session ID: a153b285fecfeadc4bb861f6a4eef8ff
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:279)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:83)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement$1.invoke(EventFiringWebDriver.java:376)
+	at com.sun.proxy.$Proxy17.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:389)
+	at com.perficient.test.cat.catinspectweb.util.FunctionUtil.click(FunctionUtil.java:314)
+	at com.perficient.test.cat.catinspectweb.util.CustomizedFunctionUtil.click(CustomizedFunctionUtil.java:20)
+	at com.perficient.test.cat.catinspectweb.testcase.debug.TC2941_UserCanChangeFamilyAndTypeWhencloneForm.Verify_TC2941_UserCanChangeFamilyAndTypeWhencloneForm(TC2941_UserCanChangeFamilyAndTypeWhencloneForm.java:54)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:254)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+[18/01/23 10:26:10][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-428] .\errorImages\20180123102610.png
+[18/01/23 10:26:10][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 0 is: java.lang.Thread.getStackTrace(Unknown Source)
+[18/01/23 10:26:10][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 0 stack trace is: -1
+[18/01/23 10:26:10][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 1 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.logStackTraceInfo(CustomAssertion.java:451)
+[18/01/23 10:26:10][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 1 stack trace is: 452
+[18/01/23 10:26:10][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 2 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.printError(CustomAssertion.java:429)
+[18/01/23 10:26:10][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 2 stack trace is: 429
+[18/01/23 10:26:10][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 3 is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.afterMethod(TestCaseBase.java:210)
+[18/01/23 10:26:10][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 3 stack trace is: 210
+[18/01/23 10:26:10][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 4 is: sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[18/01/23 10:26:10][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 4 stack trace is: -2
+[18/01/23 10:26:10][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 5 is: sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[18/01/23 10:26:10][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 5 stack trace is: -1
+[18/01/23 10:26:10][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 6 is: sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[18/01/23 10:26:10][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 6 stack trace is: -1
+[18/01/23 10:26:10][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-455] StackTrace for Assert is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.afterMethod(TestCaseBase.java:210)
+[18/01/23 10:26:10][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-456] Assert LineNumber is: 210
+[18/01/23 13:32:47][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-65] 20180123133247
+[18/01/23 13:32:47][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-67] Delete screen shots generated 2 days ago.
+[18/01/23 13:32:53][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-qa.cat.com/'
+[18/01/23 13:33:56][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //input[@id='submitButton']
+[18/01/23 13:33:59][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //span[@class='create']
+[18/01/23 13:34:03][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //Select[@id='formType']
+[18/01/23 13:34:05][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/01/23 13:34:05][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //select[@id='formFamily']
+[18/01/23 13:34:08][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/01/23 13:34:08][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-134] Click on the element find By.xpath: //button[@class = 'btn btn-sm btn-warning pull-right'] by javascript
+[18/01/23 13:34:12][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-134] Click on the element find By.xpath: //input[@id = 'cloneForm'] by javascript
+[18/01/23 13:34:13][ERROR][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-77] WebDriver error:
+org.openqa.selenium.WebDriverException: unknown error: Element <a _ngcontent-c13="" class="pull-right" title="Next">...</a> is not clickable at point (1302, 17). Other element would receive the click: <button _ngcontent-c1="" aria-expanded="false" aria-haspopup="true" class="btn btn-default dropdown-toggle dropdown-menu-right" data-toggle="dropdown" id="dropdownMenu2" type="button">...</button>
+  (Session info: chrome=62.0.3202.89)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'H2600-0463L', ip: '10.2.7.38', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.33.506120 (e3e53437346286..., userDataDir: C:\Users\herby.he\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 62.0.3202.89, webStorageEnabled: true}
+Session ID: ff3163f7f363421b5fc95a97298f9a7e
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:279)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:83)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement$1.invoke(EventFiringWebDriver.java:376)
+	at com.sun.proxy.$Proxy17.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:389)
+	at com.perficient.test.cat.catinspectweb.util.FunctionUtil.click(FunctionUtil.java:314)
+	at com.perficient.test.cat.catinspectweb.util.CustomizedFunctionUtil.click(CustomizedFunctionUtil.java:20)
+	at com.perficient.test.cat.catinspectweb.testcase.debug.TC2941_UserCanChangeFamilyAndTypeWhencloneForm.Verify_TC2941_UserCanChangeFamilyAndTypeWhencloneForm(TC2941_UserCanChangeFamilyAndTypeWhencloneForm.java:54)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:254)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+[18/01/23 13:34:14][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-428] .\errorImages\20180123133414.png
+[18/01/23 13:34:14][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 0 is: java.lang.Thread.getStackTrace(Unknown Source)
+[18/01/23 13:34:14][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 0 stack trace is: -1
+[18/01/23 13:34:14][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 1 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.logStackTraceInfo(CustomAssertion.java:451)
+[18/01/23 13:34:14][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 1 stack trace is: 452
+[18/01/23 13:34:14][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 2 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.printError(CustomAssertion.java:429)
+[18/01/23 13:34:14][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 2 stack trace is: 429
+[18/01/23 13:34:14][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 3 is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.afterMethod(TestCaseBase.java:210)
+[18/01/23 13:34:14][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 3 stack trace is: 210
+[18/01/23 13:34:14][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 4 is: sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[18/01/23 13:34:14][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 4 stack trace is: -2
+[18/01/23 13:34:14][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 5 is: sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[18/01/23 13:34:14][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 5 stack trace is: -1
+[18/01/23 13:34:14][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 6 is: sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[18/01/23 13:34:14][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 6 stack trace is: -1
+[18/01/23 13:34:14][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-455] StackTrace for Assert is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.afterMethod(TestCaseBase.java:210)
+[18/01/23 13:34:14][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-456] Assert LineNumber is: 210
+[18/01/23 13:36:20][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-65] 20180123133620
+[18/01/23 13:36:20][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-67] Delete screen shots generated 2 days ago.
+[18/01/23 13:36:25][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-qa.cat.com/'
+[18/01/23 13:37:19][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //input[@id='submitButton']
+[18/01/23 13:37:23][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //span[@class='create']
+[18/01/23 13:37:23][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //Select[@id='formType']
+[18/01/23 13:37:26][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/01/23 13:37:26][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //select[@id='formFamily']
+[18/01/23 13:37:29][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/01/23 13:37:29][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-134] Click on the element find By.xpath: //button[@class = 'btn btn-sm btn-warning pull-right'] by javascript
+[18/01/23 13:37:33][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-134] Click on the element find By.xpath: //input[@id = 'cloneForm'] by javascript
+[18/01/23 13:37:34][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //a[@title='Next']
+[18/01/23 13:37:36][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //button[@class = 'btn btn-success']
+[18/01/23 13:37:36][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: (//div[@class='panel-heading']//a[@class='pull-left'])[1]
+[18/01/23 13:37:37][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //Select[@id='formType']
+[18/01/23 13:37:39][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/01/23 13:37:39][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //button[@class = 'btn btn-success']
+[18/01/23 13:37:39][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //select[@id='formFamily']
+[18/01/23 13:37:42][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/01/23 13:37:42][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //a[@title='Next']
+[18/01/23 13:37:42][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //a[@title='Next']
+[18/01/23 13:37:42][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //a[@title='Next']
+[18/01/23 13:37:42][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class='pull-right cat_process form-creation-heading']//a[@title='Publish']
+[18/01/23 13:37:46][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //button[@class = 'btn btn-success']
+[18/01/23 13:37:46][ERROR][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-77] WebDriver error:
+org.openqa.selenium.WebDriverException: unknown error: Element <span _ngcontent-c2="" class="manage_form"></span> is not clickable at point (281, 16). Other element would receive the click: <div _ngcontent-c1="" class="container-fluid" style="position: relative;">...</div>
+  (Session info: chrome=62.0.3202.89)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'H2600-0463L', ip: '10.2.7.38', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.33.506120 (e3e53437346286..., userDataDir: C:\Users\herby.he\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 62.0.3202.89, webStorageEnabled: true}
+Session ID: aaedb7a2fafdf25f269634311a894dde
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:279)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:83)
+	at sun.reflect.GeneratedMethodAccessor7.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement$1.invoke(EventFiringWebDriver.java:376)
+	at com.sun.proxy.$Proxy17.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:389)
+	at sun.reflect.GeneratedMethodAccessor7.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+	at com.sun.proxy.$Proxy15.click(Unknown Source)
+	at com.perficient.test.cat.catinspectweb.util.FunctionUtil.click(FunctionUtil.java:314)
+	at com.perficient.test.cat.catinspectweb.util.CustomizedFunctionUtil.click(CustomizedFunctionUtil.java:20)
+	at com.perficient.test.cat.catinspectweb.testcase.debug.TC2941_UserCanChangeFamilyAndTypeWhencloneForm.Verify_TC2941_UserCanChangeFamilyAndTypeWhencloneForm(TC2941_UserCanChangeFamilyAndTypeWhencloneForm.java:79)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:254)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+[18/01/23 13:37:46][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-428] .\errorImages\20180123133746.png
+[18/01/23 13:37:46][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 0 is: java.lang.Thread.getStackTrace(Unknown Source)
+[18/01/23 13:37:46][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 0 stack trace is: -1
+[18/01/23 13:37:46][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 1 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.logStackTraceInfo(CustomAssertion.java:451)
+[18/01/23 13:37:46][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 1 stack trace is: 452
+[18/01/23 13:37:46][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 2 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.printError(CustomAssertion.java:429)
+[18/01/23 13:37:46][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 2 stack trace is: 429
+[18/01/23 13:37:46][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 3 is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.afterMethod(TestCaseBase.java:210)
+[18/01/23 13:37:46][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 3 stack trace is: 210
+[18/01/23 13:37:46][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 4 is: sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[18/01/23 13:37:46][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 4 stack trace is: -2
+[18/01/23 13:37:46][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 5 is: sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[18/01/23 13:37:46][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 5 stack trace is: -1
+[18/01/23 13:37:46][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 6 is: sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[18/01/23 13:37:46][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 6 stack trace is: -1
+[18/01/23 13:37:46][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-455] StackTrace for Assert is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.afterMethod(TestCaseBase.java:210)
+[18/01/23 13:37:46][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-456] Assert LineNumber is: 210
+[18/01/23 13:43:06][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-65] 20180123134306
+[18/01/23 13:43:06][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-67] Delete screen shots generated 2 days ago.
+[18/01/23 13:43:11][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-qa.cat.com/'
+[18/01/23 13:44:06][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //input[@id='submitButton']
+[18/01/23 13:44:08][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //span[@class='create']
+[18/01/23 13:44:09][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //Select[@id='formType']
+[18/01/23 13:44:11][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/01/23 13:44:12][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //select[@id='formFamily']
+[18/01/23 13:44:14][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/01/23 13:44:17][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-134] Click on the element find By.xpath: //button[@class = 'btn btn-sm btn-warning pull-right'] by javascript
+[18/01/23 13:44:22][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-134] Click on the element find By.xpath: //input[@id = 'cloneForm'] by javascript
+[18/01/23 13:44:23][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //a[@title='Next']
+[18/01/23 13:44:25][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //button[@class = 'btn btn-success']
+[18/01/23 13:44:25][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: (//div[@class='panel-heading']//a[@class='pull-left'])[1]
+[18/01/23 13:44:25][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //Select[@id='formType']
+[18/01/23 13:44:28][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/01/23 13:44:28][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //button[@class = 'btn btn-success']
+[18/01/23 13:44:28][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //select[@id='formFamily']
+[18/01/23 13:44:31][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/01/23 13:44:31][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //a[@title='Next']
+[18/01/23 13:44:31][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //a[@title='Next']
+[18/01/23 13:44:31][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //a[@title='Next']
+[18/01/23 13:44:31][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class='pull-right cat_process form-creation-heading']//a[@title='Publish']
+[18/01/23 13:44:31][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //button[@class = 'btn btn-success']
+[18/01/23 13:44:35][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //button[@class = 'btn btn-success']
+[18/01/23 13:44:35][ERROR][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-77] WebDriver error:
+org.openqa.selenium.WebDriverException: unknown error: Element <span _ngcontent-c2="" class="manage_form"></span> is not clickable at point (281, 16). Other element would receive the click: <div _ngcontent-c1="" class="container-fluid" style="position: relative;">...</div>
+  (Session info: chrome=62.0.3202.89)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'H2600-0463L', ip: '10.2.7.38', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.33.506120 (e3e53437346286..., userDataDir: C:\Users\herby.he\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 62.0.3202.89, webStorageEnabled: true}
+Session ID: 4cb256914ad860bb073f76c50c31de30
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:279)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:83)
+	at sun.reflect.GeneratedMethodAccessor7.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement$1.invoke(EventFiringWebDriver.java:376)
+	at com.sun.proxy.$Proxy17.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:389)
+	at sun.reflect.GeneratedMethodAccessor7.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+	at com.sun.proxy.$Proxy15.click(Unknown Source)
+	at com.perficient.test.cat.catinspectweb.util.FunctionUtil.click(FunctionUtil.java:314)
+	at com.perficient.test.cat.catinspectweb.util.CustomizedFunctionUtil.click(CustomizedFunctionUtil.java:20)
+	at com.perficient.test.cat.catinspectweb.testcase.debug.TC2941_UserCanChangeFamilyAndTypeWhencloneForm.Verify_TC2941_UserCanChangeFamilyAndTypeWhencloneForm(TC2941_UserCanChangeFamilyAndTypeWhencloneForm.java:79)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:254)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+[18/01/23 13:44:35][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-428] .\errorImages\20180123134435.png
+[18/01/23 13:44:35][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 0 is: java.lang.Thread.getStackTrace(Unknown Source)
+[18/01/23 13:44:35][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 0 stack trace is: -1
+[18/01/23 13:44:35][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 1 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.logStackTraceInfo(CustomAssertion.java:451)
+[18/01/23 13:44:35][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 1 stack trace is: 452
+[18/01/23 13:44:35][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 2 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.printError(CustomAssertion.java:429)
+[18/01/23 13:44:35][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 2 stack trace is: 429
+[18/01/23 13:44:35][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 3 is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.afterMethod(TestCaseBase.java:210)
+[18/01/23 13:44:35][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 3 stack trace is: 210
+[18/01/23 13:44:35][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 4 is: sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[18/01/23 13:44:35][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 4 stack trace is: -2
+[18/01/23 13:44:35][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 5 is: sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[18/01/23 13:44:35][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 5 stack trace is: -1
+[18/01/23 13:44:35][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 6 is: sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[18/01/23 13:44:35][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 6 stack trace is: -1
+[18/01/23 13:44:35][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-455] StackTrace for Assert is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.afterMethod(TestCaseBase.java:210)
+[18/01/23 13:44:35][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-456] Assert LineNumber is: 210
+[18/01/23 13:45:42][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-65] 20180123134542
+[18/01/23 13:45:42][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-67] Delete screen shots generated 2 days ago.
+[18/01/23 13:45:47][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-qa.cat.com/'
+[18/01/23 13:46:45][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //input[@id='submitButton']
+[18/01/23 13:46:48][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //span[@class='create']
+[18/01/23 13:46:49][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //Select[@id='formType']
+[18/01/23 13:46:51][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/01/23 13:46:54][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //select[@id='formFamily']
+[18/01/23 13:46:57][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/01/23 13:46:57][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-134] Click on the element find By.xpath: //button[@class = 'btn btn-sm btn-warning pull-right'] by javascript
+[18/01/23 13:47:01][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-134] Click on the element find By.xpath: //input[@id = 'cloneForm'] by javascript
+[18/01/23 13:47:02][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //a[@title='Next']
+[18/01/23 13:47:04][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //button[@class = 'btn btn-success']
+[18/01/23 13:47:05][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: (//div[@class='panel-heading']//a[@class='pull-left'])[1]
+[18/01/23 13:47:05][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //Select[@id='formType']
+[18/01/23 13:47:07][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/01/23 13:47:07][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //button[@class = 'btn btn-success']
+[18/01/23 13:47:08][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //select[@id='formFamily']
+[18/01/23 13:47:10][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/01/23 13:47:10][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //a[@title='Next']
+[18/01/23 13:47:10][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //a[@title='Next']
+[18/01/23 13:47:11][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //a[@title='Next']
+[18/01/23 13:47:11][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class='pull-right cat_process form-creation-heading']//a[@title='Publish']
+[18/01/23 13:47:11][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //button[@class = 'btn btn-success']
+[18/01/23 13:47:14][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //button[@class = 'btn btn-success']
+[18/01/23 13:47:14][ERROR][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-77] WebDriver error:
+org.openqa.selenium.WebDriverException: unknown error: Element <span _ngcontent-c2="" class="manage_form"></span> is not clickable at point (281, 16). Other element would receive the click: <div _ngcontent-c1="" class="container-fluid" style="position: relative;">...</div>
+  (Session info: chrome=62.0.3202.89)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'H2600-0463L', ip: '10.2.7.38', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.33.506120 (e3e53437346286..., userDataDir: C:\Users\herby.he\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 62.0.3202.89, webStorageEnabled: true}
+Session ID: 7e4578d1072d3e4a43bbaa162403da64
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:279)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:83)
+	at sun.reflect.GeneratedMethodAccessor7.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement$1.invoke(EventFiringWebDriver.java:376)
+	at com.sun.proxy.$Proxy17.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:389)
+	at sun.reflect.GeneratedMethodAccessor7.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+	at com.sun.proxy.$Proxy15.click(Unknown Source)
+	at com.perficient.test.cat.catinspectweb.util.FunctionUtil.click(FunctionUtil.java:314)
+	at com.perficient.test.cat.catinspectweb.util.CustomizedFunctionUtil.click(CustomizedFunctionUtil.java:20)
+	at com.perficient.test.cat.catinspectweb.testcase.debug.TC2941_UserCanChangeFamilyAndTypeWhencloneForm.Verify_TC2941_UserCanChangeFamilyAndTypeWhencloneForm(TC2941_UserCanChangeFamilyAndTypeWhencloneForm.java:80)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:254)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+[18/01/23 13:47:15][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-428] .\errorImages\20180123134715.png
+[18/01/23 13:47:15][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 0 is: java.lang.Thread.getStackTrace(Unknown Source)
+[18/01/23 13:47:15][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 0 stack trace is: -1
+[18/01/23 13:47:15][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 1 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.logStackTraceInfo(CustomAssertion.java:451)
+[18/01/23 13:47:15][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 1 stack trace is: 452
+[18/01/23 13:47:15][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 2 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.printError(CustomAssertion.java:429)
+[18/01/23 13:47:15][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 2 stack trace is: 429
+[18/01/23 13:47:15][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 3 is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.afterMethod(TestCaseBase.java:210)
+[18/01/23 13:47:15][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 3 stack trace is: 210
+[18/01/23 13:47:15][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 4 is: sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[18/01/23 13:47:15][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 4 stack trace is: -2
+[18/01/23 13:47:15][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 5 is: sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[18/01/23 13:47:15][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 5 stack trace is: -1
+[18/01/23 13:47:15][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 6 is: sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[18/01/23 13:47:15][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 6 stack trace is: -1
+[18/01/23 13:47:15][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-455] StackTrace for Assert is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.afterMethod(TestCaseBase.java:210)
+[18/01/23 13:47:15][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-456] Assert LineNumber is: 210
+[18/01/23 13:47:36][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-65] 20180123134736
+[18/01/23 13:47:36][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-67] Delete screen shots generated 2 days ago.
+[18/01/23 13:47:41][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-qa.cat.com/'
+[18/01/23 13:48:46][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //input[@id='submitButton']
+[18/01/23 13:48:49][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //span[@class='create']
+[18/01/23 13:48:49][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //Select[@id='formType']
+[18/01/23 13:48:52][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/01/23 13:48:52][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //select[@id='formFamily']
+[18/01/23 13:48:55][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/01/23 13:48:55][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-134] Click on the element find By.xpath: //button[@class = 'btn btn-sm btn-warning pull-right'] by javascript
+[18/01/23 13:48:59][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-134] Click on the element find By.xpath: //input[@id = 'cloneForm'] by javascript
+[18/01/23 13:49:00][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //a[@title='Next']
+[18/01/23 13:49:02][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //button[@class = 'btn btn-success']
+[18/01/23 13:49:02][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: (//div[@class='panel-heading']//a[@class='pull-left'])[1]
+[18/01/23 13:49:03][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //Select[@id='formType']
+[18/01/23 13:49:05][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/01/23 13:49:05][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //button[@class = 'btn btn-success']
+[18/01/23 13:49:05][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //select[@id='formFamily']
+[18/01/23 13:49:08][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/01/23 13:49:08][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //a[@title='Next']
+[18/01/23 13:49:08][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //a[@title='Next']
+[18/01/23 13:49:08][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //a[@title='Next']
+[18/01/23 13:49:08][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class='pull-right cat_process form-creation-heading']//a[@title='Publish']
+[18/01/23 13:49:09][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //button[@class = 'btn btn-success']
+[18/01/23 13:49:12][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //button[@class = 'btn btn-success']
+[18/01/23 13:49:12][ERROR][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-77] WebDriver error:
+org.openqa.selenium.WebDriverException: unknown error: Element <span _ngcontent-c2="" class="manage_form"></span> is not clickable at point (281, 16). Other element would receive the click: <div _ngcontent-c1="" class="container-fluid" style="position: relative;">...</div>
+  (Session info: chrome=62.0.3202.89)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'H2600-0463L', ip: '10.2.7.38', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.33.506120 (e3e53437346286..., userDataDir: C:\Users\herby.he\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 62.0.3202.89, webStorageEnabled: true}
+Session ID: eb3f33a48a70590e1391e7465d8bf79d
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:279)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:83)
+	at sun.reflect.GeneratedMethodAccessor7.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement$1.invoke(EventFiringWebDriver.java:376)
+	at com.sun.proxy.$Proxy17.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:389)
+	at sun.reflect.GeneratedMethodAccessor7.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+	at com.sun.proxy.$Proxy15.click(Unknown Source)
+	at com.perficient.test.cat.catinspectweb.util.FunctionUtil.click(FunctionUtil.java:314)
+	at com.perficient.test.cat.catinspectweb.util.CustomizedFunctionUtil.click(CustomizedFunctionUtil.java:20)
+	at com.perficient.test.cat.catinspectweb.testcase.debug.TC2941_UserCanChangeFamilyAndTypeWhencloneForm.Verify_TC2941_UserCanChangeFamilyAndTypeWhencloneForm(TC2941_UserCanChangeFamilyAndTypeWhencloneForm.java:80)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:254)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+[18/01/23 13:49:12][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-428] .\errorImages\20180123134912.png
+[18/01/23 13:49:12][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 0 is: java.lang.Thread.getStackTrace(Unknown Source)
+[18/01/23 13:49:12][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 0 stack trace is: -1
+[18/01/23 13:49:12][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 1 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.logStackTraceInfo(CustomAssertion.java:451)
+[18/01/23 13:49:12][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 1 stack trace is: 452
+[18/01/23 13:49:12][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 2 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.printError(CustomAssertion.java:429)
+[18/01/23 13:49:12][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 2 stack trace is: 429
+[18/01/23 13:49:12][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 3 is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.afterMethod(TestCaseBase.java:210)
+[18/01/23 13:49:12][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 3 stack trace is: 210
+[18/01/23 13:49:12][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 4 is: sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[18/01/23 13:49:12][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 4 stack trace is: -2
+[18/01/23 13:49:12][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 5 is: sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[18/01/23 13:49:12][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 5 stack trace is: -1
+[18/01/23 13:49:12][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 6 is: sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[18/01/23 13:49:12][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 6 stack trace is: -1
+[18/01/23 13:49:12][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-455] StackTrace for Assert is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.afterMethod(TestCaseBase.java:210)
+[18/01/23 13:49:12][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-456] Assert LineNumber is: 210
+[18/01/23 13:54:49][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-65] 20180123135449
+[18/01/23 13:54:49][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-67] Delete screen shots generated 2 days ago.
+[18/01/23 13:54:54][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-qa.cat.com/'
+[18/01/23 13:56:01][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //input[@id='submitButton']
+[18/01/23 13:56:04][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //span[@class='create']
+[18/01/23 13:56:05][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //Select[@id='formType']
+[18/01/23 13:56:07][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/01/23 13:56:07][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //select[@id='formFamily']
+[18/01/23 13:56:10][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/01/23 13:56:10][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-134] Click on the element find By.xpath: //button[@class = 'btn btn-sm btn-warning pull-right'] by javascript
+[18/01/23 13:56:14][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-134] Click on the element find By.xpath: //input[@id = 'cloneForm'] by javascript
+[18/01/23 13:56:15][ERROR][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-77] WebDriver error:
+org.openqa.selenium.WebDriverException: unknown error: Element <a _ngcontent-c13="" class="pull-right" title="Next">...</a> is not clickable at point (1302, 17). Other element would receive the click: <button _ngcontent-c1="" aria-expanded="false" aria-haspopup="true" class="btn btn-default dropdown-toggle dropdown-menu-right" data-toggle="dropdown" id="dropdownMenu2" type="button">...</button>
+  (Session info: chrome=62.0.3202.89)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'H2600-0463L', ip: '10.2.7.38', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.33.506120 (e3e53437346286..., userDataDir: C:\Users\herby.he\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 62.0.3202.89, webStorageEnabled: true}
+Session ID: 66a5fa634fe51aa76dcfe2f67d341aa2
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:279)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:83)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement$1.invoke(EventFiringWebDriver.java:376)
+	at com.sun.proxy.$Proxy17.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:389)
+	at com.perficient.test.cat.catinspectweb.util.FunctionUtil.click(FunctionUtil.java:314)
+	at com.perficient.test.cat.catinspectweb.util.CustomizedFunctionUtil.click(CustomizedFunctionUtil.java:20)
+	at com.perficient.test.cat.catinspectweb.testcase.debug.TC2941_UserCanChangeFamilyAndTypeWhencloneForm.Verify_TC2941_UserCanChangeFamilyAndTypeWhencloneForm(TC2941_UserCanChangeFamilyAndTypeWhencloneForm.java:54)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:254)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+[18/01/23 13:56:16][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-428] .\errorImages\20180123135616.png
+[18/01/23 13:56:16][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 0 is: java.lang.Thread.getStackTrace(Unknown Source)
+[18/01/23 13:56:16][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 0 stack trace is: -1
+[18/01/23 13:56:16][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 1 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.logStackTraceInfo(CustomAssertion.java:451)
+[18/01/23 13:56:16][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 1 stack trace is: 452
+[18/01/23 13:56:16][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 2 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.printError(CustomAssertion.java:429)
+[18/01/23 13:56:16][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 2 stack trace is: 429
+[18/01/23 13:56:16][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 3 is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.afterMethod(TestCaseBase.java:210)
+[18/01/23 13:56:16][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 3 stack trace is: 210
+[18/01/23 13:56:16][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 4 is: sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[18/01/23 13:56:16][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 4 stack trace is: -2
+[18/01/23 13:56:16][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 5 is: sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[18/01/23 13:56:16][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 5 stack trace is: -1
+[18/01/23 13:56:16][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 6 is: sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[18/01/23 13:56:16][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 6 stack trace is: -1
+[18/01/23 13:56:16][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-455] StackTrace for Assert is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.afterMethod(TestCaseBase.java:210)
+[18/01/23 13:56:16][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-456] Assert LineNumber is: 210
+[18/01/23 13:56:58][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-65] 20180123135658
+[18/01/23 13:56:58][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-67] Delete screen shots generated 2 days ago.
+[18/01/23 13:57:04][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-qa.cat.com/'
+[18/01/23 14:00:15][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //input[@id='submitButton']
+[18/01/23 14:00:17][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //span[@class='create']
+[18/01/23 14:00:18][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //Select[@id='formType']
+[18/01/23 14:00:20][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/01/23 14:00:20][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //select[@id='formFamily']
+[18/01/23 14:00:23][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/01/23 14:00:23][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-134] Click on the element find By.xpath: //button[@class = 'btn btn-sm btn-warning pull-right'] by javascript
+[18/01/23 14:00:27][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-134] Click on the element find By.xpath: //input[@id = 'cloneForm'] by javascript
+[18/01/23 14:00:29][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //a[@title='Next']
+[18/01/23 14:00:31][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //button[@class = 'btn btn-success']
+[18/01/23 14:00:31][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: (//div[@class='panel-heading']//a[@class='pull-left'])[1]
+[18/01/23 14:00:31][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //Select[@id='formType']
+[18/01/23 14:00:33][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/01/23 14:00:34][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //button[@class = 'btn btn-success']
+[18/01/23 14:00:34][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //select[@id='formFamily']
+[18/01/23 14:00:36][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/01/23 14:00:36][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //a[@title='Next']
+[18/01/23 14:00:37][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //a[@title='Next']
+[18/01/23 14:00:37][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //a[@title='Next']
+[18/01/23 14:00:37][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class='pull-right cat_process form-creation-heading']//a[@title='Publish']
+[18/01/23 14:00:37][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //button[@class = 'btn btn-success']
+[18/01/23 14:00:40][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //button[@class = 'btn btn-success']
+[18/01/23 14:00:41][ERROR][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-77] WebDriver error:
+org.openqa.selenium.WebDriverException: unknown error: Element <span _ngcontent-c2="" class="manage_form"></span> is not clickable at point (281, 16). Other element would receive the click: <div _ngcontent-c1="" class="container-fluid" style="position: relative;">...</div>
+  (Session info: chrome=62.0.3202.89)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'H2600-0463L', ip: '10.2.7.38', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.33.506120 (e3e53437346286..., userDataDir: C:\Users\herby.he\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 62.0.3202.89, webStorageEnabled: true}
+Session ID: b3bbd005eb8419bc8441b45d481598e2
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:279)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:83)
+	at sun.reflect.GeneratedMethodAccessor7.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement$1.invoke(EventFiringWebDriver.java:376)
+	at com.sun.proxy.$Proxy17.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:389)
+	at sun.reflect.GeneratedMethodAccessor7.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+	at com.sun.proxy.$Proxy15.click(Unknown Source)
+	at com.perficient.test.cat.catinspectweb.util.FunctionUtil.click(FunctionUtil.java:314)
+	at com.perficient.test.cat.catinspectweb.util.CustomizedFunctionUtil.click(CustomizedFunctionUtil.java:20)
+	at com.perficient.test.cat.catinspectweb.testcase.debug.TC2941_UserCanChangeFamilyAndTypeWhencloneForm.Verify_TC2941_UserCanChangeFamilyAndTypeWhencloneForm(TC2941_UserCanChangeFamilyAndTypeWhencloneForm.java:81)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:254)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+[18/01/23 14:00:41][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-428] .\errorImages\20180123140041.png
+[18/01/23 14:00:41][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 0 is: java.lang.Thread.getStackTrace(Unknown Source)
+[18/01/23 14:00:41][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 0 stack trace is: -1
+[18/01/23 14:00:41][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 1 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.logStackTraceInfo(CustomAssertion.java:451)
+[18/01/23 14:00:41][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 1 stack trace is: 452
+[18/01/23 14:00:41][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 2 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.printError(CustomAssertion.java:429)
+[18/01/23 14:00:41][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 2 stack trace is: 429
+[18/01/23 14:00:41][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 3 is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.afterMethod(TestCaseBase.java:210)
+[18/01/23 14:00:41][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 3 stack trace is: 210
+[18/01/23 14:00:41][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 4 is: sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[18/01/23 14:00:41][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 4 stack trace is: -2
+[18/01/23 14:00:41][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 5 is: sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[18/01/23 14:00:41][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 5 stack trace is: -1
+[18/01/23 14:00:41][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 6 is: sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[18/01/23 14:00:41][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 6 stack trace is: -1
+[18/01/23 14:00:41][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-455] StackTrace for Assert is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.afterMethod(TestCaseBase.java:210)
+[18/01/23 14:00:41][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-456] Assert LineNumber is: 210
+[18/01/23 14:01:34][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-65] 20180123140134
+[18/01/23 14:01:34][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-67] Delete screen shots generated 2 days ago.
+[18/01/23 14:01:39][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-qa.cat.com/'
+[18/01/23 14:03:01][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //input[@id='submitButton']
+[18/01/23 14:03:04][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //span[@class='create']
+[18/01/23 14:03:04][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //Select[@id='formType']
+[18/01/23 14:03:07][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/01/23 14:03:07][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //select[@id='formFamily']
+[18/01/23 14:03:09][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/01/23 14:03:10][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-134] Click on the element find By.xpath: //button[@class = 'btn btn-sm btn-warning pull-right'] by javascript
+[18/01/23 14:03:14][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-134] Click on the element find By.xpath: //input[@id = 'cloneForm'] by javascript
+[18/01/23 14:03:15][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //a[@title='Next']
+[18/01/23 14:03:17][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //button[@class = 'btn btn-success']
+[18/01/23 14:03:17][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: (//div[@class='panel-heading']//a[@class='pull-left'])[1]
+[18/01/23 14:03:17][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //Select[@id='formType']
+[18/01/23 14:03:20][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/01/23 14:03:20][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //button[@class = 'btn btn-success']
+[18/01/23 14:03:20][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //select[@id='formFamily']
+[18/01/23 14:03:23][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/01/23 14:03:23][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //a[@title='Next']
+[18/01/23 14:03:23][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //a[@title='Next']
+[18/01/23 14:03:23][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //a[@title='Next']
+[18/01/23 14:03:23][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class='pull-right cat_process form-creation-heading']//a[@title='Publish']
+[18/01/23 14:03:23][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //button[@class = 'btn btn-success']
+[18/01/23 14:03:27][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //button[@class = 'btn btn-success']
+[18/01/23 14:03:27][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-134] Click on the element find By.xpath: //span[@class='manage_form'] by javascript
+[18/01/23 14:03:28][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class='col-xs-6']//select[contains(@class,'cat_status_select')]
+[18/01/23 14:03:30][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/01/23 14:03:30][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //span[@class='glyphicon glyphicon-search']
+[18/01/23 14:04:13][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-65] 20180123140413
+[18/01/23 14:04:13][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-67] Delete screen shots generated 2 days ago.
+[18/01/23 14:04:21][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-qa.cat.com/'
+[18/01/23 14:05:49][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //input[@id='submitButton']
+[18/01/23 14:05:52][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //span[@class='create']
+[18/01/23 14:05:53][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //Select[@id='formType']
+[18/01/23 14:05:55][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/01/23 14:05:55][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //select[@id='formFamily']
+[18/01/23 14:05:58][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/01/23 14:05:58][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-134] Click on the element find By.xpath: //button[@class = 'btn btn-sm btn-warning pull-right'] by javascript
+[18/01/23 14:06:02][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-134] Click on the element find By.xpath: //input[@id = 'cloneForm'] by javascript
+[18/01/23 14:06:03][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //a[@title='Next']
+[18/01/23 14:06:06][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //button[@class = 'btn btn-success']
+[18/01/23 14:06:06][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: (//div[@class='panel-heading']//a[@class='pull-left'])[1]
+[18/01/23 14:06:06][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //Select[@id='formType']
+[18/01/23 14:06:08][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/01/23 14:06:08][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //button[@class = 'btn btn-success']
+[18/01/23 14:06:09][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //select[@id='formFamily']
+[18/01/23 14:06:11][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/01/23 14:06:11][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //a[@title='Next']
+[18/01/23 14:06:12][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //a[@title='Next']
+[18/01/23 14:06:12][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //a[@title='Next']
+[18/01/23 14:06:12][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class='pull-right cat_process form-creation-heading']//a[@title='Publish']
+[18/01/23 14:06:12][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //button[@class = 'btn btn-success']
+[18/01/23 14:06:15][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //button[@class = 'btn btn-success']
+[18/01/23 14:06:15][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-134] Click on the element find By.xpath: //span[@class='manage_form'] by javascript
+[18/01/23 14:06:17][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class='col-xs-6']//select[contains(@class,'cat_status_select')]
+[18/01/23 14:06:19][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/01/23 14:06:19][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //span[@class='glyphicon glyphicon-search']
+[18/01/23 14:06:37][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-65] 20180123140637
+[18/01/23 14:06:37][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-67] Delete screen shots generated 2 days ago.
+[18/01/23 14:06:43][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-qa.cat.com/'
+[18/01/23 14:07:58][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //input[@id='submitButton']
+[18/01/23 14:08:02][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-75] Element is still not found By.xpath: //input[@id='submitButton']
+[18/01/23 14:08:05][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //span[@class='create']
+[18/01/23 14:08:06][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //Select[@id='formType']
+[18/01/23 14:08:08][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/01/23 14:08:08][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //select[@id='formFamily']
+[18/01/23 14:08:11][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/01/23 14:08:11][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-134] Click on the element find By.xpath: //button[@class = 'btn btn-sm btn-warning pull-right'] by javascript
+[18/01/23 14:08:15][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-134] Click on the element find By.xpath: //input[@id = 'cloneForm'] by javascript
+[18/01/23 14:08:16][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //a[@title='Next']
+[18/01/23 14:08:18][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //button[@class = 'btn btn-success']
+[18/01/23 14:08:19][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: (//div[@class='panel-heading']//a[@class='pull-left'])[1]
+[18/01/23 14:08:19][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //Select[@id='formType']
+[18/01/23 14:08:21][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/01/23 14:08:21][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //button[@class = 'btn btn-success']
+[18/01/23 14:08:21][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //select[@id='formFamily']
+[18/01/23 14:08:24][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/01/23 14:08:27][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //a[@title='Next']
+[18/01/23 14:08:27][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //a[@title='Next']
+[18/01/23 14:08:28][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //a[@title='Next']
+[18/01/23 14:08:28][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class='pull-right cat_process form-creation-heading']//a[@title='Publish']
+[18/01/23 14:08:28][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //button[@class = 'btn btn-success']
+[18/01/23 14:08:31][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //button[@class = 'btn btn-success']
+[18/01/23 14:08:31][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-134] Click on the element find By.xpath: //span[@class='manage_form'] by javascript
+[18/01/23 14:08:32][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class='col-xs-6']//select[contains(@class,'cat_status_select')]
+[18/01/23 14:08:35][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/01/23 14:08:35][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //span[@class='glyphicon glyphicon-search']
+[18/01/23 14:17:49][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-65] 20180123141749
+[18/01/23 14:17:49][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-67] Delete screen shots generated 2 days ago.
+[18/01/23 14:17:54][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-qa.cat.com/'
+[18/01/23 14:19:43][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //input[@id='submitButton']
+[18/01/23 14:19:46][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //span[@class='create']
+[18/01/23 14:19:46][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //Select[@id='formType']
+[18/01/23 14:19:49][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/01/23 14:19:49][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //select[@id='formFamily']
+[18/01/23 14:19:51][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/01/23 14:19:52][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-134] Click on the element find By.xpath: //button[@class = 'btn btn-sm btn-warning pull-right'] by javascript
+[18/01/23 14:19:56][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-134] Click on the element find By.xpath: //input[@id = 'cloneForm'] by javascript
+[18/01/23 14:19:57][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //a[@title='Next']
+[18/01/23 14:19:59][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //button[@class = 'btn btn-success']
+[18/01/23 14:19:59][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: (//div[@class='panel-heading']//a[@class='pull-left'])[1]
+[18/01/23 14:20:00][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //Select[@id='formType']
+[18/01/23 14:20:02][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/01/23 14:20:02][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //button[@class = 'btn btn-success']
+[18/01/23 14:20:02][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //select[@id='formFamily']
+[18/01/23 14:20:05][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/01/23 14:20:05][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //a[@title='Next']
+[18/01/23 14:20:05][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //a[@title='Next']
+[18/01/23 14:20:05][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //a[@title='Next']
+[18/01/23 14:20:05][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class='pull-right cat_process form-creation-heading']//a[@title='Publish']
+[18/01/23 14:20:06][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //button[@class = 'btn btn-success']
+[18/01/23 14:20:09][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //button[@class = 'btn btn-success']
+[18/01/23 14:20:09][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-134] Click on the element find By.xpath: //span[@class='manage_form'] by javascript
+[18/01/23 14:20:10][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class='col-xs-6']//select[contains(@class,'cat_status_select')]
+[18/01/23 14:20:12][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/01/23 14:20:13][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //span[@class='glyphicon glyphicon-search']
+[18/01/23 14:28:57][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-65] 20180123142857
+[18/01/23 14:28:57][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-67] Delete screen shots generated 2 days ago.
+[18/01/23 14:29:03][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-qa.cat.com/'
+[18/01/23 14:30:28][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //input[@id='submitButton']
+[18/01/23 14:30:31][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //span[@class='create']
+[18/01/23 14:30:32][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //Select[@id='formType']
+[18/01/23 14:30:32][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //Select[@id='formType']
+[18/01/23 14:30:34][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1487] [CCR, Component D&A, Daily, Dealer Process, Field Follow, GET, Hydraulics, Legal, Monthly, PDI, PM, PM Checklist, PSSR, TA1, TA2, Validation, Weekly, Yearly]The original array list
+[18/01/23 14:30:34][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1503] [CCR, Component D&A, Daily, Dealer Process, Field Follow, GET, Hydraulics, Legal, Monthly, PDI, PM, PM Checklist, PSSR, TA1, TA2, Validation, Weekly, Yearly]The alphabetical order array list after sort
+[18/01/23 14:30:36][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //Select[@id='formType']
+[18/01/23 14:30:41][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/01/23 14:30:41][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //select[@id='formFamily']
+[18/01/23 14:30:42][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //select[@id='formFamily']
+[18/01/23 14:30:44][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1487] [ARTICULATED DUMP TRUCK, ASPHALT PAVER, AUTOMATIC TRANSFER SWITCH, BACKHOE LOADERS, CHALLENGER, COLD PLANER, COMBINE, COMPACT TRACK LOADER, COMPACT WHEEL LOADER, CONTINUOUS MINER, CRANE, DRAGLINE, DRILLING, EARTHMOVING COMPACTOR, ELECTRIC ROPE SHOVEL, ENGINE - GAS COMPRESSION, ENGINE - GENERATOR SET, ENGINE - INDUSTRIAL, ENGINE - MACHINE, ENGINE - MARINE, ENGINE - RAIL, ENGINE - TRUCK, ENGINEER SUPPORT TRACTOR, EXCAVATORS, EXPANDED MINING, FAMILY-ALL, FOREST PRODUCTS, FORKLIFT, GENERATOR, HYDRAULIC SHOVEL, INTEGRATED TOOLCARRIER, KNUCKLEBOOM LOADER, LANDFILL COMPACTOR, LOAD, HAUL, DUMP, LONGWALL COMPONENT, MACHINE CONTROL AND GUIDANCE PRODUCTS, MATERIAL HANDLER, MINI HYDRAULIC EXCAVATOR, MOTOR GRADER, MULTI-TERRAIN LOADERS, OEM SOLUTIONS, OFF-HIGHWAY TRUCK, OHT AND TRACTORS-AT, ON HIGHWAY TRUCK, PAVING COMPACTORS, PETROLEUM PRODUCTS, PIPELAYER, ROAD RECLAIMER, SKID STEER LOADER, SWITCHGEAR, TELEHANDLER, TILLAGE, TRACK-TYPE LOADER, TRACK-TYPE SKIDDER, TRACK-TYPE TRACTOR, UNDERGROUND ARTICULATED TRUCK, UPS, UTILITY VEHICLE, WHEEL DOZER, WHEEL FELLER BUNCHER, WHEEL LOADERS - ITC, WHEEL TRACTOR-SCRAPER, WHEEL-TYPE LOADER, WHEEL-TYPE SKIDDER, WORK TOOL]The original array list
+[18/01/23 14:30:44][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1503] [ARTICULATED DUMP TRUCK, ASPHALT PAVER, AUTOMATIC TRANSFER SWITCH, BACKHOE LOADERS, CHALLENGER, COLD PLANER, COMBINE, COMPACT TRACK LOADER, COMPACT WHEEL LOADER, CONTINUOUS MINER, CRANE, DRAGLINE, DRILLING, EARTHMOVING COMPACTOR, ELECTRIC ROPE SHOVEL, ENGINE - GAS COMPRESSION, ENGINE - GENERATOR SET, ENGINE - INDUSTRIAL, ENGINE - MACHINE, ENGINE - MARINE, ENGINE - RAIL, ENGINE - TRUCK, ENGINEER SUPPORT TRACTOR, EXCAVATORS, EXPANDED MINING, FAMILY-ALL, FOREST PRODUCTS, FORKLIFT, GENERATOR, HYDRAULIC SHOVEL, INTEGRATED TOOLCARRIER, KNUCKLEBOOM LOADER, LANDFILL COMPACTOR, LOAD, HAUL, DUMP, LONGWALL COMPONENT, MACHINE CONTROL AND GUIDANCE PRODUCTS, MATERIAL HANDLER, MINI HYDRAULIC EXCAVATOR, MOTOR GRADER, MULTI-TERRAIN LOADERS, OEM SOLUTIONS, OFF-HIGHWAY TRUCK, OHT AND TRACTORS-AT, ON HIGHWAY TRUCK, PAVING COMPACTORS, PETROLEUM PRODUCTS, PIPELAYER, ROAD RECLAIMER, SKID STEER LOADER, SWITCHGEAR, TELEHANDLER, TILLAGE, TRACK-TYPE LOADER, TRACK-TYPE SKIDDER, TRACK-TYPE TRACTOR, UNDERGROUND ARTICULATED TRUCK, UPS, UTILITY VEHICLE, WHEEL DOZER, WHEEL FELLER BUNCHER, WHEEL LOADERS - ITC, WHEEL TRACTOR-SCRAPER, WHEEL-TYPE LOADER, WHEEL-TYPE SKIDDER, WORK TOOL]The alphabetical order array list after sort
+[18/01/23 14:30:45][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //a[@title='Next']
+[18/01/23 14:30:45][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //span[@class = 'input-group-btn']
+[18/01/23 14:30:45][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //a[@title='Next']
+[18/01/23 14:30:46][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class = 'cat_add_block']
+[18/01/23 14:30:46][ERROR][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-77] WebDriver error:
+org.openqa.selenium.UnsupportedCommandException: actions
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'H2600-0463L', ip: '10.2.7.38', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_151'
+Driver info: driver.version: EventFiringWebDriver
+	at org.openqa.selenium.remote.http.AbstractHttpCommandCodec.encode(AbstractHttpCommandCodec.java:219)
+	at org.openqa.selenium.remote.http.AbstractHttpCommandCodec.encode(AbstractHttpCommandCodec.java:118)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)
+	at org.openqa.selenium.remote.RemoteWebDriver.perform(RemoteWebDriver.java:666)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:109)
+	at com.sun.proxy.$Proxy11.perform(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.perform(EventFiringWebDriver.java:342)
+	at org.openqa.selenium.interactions.Actions$BuiltAction.perform(Actions.java:638)
+	at org.openqa.selenium.interactions.Actions.perform(Actions.java:594)
+	at com.perficient.test.cat.catinspectweb.util.FunctionUtil.hoverOver(FunctionUtil.java:2692)
+	at com.perficient.test.cat.catinspectweb.util.CustomizedFunctionUtil.hoverOver(CustomizedFunctionUtil.java:25)
+	at com.perficient.test.cat.catinspectweb.testcase.createform.TC2908_CheckFormExistAfterPublished.Verify_TC2908_CheckFormExistAfterPublished(TC2908_CheckFormExistAfterPublished.java:77)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:254)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+[18/01/23 14:30:47][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-134] Click on the element find By.xpath: //div[@class = 'item' and contains(text(),'1-5 Satisfaction')] by javascript
+[18/01/23 14:30:48][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //i[@class  = 'fa fa-floppy-o fa-2x']
+[18/01/23 14:30:49][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //a[@title='Next']
+[18/01/23 14:30:49][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class='pull-right cat_process form-creation-heading']//a[@title='Publish']
+[18/01/23 14:30:49][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //button[@class ='btn btn-danger' ]
+[18/01/23 14:30:49][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class='pull-right cat_process form-creation-heading']//a[@title='Publish']
+[18/01/23 14:30:49][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //button[@class = 'btn btn-success']
+[18/01/23 14:30:53][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //button[@class = 'btn btn-success']
+[18/01/23 14:30:53][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-134] Click on the element find By.xpath: //span[@class='manage_form'] by javascript
+[18/01/23 14:30:54][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class='col-xs-6 cat_right_border']//select[contains(@class,'cat_status_select')]
+[18/01/23 14:30:54][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class='col-xs-6 cat_right_border']/select/option
+[18/01/23 14:30:54][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //span[@class='glyphicon glyphicon-search']

@@ -1,0 +1,41 @@
+package com.perficient.test.cat.pccaurora.testcase.debug;
+
+import org.testng.Assert;
+import org.testng.annotations.Test;
+import static com.perficient.test.cat.pccaurora.util.FunctionUtil.*;
+import com.perficient.test.cat.pccaurora.reusablefunctions.ReusableFunctions;
+import com.perficient.test.cat.pccaurora.util.ComplexReportFactory;
+import com.perficient.test.cat.pccaurora.util.TestCaseBase;
+import com.relevantcodes.extentreports.LogStatus;
+
+/**
+ * Notice(Delete this part before commit script):
+ * 1. Format and clean up scripts before commit script
+ * 2. Don't create function in test case
+ * 3. Declare element which is displayed in the page in page 
+ */
+
+/**
+ * -DESCRIPTION-
+ * @author -USER-
+ * @designer -DESIGNER-
+ * @date -DATE-
+ */
+public class TC-CASENAME- extends TestCaseBase {
+
+	@Test
+	public void verify_TC-CASENAME-() throws Exception {	
+		
+		// Initialize pages
+		ReusableFunctions reusableFunctions = new ReusableFunctions();
+		
+-STEPS-
+
+		//The following statement is always the very last statement of every test case script.
+		//Please do NOT delete it. Otherwise, the test case status in the RegressionReport Excel file
+		//and the default TestNG HTML report will be different to the ones in Extented HTML Report. 
+		Assert.assertEquals(ComplexReportFactory.getTest(testName).getRunStatus(), LogStatus.PASS);
+		
+	}
+
+}

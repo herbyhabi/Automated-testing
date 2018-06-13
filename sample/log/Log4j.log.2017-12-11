@@ -1,0 +1,109 @@
+[17/12/11 16:31:51][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-288] 20171211163151
+[17/12/11 16:31:56][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-268] File is moved successful!
+[17/12/11 16:31:56][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-277] Deleting old screen shots created 2 days ago............
+[17/12/11 16:31:56][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-279] Deletion completed!
+[17/12/11 16:31:56][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-89] com.perficient.test.cat.catinspectweb.testcase.ManageForm.TC2388_FilterFormBySerialNumberPrefix
+[17/12/11 16:32:05][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-211] Run in Browser: =Chrome
+[17/12/11 16:32:05][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-212] Run in Environment: =QA
+[17/12/11 16:32:05][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-213] Current Test Case Name =TC2388_FilterFormBySerialNumberPrefix
+[17/12/11 16:32:05][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-qa.cat.com/'
+[17/12/11 16:33:03][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsUID'] from '' to ''
+[17/12/11 16:33:03][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsUID'] from '' to 'fengm1'
+[17/12/11 16:33:04][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsPwd'] from '' to ''
+[17/12/11 16:33:04][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsPwd'] from '' to 'Wsx12edc'
+[17/12/11 16:33:04][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //input[@id='submitButton']
+[17/12/11 16:33:09][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //span[@class='manage_form']
+[17/12/11 16:33:09][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-101] Click on the element find By.xpath: //div[@class='col-xs-6 cat_right_border']/select/option by javascript
+[17/12/11 16:33:13][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-43] Element is still not found By.xpath: //div[@class='col-xs-6 cat_right_border']/select/option
+[17/12/11 16:33:14][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-428] .\errorImages\20171211163314.png
+[17/12/11 16:33:14][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 0 is: java.lang.Thread.getStackTrace(Unknown Source)
+[17/12/11 16:33:14][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 0 stack trace is: -1
+[17/12/11 16:33:14][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 1 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.logStackTraceInfo(CustomAssertion.java:451)
+[17/12/11 16:33:14][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 1 stack trace is: 452
+[17/12/11 16:33:14][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 2 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.printError(CustomAssertion.java:429)
+[17/12/11 16:33:14][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 2 stack trace is: 429
+[17/12/11 16:33:14][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 3 is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.tearDown(TestCaseBase.java:233)
+[17/12/11 16:33:14][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 3 stack trace is: 233
+[17/12/11 16:33:14][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 4 is: sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[17/12/11 16:33:14][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 4 stack trace is: -2
+[17/12/11 16:33:14][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 5 is: sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[17/12/11 16:33:14][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 5 stack trace is: -1
+[17/12/11 16:33:14][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 6 is: sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[17/12/11 16:33:14][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 6 stack trace is: -1
+[17/12/11 16:33:14][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-455] StackTrace for Assert is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.tearDown(TestCaseBase.java:233)
+[17/12/11 16:33:14][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-456] Assert LineNumber is: 233
+[17/12/11 16:46:13][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-288] 20171211164613
+[17/12/11 16:46:18][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-268] File is moved successful!
+[17/12/11 16:46:18][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-277] Deleting old screen shots created 2 days ago............
+[17/12/11 16:46:18][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-279] Deletion completed!
+[17/12/11 16:46:18][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-89] com.perficient.test.cat.catinspectweb.testcase.ManageForm.TC2388_FilterFormBySerialNumberPrefix
+[17/12/11 16:46:23][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-211] Run in Browser: =Chrome
+[17/12/11 16:46:23][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-212] Run in Environment: =QA
+[17/12/11 16:46:23][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-213] Current Test Case Name =TC2388_FilterFormBySerialNumberPrefix
+[17/12/11 16:46:23][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-qa.cat.com/'
+[17/12/11 16:47:11][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsUID'] from '' to ''
+[17/12/11 16:47:11][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsUID'] from '' to 'fengm1'
+[17/12/11 16:47:11][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsPwd'] from '' to ''
+[17/12/11 16:47:11][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsPwd'] from '' to 'Wsx12edc'
+[17/12/11 16:47:11][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //input[@id='submitButton']
+[17/12/11 16:47:16][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //span[@class='manage_form']
+[17/12/11 16:47:17][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //div[@class='col-xs-6 cat_right_border']//select[contains(@class,'cat_status_select')]
+[17/12/11 16:47:17][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-101] Click on the element find By.xpath: //div[@class='col-xs-6 cat_right_border']/select/option by javascript
+[17/12/11 16:47:21][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-43] Element is still not found By.xpath: //div[@class='col-xs-6 cat_right_border']/select/option
+[17/12/11 16:47:21][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-428] .\errorImages\20171211164721.png
+[17/12/11 16:47:21][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 0 is: java.lang.Thread.getStackTrace(Unknown Source)
+[17/12/11 16:47:21][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 0 stack trace is: -1
+[17/12/11 16:47:21][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 1 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.logStackTraceInfo(CustomAssertion.java:451)
+[17/12/11 16:47:21][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 1 stack trace is: 452
+[17/12/11 16:47:21][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 2 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.printError(CustomAssertion.java:429)
+[17/12/11 16:47:21][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 2 stack trace is: 429
+[17/12/11 16:47:21][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 3 is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.tearDown(TestCaseBase.java:233)
+[17/12/11 16:47:21][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 3 stack trace is: 233
+[17/12/11 16:47:21][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 4 is: sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[17/12/11 16:47:21][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 4 stack trace is: -2
+[17/12/11 16:47:21][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 5 is: sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[17/12/11 16:47:21][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 5 stack trace is: -1
+[17/12/11 16:47:21][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 6 is: sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[17/12/11 16:47:21][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 6 stack trace is: -1
+[17/12/11 16:47:21][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-455] StackTrace for Assert is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.tearDown(TestCaseBase.java:233)
+[17/12/11 16:47:21][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-456] Assert LineNumber is: 233
+[17/12/11 17:03:04][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-288] 20171211170304
+[17/12/11 17:03:09][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-268] File is moved successful!
+[17/12/11 17:03:09][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-277] Deleting old screen shots created 2 days ago............
+[17/12/11 17:03:09][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-279] Deletion completed!
+[17/12/11 17:03:09][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-89] com.perficient.test.cat.catinspectweb.testcase.ManageForm.TC2388_FilterFormBySerialNumberPrefix
+[17/12/11 17:03:14][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-211] Run in Browser: =Chrome
+[17/12/11 17:03:14][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-212] Run in Environment: =QA
+[17/12/11 17:03:14][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-213] Current Test Case Name =TC2388_FilterFormBySerialNumberPrefix
+[17/12/11 17:03:14][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-qa.cat.com/'
+[17/12/11 17:04:02][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsUID'] from '' to ''
+[17/12/11 17:04:02][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsUID'] from '' to 'fengm1'
+[17/12/11 17:04:02][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsPwd'] from '' to ''
+[17/12/11 17:04:02][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsPwd'] from '' to 'Wsx12edc'
+[17/12/11 17:04:03][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //input[@id='submitButton']
+[17/12/11 17:04:08][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //span[@class='manage_form']
+[17/12/11 17:04:08][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //div[@class='col-xs-6 cat_right_border']//select[contains(@class,'cat_status_select')]
+[17/12/11 17:04:08][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //div[@class='col-xs-6 cat_right_border']/select/option
+[17/12/11 17:04:08][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@placeholder = 'Serial Number Prefix'] from '' to ''
+[17/12/11 17:04:12][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@placeholder = 'Serial Number Prefix'] from '' to 'NON-Serial Number Prefix'
+[17/12/11 17:04:12][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //span[@class='glyphicon glyphicon-search']
+[17/12/11 17:04:13][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@placeholder = 'Serial Number Prefix'] from 'NON-Serial Number Prefix' to ''
+[17/12/11 17:04:13][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@placeholder = 'Serial Number Prefix'] from '' to 'DUG'
+[17/12/11 17:04:13][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //span[@class='glyphicon glyphicon-search']
+[17/12/11 17:04:17][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-428] .\errorImages\20171211170417.png
+[17/12/11 17:04:17][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 0 is: java.lang.Thread.getStackTrace(Unknown Source)
+[17/12/11 17:04:17][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 0 stack trace is: -1
+[17/12/11 17:04:17][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 1 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.logStackTraceInfo(CustomAssertion.java:451)
+[17/12/11 17:04:17][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 1 stack trace is: 452
+[17/12/11 17:04:17][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 2 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.printError(CustomAssertion.java:429)
+[17/12/11 17:04:17][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 2 stack trace is: 429
+[17/12/11 17:04:17][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 3 is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.tearDown(TestCaseBase.java:233)
+[17/12/11 17:04:17][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 3 stack trace is: 233
+[17/12/11 17:04:17][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 4 is: sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[17/12/11 17:04:17][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 4 stack trace is: -2
+[17/12/11 17:04:17][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 5 is: sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[17/12/11 17:04:17][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 5 stack trace is: -1
+[17/12/11 17:04:17][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 6 is: sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[17/12/11 17:04:17][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 6 stack trace is: -1
+[17/12/11 17:04:17][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-455] StackTrace for Assert is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.tearDown(TestCaseBase.java:233)
+[17/12/11 17:04:17][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-456] Assert LineNumber is: 233

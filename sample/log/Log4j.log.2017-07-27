@@ -1,0 +1,104 @@
+[17/07/27 14:48:06][INFO][com.perficient.test.cat.pccaurora.util.ScriptTemplateGenerator-152] package com.perficient.test.cat.pccaurora.testcase.debug;
+
+import org.testng.Assert;
+import org.testng.annotations.Test;
+import static com.perficient.test.cat.pccaurora.util.FunctionUtil.*;
+import com.perficient.test.cat.pccaurora.reusablefunctions.ReusableFunctions;
+import com.perficient.test.cat.pccaurora.util.ComplexReportFactory;
+import com.perficient.test.cat.pccaurora.util.TestCaseBase;
+import com.relevantcodes.extentreports.LogStatus;
+
+/**
+ * Notice(Delete this part before commit script):
+ * 1. Format and clean up scripts before commit script
+ * 2. Don't create function in test case
+ * 3. Declare element which is displayed in the page in page 
+ */
+
+/**
+ * <br>
+ * 
+ * @author matthew.feng
+ * @designer mizele
+ * @date 27 / Jul / 2017
+ */
+public class TC2474_ShoppingCart extends TestCaseBase {
+
+	@Test
+	public void verify_TC2474_ShoppingCart() throws Exception {	
+		
+		// Initialize pages
+		ReusableFunctions reusableFunctions = new ReusableFunctions();
+		
+		// Step 1: 
+		//    Go to pcc homepage Change /catcorp to /demo-dealer
+		test.log(LogStatus.INFO, "***Step 1: Go to pcc homepage Change /catcorp to /demo-dealer");
+
+		// Step 2: 
+		//    Click QUICK ORDER in the header
+		test.log(LogStatus.INFO, "***Step 2: Click QUICK ORDER in the header");
+
+		// Step 3: 
+		//    Collapse and Expand all sections
+		test.log(LogStatus.INFO, "***Step 3: Collapse and Expand all sections");
+
+		// Step 4: 
+		//    In QUICK ORDER section Enter vaild part and valid quantity Click Clear All
+		test.log(LogStatus.INFO, "***Step 4: In QUICK ORDER section Enter vaild part and valid quantity Click Clear All");
+
+		// Step 5: 
+		//    enter invalid quatity and invalid part number click ADD TO CART
+		test.log(LogStatus.INFO, "***Step 5: enter invalid quatity and invalid part number click ADD TO CART");
+
+		// Step 6: 
+		//    enter valid quatity and valid part number click ADD TO CART
+		test.log(LogStatus.INFO, "***Step 6: enter valid quatity and valid part number click ADD TO CART");
+
+		// Step 7: 
+		//    Validate that importing items from csv works
+		test.log(LogStatus.INFO, "***Step 7: Validate that importing items from csv works");
+
+		// Step 8: 
+		//    enter valid part and quantity enter additional details click add to cart
+		test.log(LogStatus.INFO, "***Step 8: enter valid part and quantity enter additional details click add to cart");
+
+		// Step 9: 
+		//    in the ITEMS IN YOUR CART sectoin Click Show more details
+		test.log(LogStatus.INFO, "***Step 9: in the ITEMS IN YOUR CART sectoin Click Show more details");
+
+		// Step 10: 
+		//    In the ITEMS IN YOUR CART section Change the quanity of the parts in the cart using the -/+ buttons
+		test.log(LogStatus.INFO, "***Step 10: In the ITEMS IN YOUR CART section Change the quanity of the parts in the cart using the -/+ buttons");
+
+		// Step 11: 
+		//    Click the x next to the part in the cart
+		test.log(LogStatus.INFO, "***Step 11: Click the x next to the part in the cart");
+
+		// Step 12: 
+		//    Click Empty Cart link
+		test.log(LogStatus.INFO, "***Step 12: Click Empty Cart link");
+
+		// Step 13: 
+		//    Click anywhere to exit the modal
+		test.log(LogStatus.INFO, "***Step 13: Click anywhere to exit the modal");
+
+		// Step 14: 
+		//    Expand ORDER INFORMATION change dealer store in dropdown click UPDATE PRICE AND AVAILABILITY
+		test.log(LogStatus.INFO, "***Step 14: Expand ORDER INFORMATION change dealer store in dropdown click UPDATE PRICE AND AVAILABILITY");
+
+		// Step 15: 
+		//    Click the empty cart modal Click CONTINUE
+		test.log(LogStatus.INFO, "***Step 15: Click the empty cart modal Click CONTINUE");
+
+
+
+		//The following statement is always the very last statement of every test case script.
+		//Please do NOT delete it. Otherwise, the test case status in the RegressionReport Excel file
+		//and the default TestNG HTML report will be different to the ones in Extented HTML Report. 
+		Assert.assertEquals(ComplexReportFactory.getTest(testName).getRunStatus(), LogStatus.PASS);
+		
+	}
+
+}
+
+[17/07/27 14:48:06][INFO][com.perficient.test.cat.pccaurora.util.ScriptTemplateGenerator-167] Done.

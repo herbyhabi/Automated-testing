@@ -1,0 +1,780 @@
+[18/03/05 13:43:26][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-65] 20180305134326
+[18/03/05 13:43:26][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-67] Delete screen shots generated 2 days ago.
+[18/03/05 13:43:36][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-dev.cat.com/'
+[18/03/05 13:58:37][ERROR][com.perficient.test.cat.catinspectweb.util.TestCaseBase-200] Driver have quited by other thread or by hand.
+icient.test.cat.catinspectweb.util.TestCaseBase-67] Delete screen shots generated 2 days ago.
+[18/03/05 13:53:30][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-dev.cat.com/'
+[18/03/05 13:54:35][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //input[@id='submitButton']
+[18/03/05 13:54:38][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //span[@class='manage_form']
+[18/03/05 13:54:42][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class='col-xs-6 cat_right_border']//select[contains(@class,'cat_status_select')]
+[18/03/05 13:54:42][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class='col-xs-6 cat_right_border']/select/option
+[18/03/05 13:54:42][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class='col-xs-6']//select[contains(@class,'cat_status_select')]
+[18/03/05 13:54:44][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/03/05 13:54:44][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //span[@class='glyphicon glyphicon-search']
+[18/03/05 13:54:49][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-134] Click on the element find By.xpath: //td/i[1][contains(@class, 'material-icons')] by javascript
+[18/03/05 13:54:50][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //button[@class = 'btn btn-success']
+[18/03/05 13:55:00][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class= 'cat_date_filter cat_right_border col-xs-4']/select
+[18/03/05 13:55:00][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class ='cat_date_filter cat_right_border col-xs-4']/select/option
+[18/03/05 13:55:02][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class= 'cat_date_filter cat_right_border col-xs-4']/select
+[18/03/05 13:55:02][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class ='cat_date_filter cat_right_border col-xs-4']/select/option
+[18/03/05 13:55:02][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-134] Click on the element find By.xpath: //td/i[1][contains(@class, 'material-icons')] by javascript
+[18/03/05 13:55:03][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //button[@class = 'btn btn-success']
+[18/03/05 13:55:14][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class = 'col-xs-4 cat_right_border']/select
+[18/03/05 13:55:14][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class = 'col-xs-4 cat_right_border']/select/option
+[18/03/05 13:55:15][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class = 'col-xs-4 cat_right_border']/select
+[18/03/05 13:55:15][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class = 'col-xs-4 cat_right_border']/select/option
+[18/03/05 13:55:53][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-65] 20180305135553
+[18/03/05 13:55:53][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-67] Delete screen shots generated 2 days ago.
+[18/03/05 13:55:58][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-dev.cat.com/'
+[18/03/05 13:57:36][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //input[@id='submitButton']
+[18/03/05 13:57:39][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //span[@class='manage_form']
+[18/03/05 13:57:39][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class='col-xs-6 cat_right_border']//select[contains(@class,'cat_status_select')]
+[18/03/05 13:57:40][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class='col-xs-6 cat_right_border']/select/option
+[18/03/05 13:57:40][ERROR][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-77] WebDriver error:
+org.openqa.selenium.ElementNotVisibleException: element not visible
+  (Session info: chrome=62.0.3202.89)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'H2600-0463L', ip: '10.2.7.26', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.33.506120 (e3e53437346286..., userDataDir: C:\Users\herby.he\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 62.0.3202.89, webStorageEnabled: true}
+Session ID: bb1b73a4ecb95a9dd30fa588a639489e
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:279)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:83)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement$1.invoke(EventFiringWebDriver.java:376)
+	at com.sun.proxy.$Proxy17.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:389)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+	at com.sun.proxy.$Proxy15.click(Unknown Source)
+	at com.perficient.test.cat.catinspectweb.util.FunctionUtil.click(FunctionUtil.java:314)
+	at com.perficient.test.cat.catinspectweb.util.CustomizedFunctionUtil.click(CustomizedFunctionUtil.java:20)
+	at com.perficient.test.cat.catinspectweb.testcase.ManageForm.TC2363_FilterFormByDraftForms.verify_TC2363_FilterFormByDraftForms(TC2363_FilterFormByDraftForms.java:35)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:254)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+[18/03/05 13:57:40][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-428] .\errorImages\20180305135740.png
+[18/03/05 13:57:40][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 0 is: java.lang.Thread.getStackTrace(Unknown Source)
+[18/03/05 13:57:40][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 0 stack trace is: -1
+[18/03/05 13:57:40][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 1 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.logStackTraceInfo(CustomAssertion.java:451)
+[18/03/05 13:57:40][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 1 stack trace is: 452
+[18/03/05 13:57:40][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 2 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.printError(CustomAssertion.java:429)
+[18/03/05 13:57:40][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 2 stack trace is: 429
+[18/03/05 13:57:40][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 3 is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.afterMethod(TestCaseBase.java:210)
+[18/03/05 13:57:40][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 3 stack trace is: 210
+[18/03/05 13:57:40][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 4 is: sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[18/03/05 13:57:40][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 4 stack trace is: -2
+[18/03/05 13:57:40][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 5 is: sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[18/03/05 13:57:40][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 5 stack trace is: -1
+[18/03/05 13:57:40][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 6 is: sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[18/03/05 13:57:40][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 6 stack trace is: -1
+[18/03/05 13:57:40][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-455] StackTrace for Assert is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.afterMethod(TestCaseBase.java:210)
+[18/03/05 13:57:40][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-456] Assert LineNumber is: 210
+[18/03/05 14:01:54][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-65] 20180305140154
+[18/03/05 14:01:54][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-67] Delete screen shots generated 2 days ago.
+[18/03/05 14:02:00][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-dev.cat.com/'
+[18/03/05 14:02:53][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //input[@id='submitButton']
+[18/03/05 14:02:56][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //span[@class='manage_form']
+[18/03/05 14:02:56][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class='col-xs-6 cat_right_border']//select[contains(@class,'cat_status_select')]
+[18/03/05 14:02:56][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class='col-xs-6 cat_right_border']/select/option
+[18/03/05 14:02:56][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //i[contains(@class, 'upload')]
+[18/03/05 14:03:02][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //button[@class = 'btn btn-danger']
+[18/03/05 14:03:02][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //i[contains(@class, 'upload')]
+[18/03/05 14:03:04][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //button[@class = 'btn btn-success']
+[18/03/05 14:03:07][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-409] .\errorImages\20180305140307.png
+[18/03/05 14:03:07][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 0 is: java.lang.Thread.getStackTrace(Unknown Source)
+[18/03/05 14:03:07][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 0 stack trace is: -1
+[18/03/05 14:03:07][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 1 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.logStackTraceInfo(CustomAssertion.java:451)
+[18/03/05 14:03:07][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 1 stack trace is: 452
+[18/03/05 14:03:07][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 2 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.printError(CustomAssertion.java:410)
+[18/03/05 14:03:07][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 2 stack trace is: 410
+[18/03/05 14:03:07][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 3 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.assertEquals(CustomAssertion.java:124)
+[18/03/05 14:03:07][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 3 stack trace is: 124
+[18/03/05 14:03:07][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 4 is: com.perficient.test.cat.catinspectweb.testcase.ManageForm.TC2363_FilterFormByDraftForms.verify_TC2363_FilterFormByDraftForms(TC2363_FilterFormByDraftForms.java:51)
+[18/03/05 14:03:07][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 4 stack trace is: 51
+[18/03/05 14:03:07][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 5 is: sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[18/03/05 14:03:07][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 5 stack trace is: -2
+[18/03/05 14:03:07][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 6 is: sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[18/03/05 14:03:07][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 6 stack trace is: -1
+[18/03/05 14:03:07][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-455] StackTrace for Assert is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.assertEquals(CustomAssertion.java:124)
+[18/03/05 14:03:07][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-456] Assert LineNumber is: 124
+[18/03/05 14:03:07][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //i[contains(@class, 'upload')]
+[18/03/05 14:03:08][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //button[@class = 'btn btn-success']
+[18/03/05 14:03:12][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-409] .\errorImages\20180305140312.png
+[18/03/05 14:03:12][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 0 is: java.lang.Thread.getStackTrace(Unknown Source)
+[18/03/05 14:03:12][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 0 stack trace is: -1
+[18/03/05 14:03:12][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 1 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.logStackTraceInfo(CustomAssertion.java:451)
+[18/03/05 14:03:12][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 1 stack trace is: 452
+[18/03/05 14:03:12][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 2 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.printError(CustomAssertion.java:410)
+[18/03/05 14:03:12][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 2 stack trace is: 410
+[18/03/05 14:03:12][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 3 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.assertEquals(CustomAssertion.java:124)
+[18/03/05 14:03:12][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 3 stack trace is: 124
+[18/03/05 14:03:12][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 4 is: com.perficient.test.cat.catinspectweb.testcase.ManageForm.TC2363_FilterFormByDraftForms.verify_TC2363_FilterFormByDraftForms(TC2363_FilterFormByDraftForms.java:58)
+[18/03/05 14:03:12][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 4 stack trace is: 58
+[18/03/05 14:03:12][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 5 is: sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[18/03/05 14:03:12][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 5 stack trace is: -2
+[18/03/05 14:03:12][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 6 is: sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[18/03/05 14:03:12][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 6 stack trace is: -1
+[18/03/05 14:03:12][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-455] StackTrace for Assert is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.assertEquals(CustomAssertion.java:124)
+[18/03/05 14:03:12][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-456] Assert LineNumber is: 124
+[18/03/05 14:03:17][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-402] .\errorImages\20180305140317.png
+[18/03/05 14:03:17][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 0 is: java.lang.Thread.getStackTrace(Unknown Source)
+[18/03/05 14:03:17][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 0 stack trace is: -1
+[18/03/05 14:03:17][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 1 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.logStackTraceInfo(CustomAssertion.java:451)
+[18/03/05 14:03:17][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 1 stack trace is: 452
+[18/03/05 14:03:17][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 2 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.printError(CustomAssertion.java:403)
+[18/03/05 14:03:17][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 2 stack trace is: 403
+[18/03/05 14:03:17][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 3 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.assertTrue(CustomAssertion.java:313)
+[18/03/05 14:03:17][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 3 stack trace is: 313
+[18/03/05 14:03:17][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 4 is: com.perficient.test.cat.catinspectweb.util.FunctionUtil.verifyOrderCorrectly(FunctionUtil.java:1479)
+[18/03/05 14:03:17][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 4 stack trace is: 1479
+[18/03/05 14:03:17][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 5 is: com.perficient.test.cat.catinspectweb.testcase.ManageForm.TC2363_FilterFormByDraftForms.verify_TC2363_FilterFormByDraftForms(TC2363_FilterFormByDraftForms.java:62)
+[18/03/05 14:03:17][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 5 stack trace is: 62
+[18/03/05 14:03:17][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 6 is: sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[18/03/05 14:03:17][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 6 stack trace is: -2
+[18/03/05 14:03:17][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-455] StackTrace for Assert is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.assertTrue(CustomAssertion.java:313)
+[18/03/05 14:03:17][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-456] Assert LineNumber is: 313
+[18/03/05 14:03:17][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1488] []The original array list
+[18/03/05 14:03:17][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1504] []The alphabetical order array list after sort
+[18/03/05 14:03:17][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //th[@sort-by]
+[18/03/05 14:03:21][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-402] .\errorImages\20180305140321.png
+[18/03/05 14:03:21][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 0 is: java.lang.Thread.getStackTrace(Unknown Source)
+[18/03/05 14:03:21][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 0 stack trace is: -1
+[18/03/05 14:03:21][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 1 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.logStackTraceInfo(CustomAssertion.java:451)
+[18/03/05 14:03:21][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 1 stack trace is: 452
+[18/03/05 14:03:21][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 2 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.printError(CustomAssertion.java:403)
+[18/03/05 14:03:21][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 2 stack trace is: 403
+[18/03/05 14:03:21][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 3 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.assertTrue(CustomAssertion.java:313)
+[18/03/05 14:03:21][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 3 stack trace is: 313
+[18/03/05 14:03:21][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 4 is: com.perficient.test.cat.catinspectweb.util.FunctionUtil.verifyOrderCorrectly(FunctionUtil.java:1479)
+[18/03/05 14:03:21][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 4 stack trace is: 1479
+[18/03/05 14:03:21][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 5 is: com.perficient.test.cat.catinspectweb.testcase.ManageForm.TC2363_FilterFormByDraftForms.verify_TC2363_FilterFormByDraftForms(TC2363_FilterFormByDraftForms.java:65)
+[18/03/05 14:03:21][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 5 stack trace is: 65
+[18/03/05 14:03:21][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 6 is: sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[18/03/05 14:03:21][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 6 stack trace is: -2
+[18/03/05 14:03:21][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-455] StackTrace for Assert is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.assertTrue(CustomAssertion.java:313)
+[18/03/05 14:03:21][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-456] Assert LineNumber is: 313
+[18/03/05 14:03:21][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1488] []The original array list
+[18/03/05 14:03:21][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1504] []The alphabetical order array list after sort
+[18/03/05 14:03:21][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //th[@sort-by]
+[18/03/05 14:03:25][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-402] .\errorImages\20180305140324.png
+[18/03/05 14:03:25][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 0 is: java.lang.Thread.getStackTrace(Unknown Source)
+[18/03/05 14:03:25][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 0 stack trace is: -1
+[18/03/05 14:03:25][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 1 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.logStackTraceInfo(CustomAssertion.java:451)
+[18/03/05 14:03:25][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 1 stack trace is: 452
+[18/03/05 14:03:25][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 2 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.printError(CustomAssertion.java:403)
+[18/03/05 14:03:25][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 2 stack trace is: 403
+[18/03/05 14:03:25][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 3 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.assertTrue(CustomAssertion.java:313)
+[18/03/05 14:03:25][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 3 stack trace is: 313
+[18/03/05 14:03:25][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 4 is: com.perficient.test.cat.catinspectweb.util.FunctionUtil.verifyOrderCorrectly(FunctionUtil.java:1479)
+[18/03/05 14:03:25][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 4 stack trace is: 1479
+[18/03/05 14:03:25][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 5 is: com.perficient.test.cat.catinspectweb.testcase.ManageForm.TC2363_FilterFormByDraftForms.verify_TC2363_FilterFormByDraftForms(TC2363_FilterFormByDraftForms.java:68)
+[18/03/05 14:03:25][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 5 stack trace is: 68
+[18/03/05 14:03:25][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 6 is: sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[18/03/05 14:03:25][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 6 stack trace is: -2
+[18/03/05 14:03:25][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-455] StackTrace for Assert is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.assertTrue(CustomAssertion.java:313)
+[18/03/05 14:03:25][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-456] Assert LineNumber is: 313
+[18/03/05 14:03:25][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1488] []The original array list
+[18/03/05 14:03:25][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1504] []The alphabetical order array list after sort
+[18/03/05 14:03:25][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //th[@sort-by]
+[18/03/05 14:03:28][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-402] .\errorImages\20180305140328.png
+[18/03/05 14:03:28][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 0 is: java.lang.Thread.getStackTrace(Unknown Source)
+[18/03/05 14:03:28][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 0 stack trace is: -1
+[18/03/05 14:03:28][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 1 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.logStackTraceInfo(CustomAssertion.java:451)
+[18/03/05 14:03:28][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 1 stack trace is: 452
+[18/03/05 14:03:28][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 2 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.printError(CustomAssertion.java:403)
+[18/03/05 14:03:28][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 2 stack trace is: 403
+[18/03/05 14:03:28][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 3 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.assertTrue(CustomAssertion.java:313)
+[18/03/05 14:03:28][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 3 stack trace is: 313
+[18/03/05 14:03:28][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 4 is: com.perficient.test.cat.catinspectweb.util.FunctionUtil.verifyOrderCorrectly(FunctionUtil.java:1479)
+[18/03/05 14:03:28][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 4 stack trace is: 1479
+[18/03/05 14:03:28][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 5 is: com.perficient.test.cat.catinspectweb.testcase.ManageForm.TC2363_FilterFormByDraftForms.verify_TC2363_FilterFormByDraftForms(TC2363_FilterFormByDraftForms.java:71)
+[18/03/05 14:03:28][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 5 stack trace is: 71
+[18/03/05 14:03:28][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 6 is: sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[18/03/05 14:03:28][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 6 stack trace is: -2
+[18/03/05 14:03:28][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-455] StackTrace for Assert is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.assertTrue(CustomAssertion.java:313)
+[18/03/05 14:03:28][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-456] Assert LineNumber is: 313
+[18/03/05 14:03:28][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1488] []The original array list
+[18/03/05 14:03:28][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1504] []The alphabetical order array list after sort
+[18/03/05 14:03:28][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //th[@sort-by]
+[18/03/05 14:03:31][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-134] Click on the element find By.xpath: //i[@title = 'Download'] by javascript
+[18/03/05 14:03:38][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-428] .\errorImages\20180305140338.png
+[18/03/05 14:03:38][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 0 is: java.lang.Thread.getStackTrace(Unknown Source)
+[18/03/05 14:03:38][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 0 stack trace is: -1
+[18/03/05 14:03:38][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 1 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.logStackTraceInfo(CustomAssertion.java:451)
+[18/03/05 14:03:38][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 1 stack trace is: 452
+[18/03/05 14:03:38][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 2 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.printError(CustomAssertion.java:429)
+[18/03/05 14:03:38][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 2 stack trace is: 429
+[18/03/05 14:03:38][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 3 is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.afterMethod(TestCaseBase.java:210)
+[18/03/05 14:03:38][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 3 stack trace is: 210
+[18/03/05 14:03:38][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 4 is: sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[18/03/05 14:03:38][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 4 stack trace is: -2
+[18/03/05 14:03:38][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 5 is: sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[18/03/05 14:03:38][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 5 stack trace is: -1
+[18/03/05 14:03:38][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 6 is: sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[18/03/05 14:03:38][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 6 stack trace is: -1
+[18/03/05 14:03:38][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-455] StackTrace for Assert is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.afterMethod(TestCaseBase.java:210)
+[18/03/05 14:03:38][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-456] Assert LineNumber is: 210
+[18/03/05 14:12:37][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-65] 20180305141237
+[18/03/05 14:12:37][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-67] Delete screen shots generated 2 days ago.
+[18/03/05 14:12:43][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-dev.cat.com/'
+[18/03/05 14:13:41][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //input[@id='submitButton']
+[18/03/05 14:13:44][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //span[@class='manage_form']
+[18/03/05 14:13:45][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class='col-xs-6 cat_right_border']//select[contains(@class,'cat_status_select')]
+[18/03/05 14:13:45][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class='col-xs-6 cat_right_border']/select/option
+[18/03/05 14:13:45][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //i[contains(@class, 'upload')]
+[18/03/05 14:13:46][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //button[@class = 'btn btn-danger']
+[18/03/05 14:13:46][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //i[contains(@class, 'upload')]
+[18/03/05 14:13:48][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //button[@class = 'btn btn-success']
+[18/03/05 14:13:48][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //i[contains(@class, 'upload')]
+[18/03/05 14:13:49][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //button[@class = 'btn btn-success']
+[18/03/05 14:13:52][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1488] [C Form, X form]The original array list
+[18/03/05 14:13:52][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1504] [C Form, X form]The alphabetical order array list after sort
+[18/03/05 14:13:52][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //th[@sort-by]
+[18/03/05 14:13:52][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1488] [Daily, CCR]The original array list
+[18/03/05 14:13:52][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1504] [Daily, CCR]The alphabetical order array list after sort
+[18/03/05 14:13:52][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //th[@sort-by]
+[18/03/05 14:13:52][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1488] [ENGINE - MACHINE, ARTICULATED DUMP TRUCK]The original array list
+[18/03/05 14:13:52][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1504] [ENGINE - MACHINE, ARTICULATED DUMP TRUCK]The alphabetical order array list after sort
+[18/03/05 14:13:52][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //th[@sort-by]
+[18/03/05 14:13:52][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1488] [TEX, ASE]The original array list
+[18/03/05 14:13:52][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1504] [TEX, ASE]The alphabetical order array list after sort
+[18/03/05 14:13:52][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //th[@sort-by]
+[18/03/05 14:13:53][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-134] Click on the element find By.xpath: //i[@title = 'Download'] by javascript
+[18/03/05 14:13:56][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-134] Click on the element find By.xpath: //i[@title = 'Delete'] by javascript
+[18/03/05 14:13:57][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //button[@class = 'btn btn-danger']
+[18/03/05 14:13:57][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-134] Click on the element find By.xpath: //i[@title = 'Delete'] by javascript
+[18/03/05 14:13:58][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //button[@class = 'btn btn-success']
+[18/03/05 14:14:58][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-65] 20180305141458
+[18/03/05 14:14:58][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-67] Delete screen shots generated 2 days ago.
+[18/03/05 14:15:03][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-dev.cat.com/'
+[18/03/05 14:16:09][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //input[@id='submitButton']
+[18/03/05 14:16:12][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //span[@class='manage_form']
+[18/03/05 14:16:12][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class='col-xs-6 cat_right_border']//select[contains(@class,'cat_status_select')]
+[18/03/05 14:16:12][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class='col-xs-6 cat_right_border']/select/option
+[18/03/05 14:16:12][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //span[@class='glyphicon glyphicon-search']
+[18/03/05 14:16:14][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //span[@class='glyphicon glyphicon-search']
+[18/03/05 14:16:17][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-134] Click on the element find By.xpath: //td/i[1][contains(@class, 'material-icons')] by javascript
+[18/03/05 14:16:18][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //button[@class = 'btn btn-success']
+[18/03/05 14:16:28][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class= 'cat_date_filter cat_right_border col-xs-4']/select
+[18/03/05 14:16:28][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class ='cat_date_filter cat_right_border col-xs-4']/select/option
+[18/03/05 14:16:30][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class= 'cat_date_filter cat_right_border col-xs-4']/select
+[18/03/05 14:16:31][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class ='cat_date_filter cat_right_border col-xs-4']/select/option
+[18/03/05 14:16:33][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-134] Click on the element find By.xpath: //td/i[1][contains(@class, 'material-icons')] by javascript
+[18/03/05 14:16:34][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //button[@class = 'btn btn-success']
+[18/03/05 14:16:44][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class = 'col-xs-4 cat_right_border']/select
+[18/03/05 14:16:44][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class = 'col-xs-4 cat_right_border']/select/option
+[18/03/05 14:16:47][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class = 'col-xs-4 cat_right_border']/select
+[18/03/05 14:16:47][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class = 'col-xs-4 cat_right_border']/select/option
+[18/03/05 14:20:35][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-65] 20180305142035
+[18/03/05 14:20:35][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-67] Delete screen shots generated 2 days ago.
+[18/03/05 14:20:40][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-dev.cat.com/'
+[18/03/05 14:21:30][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //input[@id='submitButton']
+[18/03/05 14:21:33][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //span[@class='manage_form']
+[18/03/05 14:21:36][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class='col-xs-6 cat_right_border']//select[contains(@class,'cat_status_select')]
+[18/03/05 14:21:36][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class='col-xs-6 cat_right_border']/select/option
+[18/03/05 14:21:36][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class='col-xs-6']//select[contains(@class,'cat_status_select')]
+[18/03/05 14:21:39][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/03/05 14:21:39][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //span[@class='glyphicon glyphicon-search']
+[18/03/05 14:21:44][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1488] [1212121, 20171101 Test Edit Inspection, 201711010001 upload a PDF file, the PDF file can be viewed again,the download icon is shown., 232343, Articulated Truck (Внешний о??мотр грузового автомобил?? ?? шарнирно) TA1 (Russi, Articulated Truck (铰接式卡车外观检查) TA1 (Chinese), Articulated Truck TA1, Articulated Truck TA1, Articulated Truck TA1 (Portuguese), Articulated Truck TA1 (Spanish), Articulated Trucks: Safety & Maintenance, Big form 05/03 imtiaz, cat used demo, Clone of form 6/17 pub, CX38 Assembly - Sub Modules v1.0, CX38 Assembly - Transmission & Sub Modules Combined v1.0, CX38 Disassembly - Clutch 2, CX38 Disassembly - Sub-Modules v0.1, CX38 Disassembly - Sub-Modules v0.2, CX38 Disassembly - Transmission, CX38 Disassembly - Transmission & Sub Modules Combined v1.0, CX38 Disassembly - Transmission v0.1, CX38 Disassembly - Transmission v0.1, CX38 Disassembly - Transmission v0.1, CX38 Transmission Rebuild Checklist, CX38 Transmission Test Procedures, Form 05/30, form 6/17, form 6/17, form 6/17 pub, Form for QA testing 06/28, form test dealer author, Form to test deletion of category 5/7 UAT, fskajfl, GMD-PPG-Articulated Truck TA1 w/ Performance Inspection, Image GDCH, Image GDCT, imtiaz UAT 05/03, jdfsdklafjakl, JoshConExpotest02, new form 7/1, PDF GDCH, PDI Articulated Truck Inspection, PSSR Inspection - AT, Regression testing 05/16, rekha form 6/17 publisher, sfsdfsf, test, test, test, Test, test, TEST - Family Change 1011, Test 123, TEST FOR CSE, Test for dealer, Test Form, test form123, Test01, TEST123, TestgeneralComments, Testing Chrome, UAT testing 0 of 0 5/7/2013, Underground Articulated Truck TA1, Underground Articulated Truck TA1, zaxasxsd, 我们的表单创建]The original array list
+[18/03/05 14:21:44][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1504] [1212121, 20171101 Test Edit Inspection, 201711010001 upload a PDF file, the PDF file can be viewed again,the download icon is shown., 232343, Articulated Truck (Внешний о??мотр грузового автомобил?? ?? шарнирно) TA1 (Russi, Articulated Truck (铰接式卡车外观检查) TA1 (Chinese), Articulated Truck TA1, Articulated Truck TA1, Articulated Truck TA1 (Portuguese), Articulated Truck TA1 (Spanish), Articulated Trucks: Safety & Maintenance, Big form 05/03 imtiaz, cat used demo, Clone of form 6/17 pub, CX38 Assembly - Sub Modules v1.0, CX38 Assembly - Transmission & Sub Modules Combined v1.0, CX38 Disassembly - Clutch 2, CX38 Disassembly - Sub-Modules v0.1, CX38 Disassembly - Sub-Modules v0.2, CX38 Disassembly - Transmission, CX38 Disassembly - Transmission & Sub Modules Combined v1.0, CX38 Disassembly - Transmission v0.1, CX38 Disassembly - Transmission v0.1, CX38 Disassembly - Transmission v0.1, CX38 Transmission Rebuild Checklist, CX38 Transmission Test Procedures, Form 05/30, form 6/17, form 6/17, form 6/17 pub, Form for QA testing 06/28, form test dealer author, Form to test deletion of category 5/7 UAT, fskajfl, GMD-PPG-Articulated Truck TA1 w/ Performance Inspection, Image GDCH, Image GDCT, imtiaz UAT 05/03, jdfsdklafjakl, JoshConExpotest02, new form 7/1, PDF GDCH, PDI Articulated Truck Inspection, PSSR Inspection - AT, Regression testing 05/16, rekha form 6/17 publisher, sfsdfsf, test, test, test, Test, test, TEST - Family Change 1011, Test 123, TEST FOR CSE, Test for dealer, Test Form, test form123, Test01, TEST123, TestgeneralComments, Testing Chrome, UAT testing 0 of 0 5/7/2013, Underground Articulated Truck TA1, Underground Articulated Truck TA1, zaxasxsd, 我们的表单创建]The alphabetical order array list after sort
+[18/03/05 14:21:44][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //th[@sort-by]
+[18/03/05 14:21:47][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1488] [我们的表单创建, zaxasxsd, Underground Articulated Truck TA1, Underground Articulated Truck TA1, UAT testing 0 of 0 5/7/2013, Testing Chrome, TestgeneralComments, TEST123, Test01, test form123, Test Form, Test for dealer, TEST FOR CSE, Test 123, TEST - Family Change 1011, test, test, test, test, Test, sfsdfsf, rekha form 6/17 publisher, Regression testing 05/16, PSSR Inspection - AT, PDI Articulated Truck Inspection, PDF GDCH, new form 7/1, JoshConExpotest02, jdfsdklafjakl, imtiaz UAT 05/03, Image GDCT, Image GDCH, GMD-PPG-Articulated Truck TA1 w/ Performance Inspection, fskajfl, Form to test deletion of category 5/7 UAT, form test dealer author, Form for QA testing 06/28, form 6/17 pub, form 6/17, form 6/17, Form 05/30, CX38 Transmission Test Procedures, CX38 Transmission Rebuild Checklist, CX38 Disassembly - Transmission v0.1, CX38 Disassembly - Transmission v0.1, CX38 Disassembly - Transmission v0.1, CX38 Disassembly - Transmission & Sub Modules Combined v1.0, CX38 Disassembly - Transmission, CX38 Disassembly - Sub-Modules v0.2, CX38 Disassembly - Sub-Modules v0.1, CX38 Disassembly - Clutch 2, CX38 Assembly - Transmission & Sub Modules Combined v1.0, CX38 Assembly - Sub Modules v1.0, Clone of form 6/17 pub, cat used demo, Big form 05/03 imtiaz, Articulated Trucks: Safety & Maintenance, Articulated Truck TA1 (Spanish), Articulated Truck TA1 (Portuguese), Articulated Truck TA1, Articulated Truck TA1, Articulated Truck (铰接式卡车外观检查) TA1 (Chinese), Articulated Truck (Внешний о??мотр грузового автомобил?? ?? шарнирно) TA1 (Russi, 232343, 201711010001 upload a PDF file, the PDF file can be viewed again,the download icon is shown., 20171101 Test Edit Inspection, 1212121]The original array list
+[18/03/05 14:21:47][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1504] [我们的表单创建, zaxasxsd, Underground Articulated Truck TA1, Underground Articulated Truck TA1, UAT testing 0 of 0 5/7/2013, Testing Chrome, TestgeneralComments, TEST123, Test01, test form123, Test Form, Test for dealer, TEST FOR CSE, Test 123, TEST - Family Change 1011, test, test, test, test, Test, sfsdfsf, rekha form 6/17 publisher, Regression testing 05/16, PSSR Inspection - AT, PDI Articulated Truck Inspection, PDF GDCH, new form 7/1, JoshConExpotest02, jdfsdklafjakl, imtiaz UAT 05/03, Image GDCT, Image GDCH, GMD-PPG-Articulated Truck TA1 w/ Performance Inspection, fskajfl, Form to test deletion of category 5/7 UAT, form test dealer author, Form for QA testing 06/28, form 6/17 pub, form 6/17, form 6/17, Form 05/30, CX38 Transmission Test Procedures, CX38 Transmission Rebuild Checklist, CX38 Disassembly - Transmission v0.1, CX38 Disassembly - Transmission v0.1, CX38 Disassembly - Transmission v0.1, CX38 Disassembly - Transmission & Sub Modules Combined v1.0, CX38 Disassembly - Transmission, CX38 Disassembly - Sub-Modules v0.2, CX38 Disassembly - Sub-Modules v0.1, CX38 Disassembly - Clutch 2, CX38 Assembly - Transmission & Sub Modules Combined v1.0, CX38 Assembly - Sub Modules v1.0, Clone of form 6/17 pub, cat used demo, Big form 05/03 imtiaz, Articulated Trucks: Safety & Maintenance, Articulated Truck TA1 (Spanish), Articulated Truck TA1 (Portuguese), Articulated Truck TA1, Articulated Truck TA1, Articulated Truck (铰接式卡车外观检查) TA1 (Chinese), Articulated Truck (Внешний о??мотр грузового автомобил?? ?? шарнирно) TA1 (Russi, 232343, 201711010001 upload a PDF file, the PDF file can be viewed again,the download icon is shown., 20171101 Test Edit Inspection, 1212121]The alphabetical order array list after sort
+[18/03/05 14:21:47][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //th[@sort-by]
+[18/03/05 14:21:50][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1488] [SSP, RAG, POS, JPA, IMT, EAT, dug, dug, BZY, BZY, BXY, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ]The original array list
+[18/03/05 14:21:50][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1504] [SSP, RAG, POS, JPA, IMT, EAT, dug, dug, BZY, BZY, BXY, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ]The alphabetical order array list after sort
+[18/03/05 14:21:50][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //th[@sort-by]
+[18/03/05 14:21:53][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1488] [, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , BXY, BZY, BZY, dug, dug, EAT, IMT, JPA, POS, RAG, SSP]The original array list
+[18/03/05 14:21:53][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1504] [, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , BXY, BZY, BZY, dug, dug, EAT, IMT, JPA, POS, RAG, SSP]The alphabetical order array list after sort
+[18/03/05 14:21:53][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //th[@sort-by]
+[18/03/05 14:21:56][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1488] [Validation, Validation, TA1, TA1, TA1, TA1, TA1, TA1, TA1, TA1, TA1, TA1, TA1, PSSR, PSSR, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PDI, PDI, PDI, Hydraulics, GET, Dealer Process, Daily, Daily, Daily, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR]The original array list
+[18/03/05 14:21:56][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1504] [Validation, Validation, TA1, TA1, TA1, TA1, TA1, TA1, TA1, TA1, TA1, TA1, TA1, PSSR, PSSR, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PDI, PDI, PDI, Hydraulics, GET, Dealer Process, Daily, Daily, Daily, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR]The alphabetical order array list after sort
+[18/03/05 14:21:56][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //th[@sort-by]
+[18/03/05 14:21:58][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1488] [CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Daily, Daily, Daily, Dealer Process, GET, Hydraulics, PDI, PDI, PDI, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PSSR, PSSR, TA1, TA1, TA1, TA1, TA1, TA1, TA1, TA1, TA1, TA1, TA1, Validation, Validation]The original array list
+[18/03/05 14:21:58][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1504] [CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Daily, Daily, Daily, Dealer Process, GET, Hydraulics, PDI, PDI, PDI, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PSSR, PSSR, TA1, TA1, TA1, TA1, TA1, TA1, TA1, TA1, TA1, TA1, TA1, Validation, Validation]The alphabetical order array list after sort
+[18/03/05 14:21:59][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //th[@sort-by]
+[18/03/05 14:22:01][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1488] [Serena C Cook, Sean M Watts, Sami Sarraf, Sami Sarraf, Sami Sarraf, Sami Sarraf, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Robert Whayne Spear, Robert G Bullock, Muthushankar Raghunathan, Matthew Feng, Matthew Feng, Matthew Feng, Matthew Feng, Matthew Feng, Matt Rosenberg, Leandro Medrano, Joey Pickett, Jarod Skocaj, Jarod Skocaj, Indira Kondapaneni, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Douglas Siemer, Curtis Tyler Albertsen, Christal Zhang, Christal Zhang, Christal Zhang, , , , , , , , , , , , , , , , , , , , , , , , , ]The original array list
+[18/03/05 14:22:01][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1504] [Serena C Cook, Sean M Watts, Sami Sarraf, Sami Sarraf, Sami Sarraf, Sami Sarraf, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Robert Whayne Spear, Robert G Bullock, Muthushankar Raghunathan, Matthew Feng, Matthew Feng, Matthew Feng, Matthew Feng, Matthew Feng, Matt Rosenberg, Leandro Medrano, Joey Pickett, Jarod Skocaj, Jarod Skocaj, Indira Kondapaneni, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Douglas Siemer, Curtis Tyler Albertsen, Christal Zhang, Christal Zhang, Christal Zhang, , , , , , , , , , , , , , , , , , , , , , , , , ]The alphabetical order array list after sort
+[18/03/05 14:22:01][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //th[@sort-by]
+[18/03/05 14:22:04][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1488] [, , , , , , , , , , , , , , , , , , , , , , , , , Christal Zhang, Christal Zhang, Christal Zhang, Curtis Tyler Albertsen, Douglas Siemer, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Indira Kondapaneni, Jarod Skocaj, Jarod Skocaj, Joey Pickett, Leandro Medrano, Matt Rosenberg, Matthew Feng, Matthew Feng, Matthew Feng, Matthew Feng, Matthew Feng, Muthushankar Raghunathan, Robert G Bullock, Robert Whayne Spear, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Sami Sarraf, Sami Sarraf, Sami Sarraf, Sami Sarraf, Sean M Watts, Serena C Cook]The original array list
+[18/03/05 14:22:04][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1504] [, , , , , , , , , , , , , , , , , , , , , , , , , Christal Zhang, Christal Zhang, Christal Zhang, Curtis Tyler Albertsen, Douglas Siemer, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Indira Kondapaneni, Jarod Skocaj, Jarod Skocaj, Joey Pickett, Leandro Medrano, Matt Rosenberg, Matthew Feng, Matthew Feng, Matthew Feng, Matthew Feng, Matthew Feng, Muthushankar Raghunathan, Robert G Bullock, Robert Whayne Spear, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Sami Sarraf, Sami Sarraf, Sami Sarraf, Sami Sarraf, Sean M Watts, Serena C Cook]The alphabetical order array list after sort
+[18/03/05 14:22:04][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //th[@sort-by]
+[18/03/05 14:22:10][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //th[@sort-by]
+[18/03/05 14:22:16][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //th[@sort-by]
+[18/03/05 14:22:20][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //th[@sort-by]
+[18/03/05 14:22:23][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class='col-xs-6 cat_right_border']//select[contains(@class,'cat_status_select')]
+[18/03/05 14:22:23][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class='col-xs-6 cat_right_border']/select/option
+[18/03/05 14:22:27][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-75] Element is still not found By.xpath: //div[@class='col-xs-6 cat_right_border']/select/option
+[18/03/05 14:22:27][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-428] .\errorImages\20180305142227.png
+[18/03/05 14:22:27][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 0 is: java.lang.Thread.getStackTrace(Unknown Source)
+[18/03/05 14:22:27][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 0 stack trace is: -1
+[18/03/05 14:22:27][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 1 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.logStackTraceInfo(CustomAssertion.java:451)
+[18/03/05 14:22:27][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 1 stack trace is: 452
+[18/03/05 14:22:27][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 2 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.printError(CustomAssertion.java:429)
+[18/03/05 14:22:27][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 2 stack trace is: 429
+[18/03/05 14:22:27][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 3 is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.afterMethod(TestCaseBase.java:210)
+[18/03/05 14:22:27][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 3 stack trace is: 210
+[18/03/05 14:22:27][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 4 is: sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[18/03/05 14:22:27][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 4 stack trace is: -2
+[18/03/05 14:22:27][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 5 is: sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[18/03/05 14:22:27][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 5 stack trace is: -1
+[18/03/05 14:22:27][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 6 is: sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[18/03/05 14:22:27][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 6 stack trace is: -1
+[18/03/05 14:22:27][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-455] StackTrace for Assert is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.afterMethod(TestCaseBase.java:210)
+[18/03/05 14:22:27][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-456] Assert LineNumber is: 210
+[18/03/05 14:23:03][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-65] 20180305142303
+[18/03/05 14:23:03][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-67] Delete screen shots generated 2 days ago.
+[18/03/05 14:23:08][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-dev.cat.com/'
+[18/03/05 14:28:09][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-428] .\errorImages\20180305142809.png
+[18/03/05 14:28:09][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 0 is: java.lang.Thread.getStackTrace(Unknown Source)
+[18/03/05 14:28:09][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 0 stack trace is: -1
+[18/03/05 14:28:09][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 1 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.logStackTraceInfo(CustomAssertion.java:451)
+[18/03/05 14:28:09][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 1 stack trace is: 452
+[18/03/05 14:28:09][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 2 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.printError(CustomAssertion.java:429)
+[18/03/05 14:28:09][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 2 stack trace is: 429
+[18/03/05 14:28:09][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 3 is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.afterMethod(TestCaseBase.java:210)
+[18/03/05 14:28:09][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 3 stack trace is: 210
+[18/03/05 14:28:09][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 4 is: sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[18/03/05 14:28:09][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 4 stack trace is: -2
+[18/03/05 14:28:09][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 5 is: sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[18/03/05 14:28:09][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 5 stack trace is: -1
+[18/03/05 14:28:09][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 6 is: sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[18/03/05 14:28:09][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 6 stack trace is: -1
+[18/03/05 14:28:09][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-455] StackTrace for Assert is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.afterMethod(TestCaseBase.java:210)
+[18/03/05 14:28:09][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-456] Assert LineNumber is: 210
+[18/03/05 14:53:41][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-65] 20180305145341
+[18/03/05 14:53:41][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-67] Delete screen shots generated 2 days ago.
+[18/03/05 14:53:48][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-dev.cat.com/'
+[18/03/05 14:58:49][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-428] .\errorImages\20180305145849.png
+[18/03/05 14:58:49][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 0 is: java.lang.Thread.getStackTrace(Unknown Source)
+[18/03/05 14:58:49][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 0 stack trace is: -1
+[18/03/05 14:58:49][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 1 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.logStackTraceInfo(CustomAssertion.java:451)
+[18/03/05 14:58:49][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 1 stack trace is: 452
+[18/03/05 14:58:49][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 2 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.printError(CustomAssertion.java:429)
+[18/03/05 14:58:49][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 2 stack trace is: 429
+[18/03/05 14:58:49][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 3 is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.afterMethod(TestCaseBase.java:210)
+[18/03/05 14:58:49][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 3 stack trace is: 210
+[18/03/05 14:58:49][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 4 is: sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[18/03/05 14:58:49][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 4 stack trace is: -2
+[18/03/05 14:58:49][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 5 is: sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[18/03/05 14:58:49][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 5 stack trace is: -1
+[18/03/05 14:58:49][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 6 is: sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[18/03/05 14:58:49][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 6 stack trace is: -1
+[18/03/05 14:58:49][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-455] StackTrace for Assert is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.afterMethod(TestCaseBase.java:210)
+[18/03/05 14:58:49][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-456] Assert LineNumber is: 210
+[18/03/05 15:15:44][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-65] 20180305151544
+[18/03/05 15:15:44][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-67] Delete screen shots generated 2 days ago.
+[18/03/05 15:15:53][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-dev.cat.com/'
+[18/03/05 15:17:06][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //input[@id='submitButton']
+[18/03/05 15:17:09][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-75] Element is still not found By.xpath: //input[@id='submitButton']
+[18/03/05 15:17:12][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //span[@class='manage_form']
+[18/03/05 15:17:16][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class='col-xs-6 cat_right_border']//select[contains(@class,'cat_status_select')]
+[18/03/05 15:17:16][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class='col-xs-6 cat_right_border']/select/option
+[18/03/05 15:17:16][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class='col-xs-6']//select[contains(@class,'cat_status_select')]
+[18/03/05 15:17:18][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/03/05 15:17:18][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //span[@class='glyphicon glyphicon-search']
+[18/03/05 15:17:24][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1488] [1212121, 20171101 Test Edit Inspection, 201711010001 upload a PDF file, the PDF file can be viewed again,the download icon is shown., 232343, Articulated Truck (Внешний о??мотр грузового автомобил?? ?? шарнирно) TA1 (Russi, Articulated Truck (铰接式卡车外观检查) TA1 (Chinese), Articulated Truck TA1, Articulated Truck TA1, Articulated Truck TA1 (Portuguese), Articulated Truck TA1 (Spanish), Articulated Trucks: Safety & Maintenance, Big form 05/03 imtiaz, cat used demo, Clone of form 6/17 pub, CX38 Assembly - Sub Modules v1.0, CX38 Assembly - Transmission & Sub Modules Combined v1.0, CX38 Disassembly - Clutch 2, CX38 Disassembly - Sub-Modules v0.1, CX38 Disassembly - Sub-Modules v0.2, CX38 Disassembly - Transmission, CX38 Disassembly - Transmission & Sub Modules Combined v1.0, CX38 Disassembly - Transmission v0.1, CX38 Disassembly - Transmission v0.1, CX38 Disassembly - Transmission v0.1, CX38 Transmission Rebuild Checklist, CX38 Transmission Test Procedures, Form 05/30, form 6/17, form 6/17, form 6/17 pub, Form for QA testing 06/28, form test dealer author, Form to test deletion of category 5/7 UAT, fskajfl, GMD-PPG-Articulated Truck TA1 w/ Performance Inspection, Image GDCH, Image GDCT, imtiaz UAT 05/03, jdfsdklafjakl, JoshConExpotest02, new form 7/1, PDF GDCH, PDI Articulated Truck Inspection, PSSR Inspection - AT, Regression testing 05/16, rekha form 6/17 publisher, sfsdfsf, test, test, test, Test, test, TEST - Family Change 1011, Test 123, TEST FOR CSE, Test for dealer, Test Form, test form123, Test01, TEST123, TestgeneralComments, Testing Chrome, UAT testing 0 of 0 5/7/2013, Underground Articulated Truck TA1, Underground Articulated Truck TA1, zaxasxsd, 我们的表单创建]The original array list
+[18/03/05 15:17:24][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1504] [1212121, 20171101 Test Edit Inspection, 201711010001 upload a PDF file, the PDF file can be viewed again,the download icon is shown., 232343, Articulated Truck (Внешний о??мотр грузового автомобил?? ?? шарнирно) TA1 (Russi, Articulated Truck (铰接式卡车外观检查) TA1 (Chinese), Articulated Truck TA1, Articulated Truck TA1, Articulated Truck TA1 (Portuguese), Articulated Truck TA1 (Spanish), Articulated Trucks: Safety & Maintenance, Big form 05/03 imtiaz, cat used demo, Clone of form 6/17 pub, CX38 Assembly - Sub Modules v1.0, CX38 Assembly - Transmission & Sub Modules Combined v1.0, CX38 Disassembly - Clutch 2, CX38 Disassembly - Sub-Modules v0.1, CX38 Disassembly - Sub-Modules v0.2, CX38 Disassembly - Transmission, CX38 Disassembly - Transmission & Sub Modules Combined v1.0, CX38 Disassembly - Transmission v0.1, CX38 Disassembly - Transmission v0.1, CX38 Disassembly - Transmission v0.1, CX38 Transmission Rebuild Checklist, CX38 Transmission Test Procedures, Form 05/30, form 6/17, form 6/17, form 6/17 pub, Form for QA testing 06/28, form test dealer author, Form to test deletion of category 5/7 UAT, fskajfl, GMD-PPG-Articulated Truck TA1 w/ Performance Inspection, Image GDCH, Image GDCT, imtiaz UAT 05/03, jdfsdklafjakl, JoshConExpotest02, new form 7/1, PDF GDCH, PDI Articulated Truck Inspection, PSSR Inspection - AT, Regression testing 05/16, rekha form 6/17 publisher, sfsdfsf, test, test, test, Test, test, TEST - Family Change 1011, Test 123, TEST FOR CSE, Test for dealer, Test Form, test form123, Test01, TEST123, TestgeneralComments, Testing Chrome, UAT testing 0 of 0 5/7/2013, Underground Articulated Truck TA1, Underground Articulated Truck TA1, zaxasxsd, 我们的表单创建]The alphabetical order array list after sort
+[18/03/05 15:17:25][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //th[@sort-by]
+[18/03/05 15:17:28][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1488] [我们的表单创建, zaxasxsd, Underground Articulated Truck TA1, Underground Articulated Truck TA1, UAT testing 0 of 0 5/7/2013, Testing Chrome, TestgeneralComments, TEST123, Test01, test form123, Test Form, Test for dealer, TEST FOR CSE, Test 123, TEST - Family Change 1011, test, test, test, test, Test, sfsdfsf, rekha form 6/17 publisher, Regression testing 05/16, PSSR Inspection - AT, PDI Articulated Truck Inspection, PDF GDCH, new form 7/1, JoshConExpotest02, jdfsdklafjakl, imtiaz UAT 05/03, Image GDCT, Image GDCH, GMD-PPG-Articulated Truck TA1 w/ Performance Inspection, fskajfl, Form to test deletion of category 5/7 UAT, form test dealer author, Form for QA testing 06/28, form 6/17 pub, form 6/17, form 6/17, Form 05/30, CX38 Transmission Test Procedures, CX38 Transmission Rebuild Checklist, CX38 Disassembly - Transmission v0.1, CX38 Disassembly - Transmission v0.1, CX38 Disassembly - Transmission v0.1, CX38 Disassembly - Transmission & Sub Modules Combined v1.0, CX38 Disassembly - Transmission, CX38 Disassembly - Sub-Modules v0.2, CX38 Disassembly - Sub-Modules v0.1, CX38 Disassembly - Clutch 2, CX38 Assembly - Transmission & Sub Modules Combined v1.0, CX38 Assembly - Sub Modules v1.0, Clone of form 6/17 pub, cat used demo, Big form 05/03 imtiaz, Articulated Trucks: Safety & Maintenance, Articulated Truck TA1 (Spanish), Articulated Truck TA1 (Portuguese), Articulated Truck TA1, Articulated Truck TA1, Articulated Truck (铰接式卡车外观检查) TA1 (Chinese), Articulated Truck (Внешний о??мотр грузового автомобил?? ?? шарнирно) TA1 (Russi, 232343, 201711010001 upload a PDF file, the PDF file can be viewed again,the download icon is shown., 20171101 Test Edit Inspection, 1212121]The original array list
+[18/03/05 15:17:28][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1504] [我们的表单创建, zaxasxsd, Underground Articulated Truck TA1, Underground Articulated Truck TA1, UAT testing 0 of 0 5/7/2013, Testing Chrome, TestgeneralComments, TEST123, Test01, test form123, Test Form, Test for dealer, TEST FOR CSE, Test 123, TEST - Family Change 1011, test, test, test, test, Test, sfsdfsf, rekha form 6/17 publisher, Regression testing 05/16, PSSR Inspection - AT, PDI Articulated Truck Inspection, PDF GDCH, new form 7/1, JoshConExpotest02, jdfsdklafjakl, imtiaz UAT 05/03, Image GDCT, Image GDCH, GMD-PPG-Articulated Truck TA1 w/ Performance Inspection, fskajfl, Form to test deletion of category 5/7 UAT, form test dealer author, Form for QA testing 06/28, form 6/17 pub, form 6/17, form 6/17, Form 05/30, CX38 Transmission Test Procedures, CX38 Transmission Rebuild Checklist, CX38 Disassembly - Transmission v0.1, CX38 Disassembly - Transmission v0.1, CX38 Disassembly - Transmission v0.1, CX38 Disassembly - Transmission & Sub Modules Combined v1.0, CX38 Disassembly - Transmission, CX38 Disassembly - Sub-Modules v0.2, CX38 Disassembly - Sub-Modules v0.1, CX38 Disassembly - Clutch 2, CX38 Assembly - Transmission & Sub Modules Combined v1.0, CX38 Assembly - Sub Modules v1.0, Clone of form 6/17 pub, cat used demo, Big form 05/03 imtiaz, Articulated Trucks: Safety & Maintenance, Articulated Truck TA1 (Spanish), Articulated Truck TA1 (Portuguese), Articulated Truck TA1, Articulated Truck TA1, Articulated Truck (铰接式卡车外观检查) TA1 (Chinese), Articulated Truck (Внешний о??мотр грузового автомобил?? ?? шарнирно) TA1 (Russi, 232343, 201711010001 upload a PDF file, the PDF file can be viewed again,the download icon is shown., 20171101 Test Edit Inspection, 1212121]The alphabetical order array list after sort
+[18/03/05 15:17:28][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //th[@sort-by]
+[18/03/05 15:17:31][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1488] [SSP, RAG, POS, JPA, IMT, EAT, dug, dug, BZY, BZY, BXY, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ]The original array list
+[18/03/05 15:17:31][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1504] [SSP, RAG, POS, JPA, IMT, EAT, dug, dug, BZY, BZY, BXY, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ]The alphabetical order array list after sort
+[18/03/05 15:17:31][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //th[@sort-by]
+[18/03/05 15:17:34][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1488] [, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , BXY, BZY, BZY, dug, dug, EAT, IMT, JPA, POS, RAG, SSP]The original array list
+[18/03/05 15:17:34][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1504] [, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , BXY, BZY, BZY, dug, dug, EAT, IMT, JPA, POS, RAG, SSP]The alphabetical order array list after sort
+[18/03/05 15:17:34][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //th[@sort-by]
+[18/03/05 15:17:37][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1488] [Validation, Validation, TA1, TA1, TA1, TA1, TA1, TA1, TA1, TA1, TA1, TA1, TA1, PSSR, PSSR, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PDI, PDI, PDI, Hydraulics, GET, Dealer Process, Daily, Daily, Daily, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR]The original array list
+[18/03/05 15:17:37][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1504] [Validation, Validation, TA1, TA1, TA1, TA1, TA1, TA1, TA1, TA1, TA1, TA1, TA1, PSSR, PSSR, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PDI, PDI, PDI, Hydraulics, GET, Dealer Process, Daily, Daily, Daily, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR]The alphabetical order array list after sort
+[18/03/05 15:17:37][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //th[@sort-by]
+[18/03/05 15:17:40][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1488] [CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Daily, Daily, Daily, Dealer Process, GET, Hydraulics, PDI, PDI, PDI, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PSSR, PSSR, TA1, TA1, TA1, TA1, TA1, TA1, TA1, TA1, TA1, TA1, TA1, Validation, Validation]The original array list
+[18/03/05 15:17:40][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1504] [CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Daily, Daily, Daily, Dealer Process, GET, Hydraulics, PDI, PDI, PDI, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PSSR, PSSR, TA1, TA1, TA1, TA1, TA1, TA1, TA1, TA1, TA1, TA1, TA1, Validation, Validation]The alphabetical order array list after sort
+[18/03/05 15:17:40][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //th[@sort-by]
+[18/03/05 15:17:43][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1488] [Serena C Cook, Sean M Watts, Sami Sarraf, Sami Sarraf, Sami Sarraf, Sami Sarraf, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Robert Whayne Spear, Robert G Bullock, Muthushankar Raghunathan, Matthew Feng, Matthew Feng, Matthew Feng, Matthew Feng, Matthew Feng, Matt Rosenberg, Leandro Medrano, Joey Pickett, Jarod Skocaj, Jarod Skocaj, Indira Kondapaneni, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Douglas Siemer, Curtis Tyler Albertsen, Christal Zhang, Christal Zhang, Christal Zhang, , , , , , , , , , , , , , , , , , , , , , , , , ]The original array list
+[18/03/05 15:17:43][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1504] [Serena C Cook, Sean M Watts, Sami Sarraf, Sami Sarraf, Sami Sarraf, Sami Sarraf, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Robert Whayne Spear, Robert G Bullock, Muthushankar Raghunathan, Matthew Feng, Matthew Feng, Matthew Feng, Matthew Feng, Matthew Feng, Matt Rosenberg, Leandro Medrano, Joey Pickett, Jarod Skocaj, Jarod Skocaj, Indira Kondapaneni, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Douglas Siemer, Curtis Tyler Albertsen, Christal Zhang, Christal Zhang, Christal Zhang, , , , , , , , , , , , , , , , , , , , , , , , , ]The alphabetical order array list after sort
+[18/03/05 15:17:43][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //th[@sort-by]
+[18/03/05 15:17:46][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1488] [, , , , , , , , , , , , , , , , , , , , , , , , , Christal Zhang, Christal Zhang, Christal Zhang, Curtis Tyler Albertsen, Douglas Siemer, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Indira Kondapaneni, Jarod Skocaj, Jarod Skocaj, Joey Pickett, Leandro Medrano, Matt Rosenberg, Matthew Feng, Matthew Feng, Matthew Feng, Matthew Feng, Matthew Feng, Muthushankar Raghunathan, Robert G Bullock, Robert Whayne Spear, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Sami Sarraf, Sami Sarraf, Sami Sarraf, Sami Sarraf, Sean M Watts, Serena C Cook]The original array list
+[18/03/05 15:17:46][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1504] [, , , , , , , , , , , , , , , , , , , , , , , , , Christal Zhang, Christal Zhang, Christal Zhang, Curtis Tyler Albertsen, Douglas Siemer, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Indira Kondapaneni, Jarod Skocaj, Jarod Skocaj, Joey Pickett, Leandro Medrano, Matt Rosenberg, Matthew Feng, Matthew Feng, Matthew Feng, Matthew Feng, Matthew Feng, Muthushankar Raghunathan, Robert G Bullock, Robert Whayne Spear, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Sami Sarraf, Sami Sarraf, Sami Sarraf, Sami Sarraf, Sean M Watts, Serena C Cook]The alphabetical order array list after sort
+[18/03/05 15:17:46][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //th[@sort-by]
+[18/03/05 15:17:52][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //th[@sort-by]
+[18/03/05 15:17:58][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //th[@sort-by]
+[18/03/05 15:18:02][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //th[@sort-by]
+[18/03/05 15:18:06][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class='col-xs-6 cat_right_border']//select[contains(@class,'cat_status_select')]
+[18/03/05 15:18:06][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class='col-xs-6 cat_right_border']/select/option
+[18/03/05 15:18:07][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //span[@class='glyphicon glyphicon-search']
+[18/03/05 15:18:09][ERROR][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-77] WebDriver error:
+org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=62.0.3202.89)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'H2600-0463L', ip: '10.2.7.26', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.33.506120 (e3e53437346286..., userDataDir: C:\Users\herby.he\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 62.0.3202.89, webStorageEnabled: true}
+Session ID: b12032481e0c21b6c13082481d6e3f7e
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:279)
+	at org.openqa.selenium.remote.RemoteWebElement.getText(RemoteWebElement.java:160)
+	at sun.reflect.GeneratedMethodAccessor7.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement$1.invoke(EventFiringWebDriver.java:376)
+	at com.sun.proxy.$Proxy17.getText(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.getText(EventFiringWebDriver.java:426)
+	at com.perficient.test.cat.catinspectweb.util.FunctionUtil.verifyOrderCorrectly(FunctionUtil.java:1484)
+	at com.perficient.test.cat.catinspectweb.testcase.ManageForm.TC2935_CheckSortingFunctionInManageFormPage.verify_TC2935_CheckSortingFunctionInManageFormPage(TC2935_CheckSortingFunctionInManageFormPage.java:78)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:254)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+[18/03/05 15:18:09][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-428] .\errorImages\20180305151809.png
+[18/03/05 15:18:09][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 0 is: java.lang.Thread.getStackTrace(Unknown Source)
+[18/03/05 15:18:09][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 0 stack trace is: -1
+[18/03/05 15:18:09][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 1 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.logStackTraceInfo(CustomAssertion.java:451)
+[18/03/05 15:18:09][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 1 stack trace is: 452
+[18/03/05 15:18:09][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 2 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.printError(CustomAssertion.java:429)
+[18/03/05 15:18:09][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 2 stack trace is: 429
+[18/03/05 15:18:09][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 3 is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.afterMethod(TestCaseBase.java:210)
+[18/03/05 15:18:09][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 3 stack trace is: 210
+[18/03/05 15:18:09][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 4 is: sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[18/03/05 15:18:09][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 4 stack trace is: -2
+[18/03/05 15:18:09][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 5 is: sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[18/03/05 15:18:09][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 5 stack trace is: -1
+[18/03/05 15:18:09][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 6 is: sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[18/03/05 15:18:09][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 6 stack trace is: -1
+[18/03/05 15:18:09][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-455] StackTrace for Assert is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.afterMethod(TestCaseBase.java:210)
+[18/03/05 15:18:09][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-456] Assert LineNumber is: 210
+[18/03/05 15:26:36][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-65] 20180305152636
+[18/03/05 15:26:36][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-67] Delete screen shots generated 2 days ago.
+[18/03/05 15:26:41][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-dev.cat.com/'
+[18/03/05 15:31:42][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-428] .\errorImages\20180305153142.png
+[18/03/05 15:31:42][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 0 is: java.lang.Thread.getStackTrace(Unknown Source)
+[18/03/05 15:31:42][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 0 stack trace is: -1
+[18/03/05 15:31:42][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 1 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.logStackTraceInfo(CustomAssertion.java:451)
+[18/03/05 15:31:42][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 1 stack trace is: 452
+[18/03/05 15:31:42][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 2 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.printError(CustomAssertion.java:429)
+[18/03/05 15:31:42][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 2 stack trace is: 429
+[18/03/05 15:31:42][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 3 is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.afterMethod(TestCaseBase.java:210)
+[18/03/05 15:31:42][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 3 stack trace is: 210
+[18/03/05 15:31:42][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 4 is: sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[18/03/05 15:31:42][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 4 stack trace is: -2
+[18/03/05 15:31:42][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 5 is: sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[18/03/05 15:31:42][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 5 stack trace is: -1
+[18/03/05 15:31:42][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 6 is: sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[18/03/05 15:31:42][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 6 stack trace is: -1
+[18/03/05 15:31:42][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-455] StackTrace for Assert is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.afterMethod(TestCaseBase.java:210)
+[18/03/05 15:31:42][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-456] Assert LineNumber is: 210
+[18/03/05 15:32:21][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-65] 20180305153221
+[18/03/05 15:32:21][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-67] Delete screen shots generated 2 days ago.
+[18/03/05 15:32:26][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-dev.cat.com/'
+[18/03/05 15:33:28][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-75] Element is still not found null
+[18/03/05 15:33:29][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-428] .\errorImages\20180305153329.png
+[18/03/05 15:33:29][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 0 is: java.lang.Thread.getStackTrace(Unknown Source)
+[18/03/05 15:33:29][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 0 stack trace is: -1
+[18/03/05 15:33:29][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 1 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.logStackTraceInfo(CustomAssertion.java:451)
+[18/03/05 15:33:29][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 1 stack trace is: 452
+[18/03/05 15:33:29][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 2 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.printError(CustomAssertion.java:429)
+[18/03/05 15:33:29][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 2 stack trace is: 429
+[18/03/05 15:33:29][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 3 is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.afterMethod(TestCaseBase.java:210)
+[18/03/05 15:33:29][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 3 stack trace is: 210
+[18/03/05 15:33:29][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 4 is: sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[18/03/05 15:33:29][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 4 stack trace is: -2
+[18/03/05 15:33:29][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 5 is: sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[18/03/05 15:33:29][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 5 stack trace is: -1
+[18/03/05 15:33:29][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 6 is: sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[18/03/05 15:33:29][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 6 stack trace is: -1
+[18/03/05 15:33:29][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-455] StackTrace for Assert is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.afterMethod(TestCaseBase.java:210)
+[18/03/05 15:33:29][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-456] Assert LineNumber is: 210
+[18/03/05 15:33:49][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-65] 20180305153349
+[18/03/05 15:33:49][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-67] Delete screen shots generated 2 days ago.
+[18/03/05 15:33:57][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-dev.cat.com/'
+[18/03/05 15:38:58][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-428] .\errorImages\20180305153858.png
+[18/03/05 15:38:58][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 0 is: java.lang.Thread.getStackTrace(Unknown Source)
+[18/03/05 15:38:58][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 0 stack trace is: -1
+[18/03/05 15:38:58][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 1 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.logStackTraceInfo(CustomAssertion.java:451)
+[18/03/05 15:38:58][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 1 stack trace is: 452
+[18/03/05 15:38:58][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 2 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.printError(CustomAssertion.java:429)
+[18/03/05 15:38:58][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 2 stack trace is: 429
+[18/03/05 15:38:58][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 3 is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.afterMethod(TestCaseBase.java:210)
+[18/03/05 15:38:58][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 3 stack trace is: 210
+[18/03/05 15:38:58][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 4 is: sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[18/03/05 15:38:58][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 4 stack trace is: -2
+[18/03/05 15:38:58][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 5 is: sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[18/03/05 15:38:58][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 5 stack trace is: -1
+[18/03/05 15:38:58][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 6 is: sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[18/03/05 15:38:58][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 6 stack trace is: -1
+[18/03/05 15:38:58][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-455] StackTrace for Assert is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.afterMethod(TestCaseBase.java:210)
+[18/03/05 15:38:58][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-456] Assert LineNumber is: 210
+[18/03/05 16:16:21][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-65] 20180305161621
+[18/03/05 16:16:21][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-67] Delete screen shots generated 2 days ago.
+[18/03/05 16:16:28][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-dev.cat.com/'
+[18/03/05 16:17:29][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //input[@id='submitButton']
+[18/03/05 16:17:32][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //span[@class='manage_form']
+[18/03/05 16:17:36][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class='col-xs-6 cat_right_border']//select[contains(@class,'cat_status_select')]
+[18/03/05 16:17:36][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class='col-xs-6 cat_right_border']/select/option
+[18/03/05 16:17:36][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class='col-xs-6']//select[contains(@class,'cat_status_select')]
+[18/03/05 16:17:38][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/03/05 16:17:38][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //span[@class='glyphicon glyphicon-search']
+[18/03/05 16:17:41][ERROR][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-77] WebDriver error:
+org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=62.0.3202.89)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'H2600-0463L', ip: '10.2.7.26', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.33.506120 (e3e53437346286..., userDataDir: C:\Users\herby.he\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 62.0.3202.89, webStorageEnabled: true}
+Session ID: 010887db4db5c374e8d61e9246a8f3f6
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:279)
+	at org.openqa.selenium.remote.RemoteWebElement.getText(RemoteWebElement.java:160)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement$1.invoke(EventFiringWebDriver.java:376)
+	at com.sun.proxy.$Proxy17.getText(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.getText(EventFiringWebDriver.java:426)
+	at com.perficient.test.cat.catinspectweb.util.FunctionUtil.verifyOrderCorrectly(FunctionUtil.java:1484)
+	at com.perficient.test.cat.catinspectweb.testcase.ManageForm.TC2935_CheckSortingFunctionInManageFormPage.verify_TC2935_CheckSortingFunctionInManageFormPage(TC2935_CheckSortingFunctionInManageFormPage.java:43)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:254)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+[18/03/05 16:17:42][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-428] .\errorImages\20180305161742.png
+[18/03/05 16:17:42][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 0 is: java.lang.Thread.getStackTrace(Unknown Source)
+[18/03/05 16:17:42][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 0 stack trace is: -1
+[18/03/05 16:17:42][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 1 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.logStackTraceInfo(CustomAssertion.java:451)
+[18/03/05 16:17:42][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 1 stack trace is: 452
+[18/03/05 16:17:42][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 2 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.printError(CustomAssertion.java:429)
+[18/03/05 16:17:42][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 2 stack trace is: 429
+[18/03/05 16:17:42][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 3 is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.afterMethod(TestCaseBase.java:210)
+[18/03/05 16:17:42][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 3 stack trace is: 210
+[18/03/05 16:17:42][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 4 is: sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[18/03/05 16:17:42][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 4 stack trace is: -2
+[18/03/05 16:17:42][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 5 is: sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[18/03/05 16:17:42][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 5 stack trace is: -1
+[18/03/05 16:17:42][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 6 is: sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[18/03/05 16:17:42][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 6 stack trace is: -1
+[18/03/05 16:17:42][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-455] StackTrace for Assert is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.afterMethod(TestCaseBase.java:210)
+[18/03/05 16:17:42][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-456] Assert LineNumber is: 210
+[18/03/05 16:18:12][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-65] 20180305161812
+[18/03/05 16:18:12][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-67] Delete screen shots generated 2 days ago.
+[18/03/05 16:18:17][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-dev.cat.com/'
+[18/03/05 16:19:11][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //input[@id='submitButton']
+[18/03/05 16:19:14][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //span[@class='manage_form']
+[18/03/05 16:19:17][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class='col-xs-6 cat_right_border']//select[contains(@class,'cat_status_select')]
+[18/03/05 16:19:17][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class='col-xs-6 cat_right_border']/select/option
+[18/03/05 16:19:17][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class='col-xs-6']//select[contains(@class,'cat_status_select')]
+[18/03/05 16:19:19][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/03/05 16:19:19][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //span[@class='glyphicon glyphicon-search']
+[18/03/05 16:19:27][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1488] [1212121, 20171101 Test Edit Inspection, 201711010001 upload a PDF file, the PDF file can be viewed again,the download icon is shown., 232343, Articulated Truck (Внешний о??мотр грузового автомобил?? ?? шарнирно) TA1 (Russi, Articulated Truck (铰接式卡车外观检查) TA1 (Chinese), Articulated Truck TA1, Articulated Truck TA1, Articulated Truck TA1 (Portuguese), Articulated Truck TA1 (Spanish), Articulated Trucks: Safety & Maintenance, Big form 05/03 imtiaz, cat used demo, Clone of form 6/17 pub, CX38 Assembly - Sub Modules v1.0, CX38 Assembly - Transmission & Sub Modules Combined v1.0, CX38 Disassembly - Clutch 2, CX38 Disassembly - Sub-Modules v0.1, CX38 Disassembly - Sub-Modules v0.2, CX38 Disassembly - Transmission, CX38 Disassembly - Transmission & Sub Modules Combined v1.0, CX38 Disassembly - Transmission v0.1, CX38 Disassembly - Transmission v0.1, CX38 Disassembly - Transmission v0.1, CX38 Transmission Rebuild Checklist, CX38 Transmission Test Procedures, Form 05/30, form 6/17, form 6/17, form 6/17 pub, Form for QA testing 06/28, form test dealer author, Form to test deletion of category 5/7 UAT, fskajfl, GMD-PPG-Articulated Truck TA1 w/ Performance Inspection, Image GDCH, Image GDCT, imtiaz UAT 05/03, jdfsdklafjakl, JoshConExpotest02, new form 7/1, PDF GDCH, PDI Articulated Truck Inspection, PSSR Inspection - AT, Regression testing 05/16, rekha form 6/17 publisher, sfsdfsf, test, test, test, Test, test, TEST - Family Change 1011, Test 123, TEST FOR CSE, Test for dealer, Test Form, test form123, Test01, TEST123, TestgeneralComments, Testing Chrome, UAT testing 0 of 0 5/7/2013, Underground Articulated Truck TA1, Underground Articulated Truck TA1, zaxasxsd, 我们的表单创建]The original array list
+[18/03/05 16:19:27][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1504] [1212121, 20171101 Test Edit Inspection, 201711010001 upload a PDF file, the PDF file can be viewed again,the download icon is shown., 232343, Articulated Truck (Внешний о??мотр грузового автомобил?? ?? шарнирно) TA1 (Russi, Articulated Truck (铰接式卡车外观检查) TA1 (Chinese), Articulated Truck TA1, Articulated Truck TA1, Articulated Truck TA1 (Portuguese), Articulated Truck TA1 (Spanish), Articulated Trucks: Safety & Maintenance, Big form 05/03 imtiaz, cat used demo, Clone of form 6/17 pub, CX38 Assembly - Sub Modules v1.0, CX38 Assembly - Transmission & Sub Modules Combined v1.0, CX38 Disassembly - Clutch 2, CX38 Disassembly - Sub-Modules v0.1, CX38 Disassembly - Sub-Modules v0.2, CX38 Disassembly - Transmission, CX38 Disassembly - Transmission & Sub Modules Combined v1.0, CX38 Disassembly - Transmission v0.1, CX38 Disassembly - Transmission v0.1, CX38 Disassembly - Transmission v0.1, CX38 Transmission Rebuild Checklist, CX38 Transmission Test Procedures, Form 05/30, form 6/17, form 6/17, form 6/17 pub, Form for QA testing 06/28, form test dealer author, Form to test deletion of category 5/7 UAT, fskajfl, GMD-PPG-Articulated Truck TA1 w/ Performance Inspection, Image GDCH, Image GDCT, imtiaz UAT 05/03, jdfsdklafjakl, JoshConExpotest02, new form 7/1, PDF GDCH, PDI Articulated Truck Inspection, PSSR Inspection - AT, Regression testing 05/16, rekha form 6/17 publisher, sfsdfsf, test, test, test, Test, test, TEST - Family Change 1011, Test 123, TEST FOR CSE, Test for dealer, Test Form, test form123, Test01, TEST123, TestgeneralComments, Testing Chrome, UAT testing 0 of 0 5/7/2013, Underground Articulated Truck TA1, Underground Articulated Truck TA1, zaxasxsd, 我们的表单创建]The alphabetical order array list after sort
+[18/03/05 16:19:27][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //th[@sort-by]
+[18/03/05 16:19:30][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1488] [我们的表单创建, zaxasxsd, Underground Articulated Truck TA1, Underground Articulated Truck TA1, UAT testing 0 of 0 5/7/2013, Testing Chrome, TestgeneralComments, TEST123, Test01, test form123, Test Form, Test for dealer, TEST FOR CSE, Test 123, TEST - Family Change 1011, test, test, test, test, Test, sfsdfsf, rekha form 6/17 publisher, Regression testing 05/16, PSSR Inspection - AT, PDI Articulated Truck Inspection, PDF GDCH, new form 7/1, JoshConExpotest02, jdfsdklafjakl, imtiaz UAT 05/03, Image GDCT, Image GDCH, GMD-PPG-Articulated Truck TA1 w/ Performance Inspection, fskajfl, Form to test deletion of category 5/7 UAT, form test dealer author, Form for QA testing 06/28, form 6/17 pub, form 6/17, form 6/17, Form 05/30, CX38 Transmission Test Procedures, CX38 Transmission Rebuild Checklist, CX38 Disassembly - Transmission v0.1, CX38 Disassembly - Transmission v0.1, CX38 Disassembly - Transmission v0.1, CX38 Disassembly - Transmission & Sub Modules Combined v1.0, CX38 Disassembly - Transmission, CX38 Disassembly - Sub-Modules v0.2, CX38 Disassembly - Sub-Modules v0.1, CX38 Disassembly - Clutch 2, CX38 Assembly - Transmission & Sub Modules Combined v1.0, CX38 Assembly - Sub Modules v1.0, Clone of form 6/17 pub, cat used demo, Big form 05/03 imtiaz, Articulated Trucks: Safety & Maintenance, Articulated Truck TA1 (Spanish), Articulated Truck TA1 (Portuguese), Articulated Truck TA1, Articulated Truck TA1, Articulated Truck (铰接式卡车外观检查) TA1 (Chinese), Articulated Truck (Внешний о??мотр грузового автомобил?? ?? шарнирно) TA1 (Russi, 232343, 201711010001 upload a PDF file, the PDF file can be viewed again,the download icon is shown., 20171101 Test Edit Inspection, 1212121]The original array list
+[18/03/05 16:19:30][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1504] [我们的表单创建, zaxasxsd, Underground Articulated Truck TA1, Underground Articulated Truck TA1, UAT testing 0 of 0 5/7/2013, Testing Chrome, TestgeneralComments, TEST123, Test01, test form123, Test Form, Test for dealer, TEST FOR CSE, Test 123, TEST - Family Change 1011, test, test, test, test, Test, sfsdfsf, rekha form 6/17 publisher, Regression testing 05/16, PSSR Inspection - AT, PDI Articulated Truck Inspection, PDF GDCH, new form 7/1, JoshConExpotest02, jdfsdklafjakl, imtiaz UAT 05/03, Image GDCT, Image GDCH, GMD-PPG-Articulated Truck TA1 w/ Performance Inspection, fskajfl, Form to test deletion of category 5/7 UAT, form test dealer author, Form for QA testing 06/28, form 6/17 pub, form 6/17, form 6/17, Form 05/30, CX38 Transmission Test Procedures, CX38 Transmission Rebuild Checklist, CX38 Disassembly - Transmission v0.1, CX38 Disassembly - Transmission v0.1, CX38 Disassembly - Transmission v0.1, CX38 Disassembly - Transmission & Sub Modules Combined v1.0, CX38 Disassembly - Transmission, CX38 Disassembly - Sub-Modules v0.2, CX38 Disassembly - Sub-Modules v0.1, CX38 Disassembly - Clutch 2, CX38 Assembly - Transmission & Sub Modules Combined v1.0, CX38 Assembly - Sub Modules v1.0, Clone of form 6/17 pub, cat used demo, Big form 05/03 imtiaz, Articulated Trucks: Safety & Maintenance, Articulated Truck TA1 (Spanish), Articulated Truck TA1 (Portuguese), Articulated Truck TA1, Articulated Truck TA1, Articulated Truck (铰接式卡车外观检查) TA1 (Chinese), Articulated Truck (Внешний о??мотр грузового автомобил?? ?? шарнирно) TA1 (Russi, 232343, 201711010001 upload a PDF file, the PDF file can be viewed again,the download icon is shown., 20171101 Test Edit Inspection, 1212121]The alphabetical order array list after sort
+[18/03/05 16:19:30][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //th[@sort-by]
+[18/03/05 16:19:33][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1488] [SSP, RAG, POS, JPA, IMT, EAT, dug, dug, BZY, BZY, BXY, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ]The original array list
+[18/03/05 16:19:33][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1504] [SSP, RAG, POS, JPA, IMT, EAT, dug, dug, BZY, BZY, BXY, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ]The alphabetical order array list after sort
+[18/03/05 16:19:33][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //th[@sort-by]
+[18/03/05 16:19:36][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1488] [, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , BXY, BZY, BZY, dug, dug, EAT, IMT, JPA, POS, RAG, SSP]The original array list
+[18/03/05 16:19:36][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1504] [, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , BXY, BZY, BZY, dug, dug, EAT, IMT, JPA, POS, RAG, SSP]The alphabetical order array list after sort
+[18/03/05 16:19:36][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //th[@sort-by]
+[18/03/05 16:19:38][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1488] [Validation, Validation, TA1, TA1, TA1, TA1, TA1, TA1, TA1, TA1, TA1, TA1, TA1, PSSR, PSSR, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PDI, PDI, PDI, Hydraulics, GET, Dealer Process, Daily, Daily, Daily, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR]The original array list
+[18/03/05 16:19:38][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1504] [Validation, Validation, TA1, TA1, TA1, TA1, TA1, TA1, TA1, TA1, TA1, TA1, TA1, PSSR, PSSR, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PDI, PDI, PDI, Hydraulics, GET, Dealer Process, Daily, Daily, Daily, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR]The alphabetical order array list after sort
+[18/03/05 16:19:38][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //th[@sort-by]
+[18/03/05 16:19:41][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1488] [CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Daily, Daily, Daily, Dealer Process, GET, Hydraulics, PDI, PDI, PDI, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PSSR, PSSR, TA1, TA1, TA1, TA1, TA1, TA1, TA1, TA1, TA1, TA1, TA1, Validation, Validation]The original array list
+[18/03/05 16:19:41][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1504] [CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, CCR, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Component D&A, Daily, Daily, Daily, Dealer Process, GET, Hydraulics, PDI, PDI, PDI, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PSSR, PSSR, TA1, TA1, TA1, TA1, TA1, TA1, TA1, TA1, TA1, TA1, TA1, Validation, Validation]The alphabetical order array list after sort
+[18/03/05 16:19:41][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //th[@sort-by]
+[18/03/05 16:19:44][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1488] [Serena C Cook, Sean M Watts, Sami Sarraf, Sami Sarraf, Sami Sarraf, Sami Sarraf, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Robert Whayne Spear, Robert G Bullock, Muthushankar Raghunathan, Matthew Feng, Matthew Feng, Matthew Feng, Matthew Feng, Matthew Feng, Matt Rosenberg, Leandro Medrano, Joey Pickett, Jarod Skocaj, Jarod Skocaj, Indira Kondapaneni, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Douglas Siemer, Curtis Tyler Albertsen, Christal Zhang, Christal Zhang, Christal Zhang, , , , , , , , , , , , , , , , , , , , , , , , , ]The original array list
+[18/03/05 16:19:44][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1504] [Serena C Cook, Sean M Watts, Sami Sarraf, Sami Sarraf, Sami Sarraf, Sami Sarraf, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Robert Whayne Spear, Robert G Bullock, Muthushankar Raghunathan, Matthew Feng, Matthew Feng, Matthew Feng, Matthew Feng, Matthew Feng, Matt Rosenberg, Leandro Medrano, Joey Pickett, Jarod Skocaj, Jarod Skocaj, Indira Kondapaneni, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Douglas Siemer, Curtis Tyler Albertsen, Christal Zhang, Christal Zhang, Christal Zhang, , , , , , , , , , , , , , , , , , , , , , , , , ]The alphabetical order array list after sort
+[18/03/05 16:19:44][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //th[@sort-by]
+[18/03/05 16:19:47][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1488] [, , , , , , , , , , , , , , , , , , , , , , , , , Christal Zhang, Christal Zhang, Christal Zhang, Curtis Tyler Albertsen, Douglas Siemer, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Indira Kondapaneni, Jarod Skocaj, Jarod Skocaj, Joey Pickett, Leandro Medrano, Matt Rosenberg, Matthew Feng, Matthew Feng, Matthew Feng, Matthew Feng, Matthew Feng, Muthushankar Raghunathan, Robert G Bullock, Robert Whayne Spear, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Sami Sarraf, Sami Sarraf, Sami Sarraf, Sami Sarraf, Sean M Watts, Serena C Cook]The original array list
+[18/03/05 16:19:47][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1504] [, , , , , , , , , , , , , , , , , , , , , , , , , Christal Zhang, Christal Zhang, Christal Zhang, Curtis Tyler Albertsen, Douglas Siemer, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Herby He310, Indira Kondapaneni, Jarod Skocaj, Jarod Skocaj, Joey Pickett, Leandro Medrano, Matt Rosenberg, Matthew Feng, Matthew Feng, Matthew Feng, Matthew Feng, Matthew Feng, Muthushankar Raghunathan, Robert G Bullock, Robert Whayne Spear, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Ron Penick, Sami Sarraf, Sami Sarraf, Sami Sarraf, Sami Sarraf, Sean M Watts, Serena C Cook]The alphabetical order array list after sort
+[18/03/05 16:19:47][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //th[@sort-by]
+[18/03/05 16:19:53][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //th[@sort-by]
+[18/03/05 16:19:59][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //th[@sort-by]
+[18/03/05 16:20:03][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //th[@sort-by]
+[18/03/05 16:20:07][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class='col-xs-6 cat_right_border']//select[contains(@class,'cat_status_select')]
+[18/03/05 16:20:07][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class='col-xs-6 cat_right_border']/select/option
+[18/03/05 16:20:07][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //span[@class='glyphicon glyphicon-search']
+[18/03/05 16:20:10][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1488] [Debbie's ConExpo Test Form, IE11 Test Form, PM 1 (250 HOUR INTERVAL), PM 2 (500 HOUR INTERVAL) ENGINE OIL CHANGE, PM 2F (500 HOUR INITIAL INTERVAL), PM 3 (1000 HOUR INTERVAL), PM 4 (2000 HOUR INTERVAL), PM3000 (3000 HOUR INTERVAL), PM4000 (4000 HOUR INTERVAL) HYDRAULIC OIL CHANGE, PM6000 (6000 HOUR INTERVAL), Test for dealer, Test Form, Test Form Creation, TEST123]The original array list
+[18/03/05 16:20:10][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1504] [Debbie's ConExpo Test Form, IE11 Test Form, PM 1 (250 HOUR INTERVAL), PM 2 (500 HOUR INTERVAL) ENGINE OIL CHANGE, PM 2F (500 HOUR INITIAL INTERVAL), PM 3 (1000 HOUR INTERVAL), PM 4 (2000 HOUR INTERVAL), PM3000 (3000 HOUR INTERVAL), PM4000 (4000 HOUR INTERVAL) HYDRAULIC OIL CHANGE, PM6000 (6000 HOUR INTERVAL), Test for dealer, Test Form, Test Form Creation, TEST123]The alphabetical order array list after sort
+[18/03/05 16:20:10][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //th[@sort-by]
+[18/03/05 16:20:11][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1488] [TEST123, Test Form Creation, Test Form, Test for dealer, PM6000 (6000 HOUR INTERVAL), PM4000 (4000 HOUR INTERVAL) HYDRAULIC OIL CHANGE, PM3000 (3000 HOUR INTERVAL), PM 4 (2000 HOUR INTERVAL), PM 3 (1000 HOUR INTERVAL), PM 2F (500 HOUR INITIAL INTERVAL), PM 2 (500 HOUR INTERVAL) ENGINE OIL CHANGE, PM 1 (250 HOUR INTERVAL), IE11 Test Form, Debbie's ConExpo Test Form]The original array list
+[18/03/05 16:20:11][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1504] [TEST123, Test Form Creation, Test Form, Test for dealer, PM6000 (6000 HOUR INTERVAL), PM4000 (4000 HOUR INTERVAL) HYDRAULIC OIL CHANGE, PM3000 (3000 HOUR INTERVAL), PM 4 (2000 HOUR INTERVAL), PM 3 (1000 HOUR INTERVAL), PM 2F (500 HOUR INITIAL INTERVAL), PM 2 (500 HOUR INTERVAL) ENGINE OIL CHANGE, PM 1 (250 HOUR INTERVAL), IE11 Test Form, Debbie's ConExpo Test Form]The alphabetical order array list after sort
+[18/03/05 16:20:11][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //th[@sort-by]
+[18/03/05 16:20:11][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1488] [TA1, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PM Checklist, Daily]The original array list
+[18/03/05 16:20:11][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1504] [TA1, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PM Checklist, Daily]The alphabetical order array list after sort
+[18/03/05 16:20:11][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //th[@sort-by]
+[18/03/05 16:20:12][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1488] [Daily, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PM Checklist, TA1]The original array list
+[18/03/05 16:20:12][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1504] [Daily, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PM Checklist, PM Checklist, TA1]The alphabetical order array list after sort
+[18/03/05 16:20:12][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //th[@sort-by]
+[18/03/05 16:20:12][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1488] [Sami Sarraf, Sami Sarraf, Muthushankar Raghunathan, John Schalk, , , , , , , , , , ]The original array list
+[18/03/05 16:20:12][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1504] [Sami Sarraf, Sami Sarraf, Muthushankar Raghunathan, John Schalk, , , , , , , , , , ]The alphabetical order array list after sort
+[18/03/05 16:20:12][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //th[@sort-by]
+[18/03/05 16:20:13][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1488] [, , , , , , , , , , John Schalk, Muthushankar Raghunathan, Sami Sarraf, Sami Sarraf]The original array list
+[18/03/05 16:20:13][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-1504] [, , , , , , , , , , John Schalk, Muthushankar Raghunathan, Sami Sarraf, Sami Sarraf]The alphabetical order array list after sort
+[18/03/05 16:20:13][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //th[@sort-by]
+[18/03/05 16:20:14][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //th[@sort-by]
+[18/03/05 16:20:15][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //th[@sort-by]
+[18/03/05 16:20:16][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //th[@sort-by]
+[18/03/05 16:23:38][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-65] 20180305162338
+[18/03/05 16:23:38][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-67] Delete screen shots generated 2 days ago.
+[18/03/05 16:23:43][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-dev.cat.com/'
+[18/03/05 16:24:38][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //input[@id='submitButton']
+[18/03/05 16:24:41][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //span[@class='manage_form']
+[18/03/05 16:24:45][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class='col-xs-6 cat_right_border']//select[contains(@class,'cat_status_select')]
+[18/03/05 16:24:45][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class='col-xs-6 cat_right_border']/select/option
+[18/03/05 16:24:45][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class='col-xs-6']//select[contains(@class,'cat_status_select')]
+[18/03/05 16:24:47][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/03/05 16:24:47][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //span[@class='glyphicon glyphicon-search']
+[18/03/05 16:24:49][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class= 'cat_date_filter cat_right_border col-xs-4']/select
+[18/03/05 16:24:49][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class ='cat_date_filter cat_right_border col-xs-4']/select/option
+[18/03/05 16:24:50][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class = 'col-xs-4 cat_right_border']/select
+[18/03/05 16:24:50][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class = 'col-xs-4 cat_right_border']/select/option
+[18/03/05 16:24:50][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class='col-xs-6 cat_right_border']//select[contains(@class,'cat_status_select')]
+[18/03/05 16:24:50][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class='col-xs-6 cat_right_border']/select/option
+[18/03/05 16:24:53][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-75] Element is still not found By.xpath: //div[@class='col-xs-6 cat_right_border']/select/option
+[18/03/05 16:24:54][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-428] .\errorImages\20180305162454.png
+[18/03/05 16:24:54][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 0 is: java.lang.Thread.getStackTrace(Unknown Source)
+[18/03/05 16:24:54][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 0 stack trace is: -1
+[18/03/05 16:24:54][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 1 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.logStackTraceInfo(CustomAssertion.java:451)
+[18/03/05 16:24:54][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 1 stack trace is: 452
+[18/03/05 16:24:54][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 2 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.printError(CustomAssertion.java:429)
+[18/03/05 16:24:54][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 2 stack trace is: 429
+[18/03/05 16:24:54][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 3 is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.afterMethod(TestCaseBase.java:210)
+[18/03/05 16:24:54][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 3 stack trace is: 210
+[18/03/05 16:24:54][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 4 is: sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[18/03/05 16:24:54][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 4 stack trace is: -2
+[18/03/05 16:24:54][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 5 is: sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[18/03/05 16:24:54][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 5 stack trace is: -1
+[18/03/05 16:24:54][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 6 is: sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[18/03/05 16:24:54][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 6 stack trace is: -1
+[18/03/05 16:24:54][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-455] StackTrace for Assert is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.afterMethod(TestCaseBase.java:210)
+[18/03/05 16:24:54][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-456] Assert LineNumber is: 210
+[18/03/05 16:25:28][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-65] 20180305162528
+[18/03/05 16:25:28][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-67] Delete screen shots generated 2 days ago.
+[18/03/05 16:25:33][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-dev.cat.com/'
+[18/03/05 16:27:44][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //input[@id='submitButton']
+[18/03/05 16:27:47][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-75] Element is still not found By.xpath: //input[@id='submitButton']
+[18/03/05 16:27:50][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //span[@class='manage_form']
+[18/03/05 16:27:53][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class='col-xs-6 cat_right_border']//select[contains(@class,'cat_status_select')]
+[18/03/05 16:27:53][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class='col-xs-6 cat_right_border']/select/option
+[18/03/05 16:27:54][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class='col-xs-6']//select[contains(@class,'cat_status_select')]
+[18/03/05 16:27:56][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.tagName: option
+[18/03/05 16:27:56][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //span[@class='glyphicon glyphicon-search']
+[18/03/05 16:27:57][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class= 'cat_date_filter cat_right_border col-xs-4']/select
+[18/03/05 16:27:57][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class ='cat_date_filter cat_right_border col-xs-4']/select/option
+[18/03/05 16:27:58][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class = 'col-xs-4 cat_right_border']/select
+[18/03/05 16:27:58][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class = 'col-xs-4 cat_right_border']/select/option
+[18/03/05 16:27:58][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class='col-xs-6 cat_right_border']//select[contains(@class,'cat_status_select')]
+[18/03/05 16:27:58][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //div[@class='col-xs-6 cat_right_border']/select/option
+[18/03/05 16:27:59][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-106] Clicked the element found By.xpath: //span[@class='glyphicon glyphicon-search']

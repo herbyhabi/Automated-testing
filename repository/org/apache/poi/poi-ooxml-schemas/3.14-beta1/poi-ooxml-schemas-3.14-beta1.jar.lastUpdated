@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Apr 23 19:38:43 CST 2018
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1524483523887
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.poi\:poi-ooxml-schemas\:jar\:3.14-beta1 from/to central (https\://repo.maven.apache.org/maven2)\: The operation was cancelled.

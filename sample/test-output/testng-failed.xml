@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.perficient.test.cat.catinspectweb.testcase.editinspection.TC2394_EditTextForGeneralComments">
+        <methods>
+          <include name="cleanDownloadFolder"/>
+          <include name="afterMethod"/>
+          <include name="setUpBrowser"/>
+          <include name="tearDown"/>
+          <include name="verify_TC2700_AddAndDeleteCommentsWhenEditInspection"/>
+          <include name="generateBuildNumber"/>
+          <include name="afterSuite"/>
+        </methods>
+      </class> <!-- com.perficient.test.cat.catinspectweb.testcase.editinspection.TC2394_EditTextForGeneralComments -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

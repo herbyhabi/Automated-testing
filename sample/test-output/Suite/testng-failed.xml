@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" configfailurepolicy="continue" name="Failed suite [Suite]">
+  <parameter name="envFlag" value="Dev"/>
+  <parameter name="browserFlagO" value="1"/>
+  <test name="cat-selenium-chrome(failed)">
+    <classes>
+      <class name="com.perficient.test.cat.catinspectweb.testcase.createform.TC2677_SaveIconAndResetIconAvailableInCreateFormProcess">
+        <methods>
+          <include name="cleanDownloadFolder"/>
+          <include name="afterMethod"/>
+          <include name="tearDown"/>
+          <include name="setUpBrowser"/>
+          <include name="generateBuildNumber"/>
+          <include name="afterSuite"/>
+        </methods>
+      </class> <!-- com.perficient.test.cat.catinspectweb.testcase.createform.TC2677_SaveIconAndResetIconAvailableInCreateFormProcess -->
+      <class name="com.perficient.test.cat.catinspectweb.testcase.createform.TC2624ViewImageFileWhenCloneAForm">
+        <methods>
+          <include name="cleanDownloadFolder"/>
+          <include name="afterMethod"/>
+          <include name="tearDown"/>
+          <include name="setUpBrowser"/>
+        </methods>
+      </class> <!-- com.perficient.test.cat.catinspectweb.testcase.createform.TC2624ViewImageFileWhenCloneAForm -->
+      <class name="com.perficient.test.cat.catinspectweb.testcase.UserAdmin.TC2857_OpenUserProfileAndEditName">
+        <methods>
+          <include name="cleanDownloadFolder"/>
+          <include name="afterMethod"/>
+          <include name="tearDown"/>
+          <include name="setUpBrowser"/>
+          <include name="verify_TC2857_OpenUserProfileAndEditName"/>
+        </methods>
+      </class> <!-- com.perficient.test.cat.catinspectweb.testcase.UserAdmin.TC2857_OpenUserProfileAndEditName -->
+      <class name="com.perficient.test.cat.catinspectweb.testcase.ManageForm.TC2388_FilterFormBySerialNumberPrefix">
+        <methods>
+          <include name="cleanDownloadFolder"/>
+          <include name="afterMethod"/>
+          <include name="tearDown"/>
+          <include name="setUpBrowser"/>
+        </methods>
+      </class> <!-- com.perficient.test.cat.catinspectweb.testcase.ManageForm.TC2388_FilterFormBySerialNumberPrefix -->
+      <class name="com.perficient.test.cat.catinspectweb.testcase.editinspection.TC2640_UpdatePicturesInEditInspectionPage">
+        <methods>
+          <include name="verify_TC2640_UpdatePicturesInEditInspectionPage"/>
+          <include name="cleanDownloadFolder"/>
+          <include name="afterMethod"/>
+          <include name="tearDown"/>
+          <include name="setUpBrowser"/>
+        </methods>
+      </class> <!-- com.perficient.test.cat.catinspectweb.testcase.editinspection.TC2640_UpdatePicturesInEditInspectionPage -->
+      <class name="com.perficient.test.cat.catinspectweb.testcase.editinspection.TC2641_NOTavailableToUpdatedUncompletedInspection">
+        <methods>
+          <include name="cleanDownloadFolder"/>
+          <include name="afterMethod"/>
+          <include name="tearDown"/>
+          <include name="setUpBrowser"/>
+        </methods>
+      </class> <!-- com.perficient.test.cat.catinspectweb.testcase.editinspection.TC2641_NOTavailableToUpdatedUncompletedInspection -->
+      <class name="com.perficient.test.cat.catinspectweb.testcase.editinspection.TC2733_UserViewImageInEditInspectionProcess">
+        <methods>
+          <include name="cleanDownloadFolder"/>
+          <include name="afterMethod"/>
+          <include name="tearDown"/>
+          <include name="setUpBrowser"/>
+        </methods>
+      </class> <!-- com.perficient.test.cat.catinspectweb.testcase.editinspection.TC2733_UserViewImageInEditInspectionProcess -->
+      <class name="com.perficient.test.cat.catinspectweb.testcase.editinspection.TC2700_AddAndDeleteCommentsWhenEditInspection">
+        <methods>
+          <include name="cleanDownloadFolder"/>
+          <include name="afterMethod"/>
+          <include name="tearDown"/>
+          <include name="setUpBrowser"/>
+        </methods>
+      </class> <!-- com.perficient.test.cat.catinspectweb.testcase.editinspection.TC2700_AddAndDeleteCommentsWhenEditInspection -->
+      <class name="com.perficient.test.cat.catinspectweb.testcase.createform.TC2941_UserCanChangeFamilyAndTypeWhencloneForm">
+        <methods>
+          <include name="cleanDownloadFolder"/>
+          <include name="afterMethod"/>
+          <include name="tearDown"/>
+          <include name="setUpBrowser"/>
+        </methods>
+      </class> <!-- com.perficient.test.cat.catinspectweb.testcase.createform.TC2941_UserCanChangeFamilyAndTypeWhencloneForm -->
+      <class name="com.perficient.test.cat.catinspectweb.testcase.createform.TC2908_CheckFormExistAfterPublished">
+        <methods>
+          <include name="cleanDownloadFolder"/>
+          <include name="afterMethod"/>
+          <include name="tearDown"/>
+          <include name="setUpBrowser"/>
+        </methods>
+      </class> <!-- com.perficient.test.cat.catinspectweb.testcase.createform.TC2908_CheckFormExistAfterPublished -->
+      <class name="com.perficient.test.cat.catinspectweb.testcase.ManageForm.TC2940_PerviousFilterValuewillInitailize">
+        <methods>
+          <include name="cleanDownloadFolder"/>
+          <include name="afterMethod"/>
+          <include name="tearDown"/>
+          <include name="setUpBrowser"/>
+        </methods>
+      </class> <!-- com.perficient.test.cat.catinspectweb.testcase.ManageForm.TC2940_PerviousFilterValuewillInitailize -->
+      <class name="com.perficient.test.cat.catinspectweb.testcase.createform.TC2627_ViewPdfFileWhenCloneForm">
+        <methods>
+          <include name="cleanDownloadFolder"/>
+          <include name="afterMethod"/>
+          <include name="tearDown"/>
+          <include name="setUpBrowser"/>
+        </methods>
+      </class> <!-- com.perficient.test.cat.catinspectweb.testcase.createform.TC2627_ViewPdfFileWhenCloneForm -->
+      <class name="com.perficient.test.cat.catinspectweb.testcase.assigninspection.TC2678_ToastDisplaysAfterAssignForm">
+        <methods>
+          <include name="cleanDownloadFolder"/>
+          <include name="afterMethod"/>
+          <include name="verify_TC2678_ToastDisplaysAfterAssignForm"/>
+          <include name="tearDown"/>
+          <include name="setUpBrowser"/>
+        </methods>
+      </class> <!-- com.perficient.test.cat.catinspectweb.testcase.assigninspection.TC2678_ToastDisplaysAfterAssignForm -->
+      <class name="com.perficient.test.cat.catinspectweb.testcase.UserAdmin.TC2931_CheckSortFunctionInTheUserAdminPage">
+        <methods>
+          <include name="cleanDownloadFolder"/>
+          <include name="afterMethod"/>
+          <include name="verify_TC2931_CheckSortFunctionInTheUserAdminPage"/>
+          <include name="tearDown"/>
+          <include name="setUpBrowser"/>
+        </methods>
+      </class> <!-- com.perficient.test.cat.catinspectweb.testcase.UserAdmin.TC2931_CheckSortFunctionInTheUserAdminPage -->
+      <class name="com.perficient.test.cat.catinspectweb.testcase.createform.TC2637_AddAndModifyQuestionWhenCreateForm">
+        <methods>
+          <include name="cleanDownloadFolder"/>
+          <include name="afterMethod"/>
+          <include name="tearDown"/>
+          <include name="setUpBrowser"/>
+        </methods>
+      </class> <!-- com.perficient.test.cat.catinspectweb.testcase.createform.TC2637_AddAndModifyQuestionWhenCreateForm -->
+      <class name="com.perficient.test.cat.catinspectweb.testcase.ManageForm.TC2938_PublishAFormThatIsCreatedFromADraftFile">
+        <methods>
+          <include name="cleanDownloadFolder"/>
+          <include name="afterMethod"/>
+          <include name="verify_TC2938_PublishAFormThatIsCreatedFromADraftFile"/>
+          <include name="tearDown"/>
+          <include name="setUpBrowser"/>
+        </methods>
+      </class> <!-- com.perficient.test.cat.catinspectweb.testcase.ManageForm.TC2938_PublishAFormThatIsCreatedFromADraftFile -->
+      <class name="com.perficient.test.cat.catinspectweb.testcase.ManageForm.TC2363_FilterFormByDraftForms">
+        <methods>
+          <include name="cleanDownloadFolder"/>
+          <include name="afterMethod"/>
+          <include name="tearDown"/>
+          <include name="setUpBrowser"/>
+        </methods>
+      </class> <!-- com.perficient.test.cat.catinspectweb.testcase.ManageForm.TC2363_FilterFormByDraftForms -->
+      <class name="com.perficient.test.cat.catinspectweb.testcase.createform.TC2638_PreviewTheFormInManageFormScreen">
+        <methods>
+          <include name="cleanDownloadFolder"/>
+          <include name="afterMethod"/>
+          <include name="tearDown"/>
+          <include name="setUpBrowser"/>
+        </methods>
+      </class> <!-- com.perficient.test.cat.catinspectweb.testcase.createform.TC2638_PreviewTheFormInManageFormScreen -->
+      <class name="com.perficient.test.cat.catinspectweb.testcase.editinspection.TC2644_PDFRegenerateAfterInspectionInfoEdited">
+        <methods>
+          <include name="verify_TC2644_PDFRegenerateAfterInspectionInfoEdited"/>
+          <include name="cleanDownloadFolder"/>
+          <include name="afterMethod"/>
+          <include name="tearDown"/>
+          <include name="setUpBrowser"/>
+        </methods>
+      </class> <!-- com.perficient.test.cat.catinspectweb.testcase.editinspection.TC2644_PDFRegenerateAfterInspectionInfoEdited -->
+      <class name="com.perficient.test.cat.catinspectweb.testcase.UserAdmin.TC2858_OpenUserprofileAndEditorganization">
+        <methods>
+          <include name="cleanDownloadFolder"/>
+          <include name="verify_TC2858_OpenUserprofileAndEditorganization"/>
+          <include name="afterMethod"/>
+          <include name="tearDown"/>
+          <include name="setUpBrowser"/>
+        </methods>
+      </class> <!-- com.perficient.test.cat.catinspectweb.testcase.UserAdmin.TC2858_OpenUserprofileAndEditorganization -->
+      <class name="com.perficient.test.cat.catinspectweb.testcase.ManageForm.TC2935_CheckSortingFunctionInManageFormPage">
+        <methods>
+          <include name="cleanDownloadFolder"/>
+          <include name="afterMethod"/>
+          <include name="tearDown"/>
+          <include name="setUpBrowser"/>
+        </methods>
+      </class> <!-- com.perficient.test.cat.catinspectweb.testcase.ManageForm.TC2935_CheckSortingFunctionInManageFormPage -->
+      <class name="com.perficient.test.cat.catinspectweb.testcase.createform.TC2909_VerifyCreateSubQuestion">
+        <methods>
+          <include name="cleanDownloadFolder"/>
+          <include name="afterMethod"/>
+          <include name="tearDown"/>
+          <include name="setUpBrowser"/>
+        </methods>
+      </class> <!-- com.perficient.test.cat.catinspectweb.testcase.createform.TC2909_VerifyCreateSubQuestion -->
+      <class name="com.perficient.test.cat.catinspectweb.testcase.editinspection.TC2628_UpdateHeaderInfoOfCompletedInspection">
+        <methods>
+          <include name="cleanDownloadFolder"/>
+          <include name="afterMethod"/>
+          <include name="tearDown"/>
+          <include name="setUpBrowser"/>
+        </methods>
+      </class> <!-- com.perficient.test.cat.catinspectweb.testcase.editinspection.TC2628_UpdateHeaderInfoOfCompletedInspection -->
+      <class name="com.perficient.test.cat.catinspectweb.testcase.ManageForm.TC2625_FilterFormByFamily">
+        <methods>
+          <include name="cleanDownloadFolder"/>
+          <include name="afterMethod"/>
+          <include name="tearDown"/>
+          <include name="setUpBrowser"/>
+          <include name="verify_TC2625_FilterFormByFamily"/>
+        </methods>
+      </class> <!-- com.perficient.test.cat.catinspectweb.testcase.ManageForm.TC2625_FilterFormByFamily -->
+      <class name="com.perficient.test.cat.catinspectweb.testcase.createform.TC2623_ViewHelpFileAfterAdded">
+        <methods>
+          <include name="cleanDownloadFolder"/>
+          <include name="afterMethod"/>
+          <include name="Verify_TC2623_ViewHelpFileAfterAdded"/>
+          <include name="tearDown"/>
+          <include name="setUpBrowser"/>
+        </methods>
+      </class> <!-- com.perficient.test.cat.catinspectweb.testcase.createform.TC2623_ViewHelpFileAfterAdded -->
+      <class name="com.perficient.test.cat.catinspectweb.testcase.advancedsearch.TC2932_CheckSortingInAdvancedSearchPage">
+        <methods>
+          <include name="cleanDownloadFolder"/>
+          <include name="afterMethod"/>
+          <include name="tearDown"/>
+          <include name="setUpBrowser"/>
+        </methods>
+      </class> <!-- com.perficient.test.cat.catinspectweb.testcase.advancedsearch.TC2932_CheckSortingInAdvancedSearchPage -->
+      <class name="com.perficient.test.cat.catinspectweb.testcase.createform.TC2933_SaveADraftFormInTheProcessOfCreatingForm">
+        <methods>
+          <include name="cleanDownloadFolder"/>
+          <include name="afterMethod"/>
+          <include name="tearDown"/>
+          <include name="setUpBrowser"/>
+        </methods>
+      </class> <!-- com.perficient.test.cat.catinspectweb.testcase.createform.TC2933_SaveADraftFormInTheProcessOfCreatingForm -->
+    </classes>
+  </test> <!-- cat-selenium-chrome(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,9 @@
+[17/11/01 13:53:35][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-295] 20171101135335
+[17/11/01 13:53:40][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-275] File is moved successful!
+[17/11/01 13:53:40][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-284] Deleting old screen shots created 2 days ago............
+[17/11/01 13:53:40][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-286] Deletion completed!
+[17/11/01 13:53:43][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-91] com.perficient.test.cat.catinspectweb.testcase.email.TC01_Testing
+[17/11/01 13:54:06][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-213] Run in Browser: =Chrome
+[17/11/01 13:54:06][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-214] Run in Environment: =QA
+[17/11/01 13:54:06][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-215] Current Test Case Name =TC01_Testing
+[17/11/01 13:54:06][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-qa.cat.com/'

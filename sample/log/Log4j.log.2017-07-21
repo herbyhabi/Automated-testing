@@ -1,0 +1,184 @@
+[17/07/21 10:01:44][INFO][com.perficient.test.cat.pccaurora.util.ScriptTemplateGenerator-152] package com.perficient.test.cat.pccaurora.testcase.debug;
+
+import org.testng.Assert;
+import org.testng.annotations.Test;
+import static com.perficient.test.cat.pccaurora.util.FunctionUtil.*;
+import com.perficient.test.cat.pccaurora.reusablefunctions.ReusableFunctions;
+import com.perficient.test.cat.pccaurora.util.ComplexReportFactory;
+import com.perficient.test.cat.pccaurora.util.TestCaseBase;
+import com.relevantcodes.extentreports.LogStatus;
+
+/**
+ * Notice(Delete this part before commit script):
+ * 1. Format and clean up scripts before commit script
+ * 2. Don't create function in test case
+ * 3. Declare element which is displayed in the page in page 
+ */
+
+/**
+ * <br>
+ * 
+ * @author matthew.feng
+ * @designer nigams
+ * @date 21 / Jul / 2017
+ */
+public class TC2390_Changelocationwithoutpart extends TestCaseBase {
+
+	@Test
+	public void verify_TC2390_Changelocationwithoutpart() throws Exception {	
+		
+		// Initialize pages
+		ReusableFunctions reusableFunctions = new ReusableFunctions();
+		
+		// Step 1: 
+		//    Login into PCC
+		test.log(LogStatus.INFO, "***Step 1: Login into PCC");
+
+		// Step 2: 
+		//    Click on Quick order
+		test.log(LogStatus.INFO, "***Step 2: Click on Quick order");
+
+		// Step 3: 
+		//    Change Dealer Store from the Drop down
+		test.log(LogStatus.INFO, "***Step 3: Change Dealer Store from the Drop down");
+
+		// Step 4: 
+		//    Click on UPDATE PRICE & AVAILABILITY.
+		test.log(LogStatus.INFO, "***Step 4: Click on UPDATE PRICE & AVAILABILITY.");
+
+
+
+		//The following statement is always the very last statement of every test case script.
+		//Please do NOT delete it. Otherwise, the test case status in the RegressionReport Excel file
+		//and the default TestNG HTML report will be different to the ones in Extented HTML Report. 
+		Assert.assertEquals(ComplexReportFactory.getTest(testName).getRunStatus(), LogStatus.PASS);
+		
+	}
+
+}
+
+[17/07/21 10:01:44][INFO][com.perficient.test.cat.pccaurora.util.ScriptTemplateGenerator-167] Done.
+[17/07/21 15:05:14][INFO][com.perficient.test.cat.pccaurora.util.ScriptTemplateGenerator-152] package com.perficient.test.cat.pccaurora.testcase.debug;
+
+import org.testng.Assert;
+import org.testng.annotations.Test;
+import static com.perficient.test.cat.pccaurora.util.FunctionUtil.*;
+import com.perficient.test.cat.pccaurora.reusablefunctions.ReusableFunctions;
+import com.perficient.test.cat.pccaurora.util.ComplexReportFactory;
+import com.perficient.test.cat.pccaurora.util.TestCaseBase;
+import com.relevantcodes.extentreports.LogStatus;
+
+/**
+ * Notice(Delete this part before commit script):
+ * 1. Format and clean up scripts before commit script
+ * 2. Don't create function in test case
+ * 3. Declare element which is displayed in the page in page 
+ */
+
+/**
+ * <br>
+ * 
+ * @author matthew.feng
+ * @designer nigams
+ * @date 21 / Jul / 2017
+ */
+public class TC2388_Changeaccwithoutpart extends TestCaseBase {
+
+	@Test
+	public void verify_TC2388_Changeaccwithoutpart() throws Exception {	
+		
+		// Initialize pages
+		ReusableFunctions reusableFunctions = new ReusableFunctions();
+		
+		// Step 1: 
+		//    Login into PCC
+		test.log(LogStatus.INFO, "***Step 1: Login into PCC");
+
+		// Step 2: 
+		//    Click on Quick order
+		test.log(LogStatus.INFO, "***Step 2: Click on Quick order");
+
+		// Step 3: 
+		//    Change Account Number from the Drop down
+		test.log(LogStatus.INFO, "***Step 3: Change Account Number from the Drop down");
+
+		// Step 4: 
+		//    Click on UPDATE PRICE & AVAILABILITY. AILABILITY.
+		test.log(LogStatus.INFO, "***Step 4: Click on UPDATE PRICE & AVAILABILITY. AILABILITY.");
+
+
+
+		//The following statement is always the very last statement of every test case script.
+		//Please do NOT delete it. Otherwise, the test case status in the RegressionReport Excel file
+		//and the default TestNG HTML report will be different to the ones in Extented HTML Report. 
+		Assert.assertEquals(ComplexReportFactory.getTest(testName).getRunStatus(), LogStatus.PASS);
+		
+	}
+
+}
+
+[17/07/21 15:05:14][INFO][com.perficient.test.cat.pccaurora.util.ScriptTemplateGenerator-167] Done.
+[17/07/21 15:17:36][INFO][com.perficient.test.cat.pccaurora.util.ScriptTemplateGenerator-152] package com.perficient.test.cat.pccaurora.testcase.debug;
+
+import org.testng.Assert;
+import org.testng.annotations.Test;
+import static com.perficient.test.cat.pccaurora.util.FunctionUtil.*;
+import com.perficient.test.cat.pccaurora.reusablefunctions.ReusableFunctions;
+import com.perficient.test.cat.pccaurora.util.ComplexReportFactory;
+import com.perficient.test.cat.pccaurora.util.TestCaseBase;
+import com.relevantcodes.extentreports.LogStatus;
+
+/**
+ * Notice(Delete this part before commit script):
+ * 1. Format and clean up scripts before commit script
+ * 2. Don't create function in test case
+ * 3. Declare element which is displayed in the page in page 
+ */
+
+/**
+ * <br>
+ * 
+ * @author matthew.feng
+ * @designer nigams
+ * @date 21 / Jul / 2017
+ */
+public class TC2387_Changeaccwithpartadded extends TestCaseBase {
+
+	@Test
+	public void verify_TC2387_Changeaccwithpartadded() throws Exception {	
+		
+		// Initialize pages
+		ReusableFunctions reusableFunctions = new ReusableFunctions();
+		
+		// Step 1: 
+		//    Login with PCC
+		test.log(LogStatus.INFO, "***Step 1: Login with PCC");
+
+		// Step 2: 
+		//    Click on Quick order
+		test.log(LogStatus.INFO, "***Step 2: Click on Quick order");
+
+		// Step 3: 
+		//    Enter a valid part number and quantity under Quick order section an click on Add to cart button
+		test.log(LogStatus.INFO, "***Step 3: Enter a valid part number and quantity under Quick order section an click on Add to cart button");
+
+		// Step 4: 
+		//    Change Account Number from the Drop down
+		test.log(LogStatus.INFO, "***Step 4: Change Account Number from the Drop down");
+
+		// Step 5: 
+		//    Click on UPDATE PRICE & AVAILABILITY.
+		test.log(LogStatus.INFO, "***Step 5: Click on UPDATE PRICE & AVAILABILITY.");
+
+
+
+		//The following statement is always the very last statement of every test case script.
+		//Please do NOT delete it. Otherwise, the test case status in the RegressionReport Excel file
+		//and the default TestNG HTML report will be different to the ones in Extented HTML Report. 
+		Assert.assertEquals(ComplexReportFactory.getTest(testName).getRunStatus(), LogStatus.PASS);
+		
+	}
+
+}
+
+[17/07/21 15:17:36][INFO][com.perficient.test.cat.pccaurora.util.ScriptTemplateGenerator-167] Done.

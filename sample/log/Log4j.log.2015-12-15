@@ -1,0 +1,18 @@
+[15/12/15 13:56:11][INFO][com.perficient.test.cat.pccaurora.util.TestCaseBase-187] File is moved successful!
+[15/12/15 13:56:20][INFO][com.perficient.test.cat.pccaurora.util.TestCaseBase-143] Run in Browser: =Chrome
+[15/12/15 13:56:20][INFO][com.perficient.test.cat.pccaurora.util.TestCaseBase-144] Run in Environment: =NATIVE
+[15/12/15 13:56:20][INFO][com.perficient.test.cat.pccaurora.util.TestCaseBase-145] Current Test Case Name =TC01
+[15/12/15 13:56:20][INFO][com.perficient.test.cat.pccaurora.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://qaparts-mcq.rd.cat.com/wcs-static/getMyCookie.html'
+[15/12/15 13:56:31][INFO][com.perficient.test.cat.pccaurora.util.LogWebDriverEventListener-63] Click the element found By.xpath: //a[text()='Go to home page']
+[15/12/15 13:57:33][INFO][com.perficient.test.cat.pccaurora.util.TestCaseBase-187] File is moved successful!
+[15/12/15 13:57:38][INFO][com.perficient.test.cat.pccaurora.util.TestCaseBase-143] Run in Browser: =Chrome
+[15/12/15 13:57:38][INFO][com.perficient.test.cat.pccaurora.util.TestCaseBase-144] Run in Environment: =NATIVE
+[15/12/15 13:57:38][INFO][com.perficient.test.cat.pccaurora.util.TestCaseBase-145] Current Test Case Name =TC01
+[15/12/15 13:57:38][INFO][com.perficient.test.cat.pccaurora.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://qaparts-mcq.rd.cat.com/wcs-static/getMyCookie.html'
+[15/12/15 13:57:46][INFO][com.perficient.test.cat.pccaurora.util.LogWebDriverEventListener-63] Click the element found By.xpath: //a[text()='Go to home page']
+[15/12/15 15:09:09][INFO][com.perficient.test.cat.pccaurora.util.TestCaseBase-187] File is moved successful!
+[15/12/15 15:09:14][INFO][com.perficient.test.cat.pccaurora.util.TestCaseBase-143] Run in Browser: =Chrome
+[15/12/15 15:09:14][INFO][com.perficient.test.cat.pccaurora.util.TestCaseBase-144] Run in Environment: =NATIVE
+[15/12/15 15:09:14][INFO][com.perficient.test.cat.pccaurora.util.TestCaseBase-145] Current Test Case Name =TC01
+[15/12/15 15:09:14][INFO][com.perficient.test.cat.pccaurora.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://qaparts-mcq.rd.cat.com/wcs-static/getMyCookie.html'
+[15/12/15 15:09:19][INFO][com.perficient.test.cat.pccaurora.util.LogWebDriverEventListener-63] Click the element found By.xpath: //a[text()='Go to home page']

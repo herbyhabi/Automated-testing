@@ -1,0 +1,309 @@
+[17/10/31 14:58:08][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-311] Screenshots folder is:ScreenshotsTST3
+[17/10/31 14:59:17][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-308] Screenshots folder is:ScreenshotsTST3
+[17/10/31 15:00:33][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-295] 20171031150033
+[17/10/31 15:00:38][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-275] File is moved successful!
+[17/10/31 15:00:38][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-284] Deleting old screen shots created 2 days ago............
+[17/10/31 15:00:38][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-286] Deletion completed!
+[17/10/31 15:00:40][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-91] com.perficient.test.cat.catinspectweb.testcase.email.TC01_Testing
+[17/10/31 15:01:00][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-213] Run in Browser: =Chrome
+[17/10/31 15:01:00][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-214] Run in Environment: =QA
+[17/10/31 15:01:00][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-215] Current Test Case Name =TC01_Testing
+[17/10/31 15:01:00][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-qa.cat.com/'
+[17/10/31 15:01:55][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsUID'] from '' to ''
+[17/10/31 15:01:55][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsUID'] from '' to 'fengm1'
+[17/10/31 15:01:55][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsPwd'] from '' to ''
+[17/10/31 15:01:55][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsPwd'] from '' to 'Wsx12edc'
+[17/10/31 15:01:55][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //input[@id='submitButton']
+[17/10/31 15:02:01][ERROR][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-45] WebDriver error:
+org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'H2600-0464L', ip: '169.254.213.85', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_15'
+Driver info: driver.version: EventFiringWebDriver
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:641)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:670)
+	at org.openqa.selenium.remote.RemoteWebDriver.quit(RemoteWebDriver.java:516)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:601)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:102)
+	at com.sun.proxy.$Proxy13.quit(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.quit(EventFiringWebDriver.java:201)
+	at com.perficient.test.cat.catinspectweb.util.TestCaseBase.tearDown(TestCaseBase.java:241)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:601)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:564)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:213)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:786)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:254)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+Caused by: java.lang.RuntimeException: Process refused to die after 10 seconds, and couldn't taskkill it: Unable to find executable for: taskkill
+	at org.openqa.selenium.os.ProcessUtils.killWinProcess(ProcessUtils.java:143)
+	at org.openqa.selenium.os.ProcessUtils.killProcess(ProcessUtils.java:81)
+	at org.openqa.selenium.os.UnixProcess$SeleniumWatchDog.destroyHarder(UnixProcess.java:247)
+	at org.openqa.selenium.os.UnixProcess$SeleniumWatchDog.access$200(UnixProcess.java:201)
+	at org.openqa.selenium.os.UnixProcess.destroy(UnixProcess.java:125)
+	at org.openqa.selenium.os.CommandLine.destroy(CommandLine.java:155)
+	at org.openqa.selenium.remote.service.DriverService.stop(DriverService.java:196)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:94)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:620)
+	... 36 more
+Caused by: java.lang.NullPointerException: Unable to find executable for: taskkill
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:250)
+	at org.openqa.selenium.os.UnixProcess.<init>(UnixProcess.java:62)
+	at org.openqa.selenium.os.CommandLine.<init>(CommandLine.java:38)
+	at org.openqa.selenium.os.WindowsUtils.killPID(WindowsUtils.java:178)
+	at org.openqa.selenium.os.ProcessUtils.killWinProcess(ProcessUtils.java:138)
+	... 44 more
+[17/10/31 15:02:01][ERROR][com.perficient.test.cat.catinspectweb.util.TestCaseBase-246] Driver have quited by other thread or by hand.
+[17/10/31 15:04:48][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-295] 20171031150448
+[17/10/31 15:04:53][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-275] File is moved successful!
+[17/10/31 15:04:53][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-284] Deleting old screen shots created 2 days ago............
+[17/10/31 15:04:53][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-286] Deletion completed!
+[17/10/31 15:04:55][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-91] com.perficient.test.cat.catinspectweb.testcase.email.TC01_Testing
+[17/10/31 15:05:05][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-213] Run in Browser: =Chrome
+[17/10/31 15:05:05][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-214] Run in Environment: =QA
+[17/10/31 15:05:05][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-215] Current Test Case Name =TC01_Testing
+[17/10/31 15:05:05][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-qa.cat.com/'
+[17/10/31 15:06:00][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsUID'] from '' to ''
+[17/10/31 15:06:00][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsUID'] from '' to 'fengm1'
+[17/10/31 15:06:00][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsPwd'] from '' to ''
+[17/10/31 15:06:00][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsPwd'] from '' to 'Wsx12edc'
+[17/10/31 15:06:00][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //input[@id='submitButton']
+[17/10/31 15:06:06][ERROR][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-45] WebDriver error:
+org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'H2600-0464L', ip: '169.254.213.85', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_15'
+Driver info: driver.version: EventFiringWebDriver
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:641)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:670)
+	at org.openqa.selenium.remote.RemoteWebDriver.quit(RemoteWebDriver.java:516)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:601)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:102)
+	at com.sun.proxy.$Proxy13.quit(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.quit(EventFiringWebDriver.java:201)
+	at com.perficient.test.cat.catinspectweb.util.TestCaseBase.tearDown(TestCaseBase.java:241)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:601)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:564)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:213)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:786)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:254)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+Caused by: java.lang.RuntimeException: Process refused to die after 10 seconds, and couldn't taskkill it: Unable to find executable for: taskkill
+	at org.openqa.selenium.os.ProcessUtils.killWinProcess(ProcessUtils.java:143)
+	at org.openqa.selenium.os.ProcessUtils.killProcess(ProcessUtils.java:81)
+	at org.openqa.selenium.os.UnixProcess$SeleniumWatchDog.destroyHarder(UnixProcess.java:247)
+	at org.openqa.selenium.os.UnixProcess$SeleniumWatchDog.access$200(UnixProcess.java:201)
+	at org.openqa.selenium.os.UnixProcess.destroy(UnixProcess.java:125)
+	at org.openqa.selenium.os.CommandLine.destroy(CommandLine.java:155)
+	at org.openqa.selenium.remote.service.DriverService.stop(DriverService.java:196)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:94)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:620)
+	... 36 more
+Caused by: java.lang.NullPointerException: Unable to find executable for: taskkill
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:250)
+	at org.openqa.selenium.os.UnixProcess.<init>(UnixProcess.java:62)
+	at org.openqa.selenium.os.CommandLine.<init>(CommandLine.java:38)
+	at org.openqa.selenium.os.WindowsUtils.killPID(WindowsUtils.java:178)
+	at org.openqa.selenium.os.ProcessUtils.killWinProcess(ProcessUtils.java:138)
+	... 44 more
+[17/10/31 15:06:06][ERROR][com.perficient.test.cat.catinspectweb.util.TestCaseBase-246] Driver have quited by other thread or by hand.
+[17/10/31 15:13:09][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-295] 20171031151309
+[17/10/31 15:13:14][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-275] File is moved successful!
+[17/10/31 15:13:14][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-284] Deleting old screen shots created 2 days ago............
+[17/10/31 15:13:14][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-286] Deletion completed!
+[17/10/31 15:13:16][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-91] com.perficient.test.cat.catinspectweb.testcase.email.TC01_Testing
+[17/10/31 15:13:27][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-213] Run in Browser: =Chrome
+[17/10/31 15:13:27][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-214] Run in Environment: =QA
+[17/10/31 15:13:27][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-215] Current Test Case Name =TC01_Testing
+[17/10/31 15:13:27][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-qa.cat.com/'
+[17/10/31 15:14:26][INFO][com.perficient.selenium.support.TimeoutListener-68] System have been waiting for 1 min(s).
+[17/10/31 15:14:58][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsUID'] from '' to ''
+[17/10/31 15:14:58][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsUID'] from '' to 'fengm1'
+[17/10/31 15:14:58][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsPwd'] from '' to ''
+[17/10/31 15:14:58][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsPwd'] from '' to 'Wsx12edc'
+[17/10/31 15:14:58][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //input[@id='submitButton']
+[17/10/31 15:15:03][ERROR][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-45] WebDriver error:
+org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'H2600-0464L', ip: '169.254.213.85', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_15'
+Driver info: driver.version: EventFiringWebDriver
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:641)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:670)
+	at org.openqa.selenium.remote.RemoteWebDriver.quit(RemoteWebDriver.java:516)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:601)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:102)
+	at com.sun.proxy.$Proxy13.quit(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.quit(EventFiringWebDriver.java:201)
+	at com.perficient.test.cat.catinspectweb.util.TestCaseBase.tearDown(TestCaseBase.java:241)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:601)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:564)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:213)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:786)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:254)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+Caused by: java.lang.RuntimeException: Process refused to die after 10 seconds, and couldn't taskkill it: Unable to find executable for: taskkill
+	at org.openqa.selenium.os.ProcessUtils.killWinProcess(ProcessUtils.java:143)
+	at org.openqa.selenium.os.ProcessUtils.killProcess(ProcessUtils.java:81)
+	at org.openqa.selenium.os.UnixProcess$SeleniumWatchDog.destroyHarder(UnixProcess.java:247)
+	at org.openqa.selenium.os.UnixProcess$SeleniumWatchDog.access$200(UnixProcess.java:201)
+	at org.openqa.selenium.os.UnixProcess.destroy(UnixProcess.java:125)
+	at org.openqa.selenium.os.CommandLine.destroy(CommandLine.java:155)
+	at org.openqa.selenium.remote.service.DriverService.stop(DriverService.java:196)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:94)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:620)
+	... 36 more
+Caused by: java.lang.NullPointerException: Unable to find executable for: taskkill
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:250)
+	at org.openqa.selenium.os.UnixProcess.<init>(UnixProcess.java:62)
+	at org.openqa.selenium.os.CommandLine.<init>(CommandLine.java:38)
+	at org.openqa.selenium.os.WindowsUtils.killPID(WindowsUtils.java:178)
+	at org.openqa.selenium.os.ProcessUtils.killWinProcess(ProcessUtils.java:138)
+	... 44 more
+[17/10/31 15:15:03][ERROR][com.perficient.test.cat.catinspectweb.util.TestCaseBase-246] Driver have quited by other thread or by hand.
+[17/10/31 16:33:31][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-295] 20171031163331
+[17/10/31 16:33:36][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-275] File is moved successful!
+[17/10/31 16:33:36][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-284] Deleting old screen shots created 2 days ago............
+[17/10/31 16:33:36][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-286] Deletion completed!
+[17/10/31 16:33:37][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-91] com.perficient.test.cat.catinspectweb.testcase.email.TC01_Testing
+[17/10/31 16:34:19][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-295] 20171031163419
+[17/10/31 16:34:24][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-275] File is moved successful!
+[17/10/31 16:34:24][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-284] Deleting old screen shots created 2 days ago............
+[17/10/31 16:34:24][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-286] Deletion completed!
+[17/10/31 16:34:25][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-91] com.perficient.test.cat.catinspectweb.testcase.email.TC01_Testing
+[17/10/31 16:34:35][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-213] Run in Browser: =Chrome
+[17/10/31 16:34:35][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-214] Run in Environment: =QA
+[17/10/31 16:34:35][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-215] Current Test Case Name =TC01_Testing
+[17/10/31 16:34:36][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-qa.cat.com/'
+[17/10/31 16:35:35][INFO][com.perficient.selenium.support.TimeoutListener-68] System have been waiting for 1 min(s).
+[17/10/31 16:35:36][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsUID'] from '' to ''
+[17/10/31 16:35:36][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsUID'] from '' to 'fengm1'
+[17/10/31 16:35:36][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsPwd'] from '' to ''
+[17/10/31 16:35:36][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsPwd'] from '' to 'Wsx12edc'
+[17/10/31 16:35:36][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //input[@id='submitButton']
+[17/10/31 16:35:41][ERROR][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-45] WebDriver error:
+org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'H2600-0464L', ip: '169.254.213.85', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_60'
+Driver info: driver.version: EventFiringWebDriver
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:641)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:670)
+	at org.openqa.selenium.remote.RemoteWebDriver.quit(RemoteWebDriver.java:516)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:102)
+	at com.sun.proxy.$Proxy11.quit(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.quit(EventFiringWebDriver.java:201)
+	at com.perficient.test.cat.catinspectweb.util.TestCaseBase.tearDown(TestCaseBase.java:241)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:564)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:213)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:786)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:254)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+Caused by: java.lang.RuntimeException: Process refused to die after 10 seconds, and couldn't taskkill it: Unable to find executable for: taskkill
+	at org.openqa.selenium.os.ProcessUtils.killWinProcess(ProcessUtils.java:143)
+	at org.openqa.selenium.os.ProcessUtils.killProcess(ProcessUtils.java:81)
+	at org.openqa.selenium.os.UnixProcess$SeleniumWatchDog.destroyHarder(UnixProcess.java:247)
+	at org.openqa.selenium.os.UnixProcess$SeleniumWatchDog.access$200(UnixProcess.java:201)
+	at org.openqa.selenium.os.UnixProcess.destroy(UnixProcess.java:125)
+	at org.openqa.selenium.os.CommandLine.destroy(CommandLine.java:155)
+	at org.openqa.selenium.remote.service.DriverService.stop(DriverService.java:196)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:94)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:620)
+	... 36 more
+Caused by: java.lang.NullPointerException: Unable to find executable for: taskkill
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:250)
+	at org.openqa.selenium.os.UnixProcess.<init>(UnixProcess.java:62)
+	at org.openqa.selenium.os.CommandLine.<init>(CommandLine.java:38)
+	at org.openqa.selenium.os.WindowsUtils.killPID(WindowsUtils.java:178)
+	at org.openqa.selenium.os.ProcessUtils.killWinProcess(ProcessUtils.java:138)
+	... 44 more
+[17/10/31 16:35:41][ERROR][com.perficient.test.cat.catinspectweb.util.TestCaseBase-246] Driver have quited by other thread or by hand.

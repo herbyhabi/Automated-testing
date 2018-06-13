@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="false" thread-count="1"
+	configfailurepolicy="continue">
+		<parameter name="browserFlagO" value="1" />
+		<parameter name="envFlag" value="Dev" />
+
+	<test name="cat-selenium-chrome" preserve-order="false">
+		<packages>			
+
+			<package name="com.perficient.test.cat.catinspectweb.testcase.createform" />
+			<package name="com.perficient.test.cat.catinspectweb.testcase.assigninspection" />
+			<package name="com.perficient.test.cat.catinspectweb.testcase.ManageForm" />
+			<package name="com.perficient.test.cat.catinspectweb.testcase.editinspection" />
+			<package name="com.perficient.test.cat.catinspectweb.testcase.advancedsearch" />
+			<package name="com.perficient.test.cat.catinspectweb.testcase.UserAdmin" />
+		</packages>
+ 		
+	</test>
+</suite>

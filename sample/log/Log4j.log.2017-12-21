@@ -1,0 +1,695 @@
+[17/12/21 09:20:21][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-67] 20171221092021
+[17/12/21 09:20:26][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-83] Before Deletion
+[17/12/21 09:20:26][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-115] 20171220171859.png
+[17/12/21 09:20:26][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-88] File is moved successful!
+[17/12/21 09:20:31][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-qa.cat.com/'
+[17/12/21 09:21:20][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsUID'] from '' to ''
+[17/12/21 09:21:20][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsUID'] from '' to 'zhangc42'
+[17/12/21 09:21:20][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsPwd'] from '' to ''
+[17/12/21 09:21:20][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsPwd'] from '' to 'Zhh131109'
+[17/12/21 09:21:20][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //input[@id='submitButton']
+[17/12/21 09:21:26][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //span[@class = 'glyphicon glyphicon-menu-hamburger']
+[17/12/21 09:21:26][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //a[@data-toggle= 'dropdown']
+[17/12/21 09:21:26][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id =  'dealerSearch'] from '' to ''
+[17/12/21 09:21:26][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id =  'dealerSearch'] from '' to 'TD00'
+[17/12/21 09:21:26][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //input[@id =  'dealerSearch']
+[17/12/21 09:21:28][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-101] Click on the element find By.xpath: //li[@class = 'dropdown-submenu open']//div[@class='item'] by javascript
+[17/12/21 09:21:30][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //li[@class = 'dropdown-submenu open']//span[@class='glyphicon glyphicon-ok']
+[17/12/21 09:21:31][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-415] .\errorImages\20171221092131.png
+[17/12/21 09:21:31][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 0 is: java.lang.Thread.getStackTrace(Unknown Source)
+[17/12/21 09:21:31][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 0 stack trace is: -1
+[17/12/21 09:21:31][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 1 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.logStackTraceInfo(CustomAssertion.java:451)
+[17/12/21 09:21:31][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 1 stack trace is: 452
+[17/12/21 09:21:31][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 2 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.printError(CustomAssertion.java:416)
+[17/12/21 09:21:31][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 2 stack trace is: 416
+[17/12/21 09:21:31][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 3 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.assertEquals(CustomAssertion.java:76)
+[17/12/21 09:21:31][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 3 stack trace is: 76
+[17/12/21 09:21:31][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 4 is: com.perficient.test.cat.catinspectweb.testcase.UserAdmin.TC2858_OpenUserprofileAndEditorganization.verify_TC2858_OpenUserprofileAndEditorganization(TC2858_OpenUserprofileAndEditorganization.java:51)
+[17/12/21 09:21:31][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 4 stack trace is: 51
+[17/12/21 09:21:31][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 5 is: sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[17/12/21 09:21:31][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 5 stack trace is: -2
+[17/12/21 09:21:31][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 6 is: sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[17/12/21 09:21:31][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 6 stack trace is: -1
+[17/12/21 09:21:31][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-455] StackTrace for Assert is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.assertEquals(CustomAssertion.java:76)
+[17/12/21 09:21:31][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-456] Assert LineNumber is: 76
+[17/12/21 09:21:31][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //div[@class = 'modal-footer']//span[@class='glyphicon glyphicon-ok']
+[17/12/21 09:21:43][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //span[@class='admin']
+[17/12/21 09:21:50][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-428] .\errorImages\20171221092150.png
+[17/12/21 09:21:50][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 0 is: java.lang.Thread.getStackTrace(Unknown Source)
+[17/12/21 09:21:50][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 0 stack trace is: -1
+[17/12/21 09:21:50][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 1 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.logStackTraceInfo(CustomAssertion.java:451)
+[17/12/21 09:21:50][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 1 stack trace is: 452
+[17/12/21 09:21:50][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 2 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.printError(CustomAssertion.java:429)
+[17/12/21 09:21:50][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 2 stack trace is: 429
+[17/12/21 09:21:50][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 3 is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.afterMethod(TestCaseBase.java:209)
+[17/12/21 09:21:50][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 3 stack trace is: 209
+[17/12/21 09:21:50][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 4 is: sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[17/12/21 09:21:50][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 4 stack trace is: -2
+[17/12/21 09:21:50][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 5 is: sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[17/12/21 09:21:50][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 5 stack trace is: -1
+[17/12/21 09:21:50][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 6 is: sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[17/12/21 09:21:50][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 6 stack trace is: -1
+[17/12/21 09:21:50][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-455] StackTrace for Assert is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.afterMethod(TestCaseBase.java:209)
+[17/12/21 09:21:50][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-456] Assert LineNumber is: 209
+[17/12/21 09:24:32][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-67] 20171221092432
+[17/12/21 09:24:37][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-83] Before Deletion
+[17/12/21 09:24:37][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-115] 20171221092131.png
+[17/12/21 09:24:37][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-115] 20171221092150.png
+[17/12/21 09:24:37][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-88] File is moved successful!
+[17/12/21 09:24:42][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-qa.cat.com/'
+[17/12/21 09:25:30][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsUID'] from '' to ''
+[17/12/21 09:25:30][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsUID'] from '' to 'zhangc42'
+[17/12/21 09:25:31][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsPwd'] from '' to ''
+[17/12/21 09:25:31][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsPwd'] from '' to 'Zhh131109'
+[17/12/21 09:25:31][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //input[@id='submitButton']
+[17/12/21 09:25:36][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //span[@class = 'glyphicon glyphicon-menu-hamburger']
+[17/12/21 09:25:36][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //a[@data-toggle= 'dropdown']
+[17/12/21 09:25:36][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id =  'dealerSearch'] from '' to ''
+[17/12/21 09:25:36][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id =  'dealerSearch'] from '' to 'TD00'
+[17/12/21 09:25:37][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //input[@id =  'dealerSearch']
+[17/12/21 09:25:40][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-101] Click on the element find By.xpath: //li[@class = 'dropdown-submenu open']//div[@class='item'] by javascript
+[17/12/21 09:25:41][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //li[@class = 'dropdown-submenu open']//span[@class='glyphicon glyphicon-ok']
+[17/12/21 09:25:42][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-415] .\errorImages\20171221092542.png
+[17/12/21 09:25:42][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 0 is: java.lang.Thread.getStackTrace(Unknown Source)
+[17/12/21 09:25:42][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 0 stack trace is: -1
+[17/12/21 09:25:42][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 1 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.logStackTraceInfo(CustomAssertion.java:451)
+[17/12/21 09:25:42][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 1 stack trace is: 452
+[17/12/21 09:25:42][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 2 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.printError(CustomAssertion.java:416)
+[17/12/21 09:25:42][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 2 stack trace is: 416
+[17/12/21 09:25:42][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 3 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.assertEquals(CustomAssertion.java:76)
+[17/12/21 09:25:42][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 3 stack trace is: 76
+[17/12/21 09:25:42][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 4 is: com.perficient.test.cat.catinspectweb.testcase.UserAdmin.TC2858_OpenUserprofileAndEditorganization.verify_TC2858_OpenUserprofileAndEditorganization(TC2858_OpenUserprofileAndEditorganization.java:53)
+[17/12/21 09:25:42][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 4 stack trace is: 53
+[17/12/21 09:25:42][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 5 is: sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[17/12/21 09:25:42][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 5 stack trace is: -2
+[17/12/21 09:25:42][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 6 is: sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[17/12/21 09:25:42][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 6 stack trace is: -1
+[17/12/21 09:25:42][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-455] StackTrace for Assert is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.assertEquals(CustomAssertion.java:76)
+[17/12/21 09:25:42][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-456] Assert LineNumber is: 76
+[17/12/21 09:25:42][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //div[@class = 'modal-footer']//span[@class='glyphicon glyphicon-ok']
+[17/12/21 09:25:54][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //span[@class='admin']
+[17/12/21 09:26:00][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-428] .\errorImages\20171221092600.png
+[17/12/21 09:26:00][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 0 is: java.lang.Thread.getStackTrace(Unknown Source)
+[17/12/21 09:26:00][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 0 stack trace is: -1
+[17/12/21 09:26:00][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 1 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.logStackTraceInfo(CustomAssertion.java:451)
+[17/12/21 09:26:00][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 1 stack trace is: 452
+[17/12/21 09:26:00][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 2 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.printError(CustomAssertion.java:429)
+[17/12/21 09:26:00][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 2 stack trace is: 429
+[17/12/21 09:26:00][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 3 is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.afterMethod(TestCaseBase.java:209)
+[17/12/21 09:26:00][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 3 stack trace is: 209
+[17/12/21 09:26:00][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 4 is: sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[17/12/21 09:26:00][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 4 stack trace is: -2
+[17/12/21 09:26:00][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 5 is: sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[17/12/21 09:26:00][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 5 stack trace is: -1
+[17/12/21 09:26:00][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 6 is: sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[17/12/21 09:26:00][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 6 stack trace is: -1
+[17/12/21 09:26:00][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-455] StackTrace for Assert is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.afterMethod(TestCaseBase.java:209)
+[17/12/21 09:26:00][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-456] Assert LineNumber is: 209
+[17/12/21 09:26:18][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-67] 20171221092618
+[17/12/21 09:26:23][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-83] Before Deletion
+[17/12/21 09:26:23][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-115] 20171221092542.png
+[17/12/21 09:26:23][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-115] 20171221092600.png
+[17/12/21 09:26:23][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-88] File is moved successful!
+[17/12/21 09:26:29][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-qa.cat.com/'
+[17/12/21 09:27:15][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsUID'] from '' to ''
+[17/12/21 09:27:15][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsUID'] from '' to 'zhangc42'
+[17/12/21 09:27:15][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsPwd'] from '' to ''
+[17/12/21 09:27:15][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsPwd'] from '' to 'Zhh131109'
+[17/12/21 09:27:15][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //input[@id='submitButton']
+[17/12/21 09:27:21][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //span[@class = 'glyphicon glyphicon-menu-hamburger']
+[17/12/21 09:27:21][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //a[@data-toggle= 'dropdown']
+[17/12/21 09:27:21][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id =  'dealerSearch'] from '' to ''
+[17/12/21 09:27:21][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id =  'dealerSearch'] from '' to 'TD00'
+[17/12/21 09:27:21][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //input[@id =  'dealerSearch']
+[17/12/21 09:27:25][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-101] Click on the element find By.xpath: //li[@class = 'dropdown-submenu open']//div[@class='item'] by javascript
+[17/12/21 09:27:26][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //li[@class = 'dropdown-submenu open']//span[@class='glyphicon glyphicon-ok']
+[17/12/21 09:27:27][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-415] .\errorImages\20171221092727.png
+[17/12/21 09:27:27][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 0 is: java.lang.Thread.getStackTrace(Unknown Source)
+[17/12/21 09:27:27][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 0 stack trace is: -1
+[17/12/21 09:27:27][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 1 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.logStackTraceInfo(CustomAssertion.java:451)
+[17/12/21 09:27:27][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 1 stack trace is: 452
+[17/12/21 09:27:27][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 2 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.printError(CustomAssertion.java:416)
+[17/12/21 09:27:27][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 2 stack trace is: 416
+[17/12/21 09:27:27][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 3 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.assertEquals(CustomAssertion.java:76)
+[17/12/21 09:27:27][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 3 stack trace is: 76
+[17/12/21 09:27:27][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 4 is: com.perficient.test.cat.catinspectweb.testcase.UserAdmin.TC2858_OpenUserprofileAndEditorganization.verify_TC2858_OpenUserprofileAndEditorganization(TC2858_OpenUserprofileAndEditorganization.java:52)
+[17/12/21 09:27:27][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 4 stack trace is: 52
+[17/12/21 09:27:27][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 5 is: sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[17/12/21 09:27:27][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 5 stack trace is: -2
+[17/12/21 09:27:27][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 6 is: sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[17/12/21 09:27:27][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 6 stack trace is: -1
+[17/12/21 09:27:27][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-455] StackTrace for Assert is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.assertEquals(CustomAssertion.java:76)
+[17/12/21 09:27:27][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-456] Assert LineNumber is: 76
+[17/12/21 09:27:27][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //div[@class = 'modal-footer']//span[@class='glyphicon glyphicon-ok']
+[17/12/21 09:27:43][ERROR][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-45] WebDriver error:
+org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=62.0.3202.89)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.09 seconds
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'H2600-0463L', ip: '10.2.7.10', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f), userDataDir=C:\Users\herby.he\AppData\Local\Temp\scoped_dir6104_32750}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=62.0.3202.89, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: c5f122744fa89588ba5b5c7691948e46
+*** Element info: {Using=xpath, value=//span[@class='admin']}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:647)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:490)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:345)
+	at sun.reflect.GeneratedMethodAccessor5.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:102)
+	at com.sun.proxy.$Proxy11.findElement(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:187)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy13.isDisplayed(Unknown Source)
+	at com.perficient.test.cat.catinspectweb.util.FunctionUtil.isElementExist(FunctionUtil.java:600)
+	at com.perficient.test.cat.catinspectweb.util.FunctionUtil.waitForElementExist(FunctionUtil.java:836)
+	at com.perficient.test.cat.catinspectweb.util.FunctionUtil.click(FunctionUtil.java:299)
+	at com.perficient.test.cat.catinspectweb.util.CustomizedFunctionUtil.click(CustomizedFunctionUtil.java:20)
+	at com.perficient.test.cat.catinspectweb.testcase.UserAdmin.TC2858_OpenUserprofileAndEditorganization.verify_TC2858_OpenUserprofileAndEditorganization(TC2858_OpenUserprofileAndEditorganization.java:58)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:254)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+[17/12/21 09:27:51][ERROR][com.perficient.test.cat.catinspectweb.util.TestCaseBase-199] Driver have quited by other thread or by hand.
+[17/12/21 09:28:20][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-67] 20171221092820
+[17/12/21 09:28:25][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-83] Before Deletion
+[17/12/21 09:28:25][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-115] 20171221092727.png
+[17/12/21 09:28:25][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-88] File is moved successful!
+[17/12/21 09:28:30][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-qa.cat.com/'
+[17/12/21 09:29:15][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsUID'] from '' to ''
+[17/12/21 09:29:15][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsUID'] from '' to 'zhangc42'
+[17/12/21 09:29:15][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsPwd'] from '' to ''
+[17/12/21 09:29:16][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsPwd'] from '' to 'Zhh131109'
+[17/12/21 09:29:16][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //input[@id='submitButton']
+[17/12/21 09:29:21][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //span[@class = 'glyphicon glyphicon-menu-hamburger']
+[17/12/21 09:29:21][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //a[@data-toggle= 'dropdown']
+[17/12/21 09:29:21][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id =  'dealerSearch'] from '' to ''
+[17/12/21 09:29:21][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id =  'dealerSearch'] from '' to 'TD00'
+[17/12/21 09:29:26][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //input[@id =  'dealerSearch']
+[17/12/21 09:29:41][ERROR][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-45] WebDriver error:
+org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=62.0.3202.89)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.10 seconds
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'H2600-0463L', ip: '10.2.7.10', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f), userDataDir=C:\Users\herby.he\AppData\Local\Temp\scoped_dir2000_7493}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=62.0.3202.89, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 1a7e915513894496e85811426ec802a1
+*** Element info: {Using=xpath, value=//li[@class = 'dropdown-submenu open']//div[@class='item']}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:647)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:378)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementsByXPath(RemoteWebDriver.java:494)
+	at org.openqa.selenium.By$ByXPath.findElements(By.java:356)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:341)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:102)
+	at com.sun.proxy.$Proxy11.findElements(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElements(EventFiringWebDriver.java:176)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElements(DefaultElementLocator.java:85)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementListHandler.invoke(LocatingElementListHandler.java:36)
+	at com.sun.proxy.$Proxy14.get(Unknown Source)
+	at com.perficient.test.cat.catinspectweb.testcase.UserAdmin.TC2858_OpenUserprofileAndEditorganization.verify_TC2858_OpenUserprofileAndEditorganization(TC2858_OpenUserprofileAndEditorganization.java:50)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:254)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+[17/12/21 09:29:49][ERROR][com.perficient.test.cat.catinspectweb.util.TestCaseBase-199] Driver have quited by other thread or by hand.
+[17/12/21 09:30:10][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-67] 20171221093010
+[17/12/21 09:30:15][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-83] Before Deletion
+[17/12/21 09:30:15][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-88] File is moved successful!
+[17/12/21 09:30:20][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-qa.cat.com/'
+[17/12/21 09:31:24][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsUID'] from '' to ''
+[17/12/21 09:31:24][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsUID'] from '' to 'zhangc42'
+[17/12/21 09:31:24][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsPwd'] from '' to ''
+[17/12/21 09:31:25][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsPwd'] from '' to 'Zhh131109'
+[17/12/21 09:31:25][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //input[@id='submitButton']
+[17/12/21 09:31:30][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //span[@class = 'glyphicon glyphicon-menu-hamburger']
+[17/12/21 09:31:30][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //a[@data-toggle= 'dropdown']
+[17/12/21 09:31:30][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id =  'dealerSearch'] from '' to ''
+[17/12/21 09:31:30][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id =  'dealerSearch'] from '' to 'TD00'
+[17/12/21 09:31:35][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //input[@id =  'dealerSearch']
+[17/12/21 09:31:46][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-101] Click on the element find By.xpath: //li[@class = 'dropdown-submenu open']//div[@class='item'] by javascript
+[17/12/21 09:33:59][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-67] 20171221093359
+[17/12/21 09:34:04][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-83] Before Deletion
+[17/12/21 09:34:04][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-88] File is moved successful!
+[17/12/21 09:34:10][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-qa.cat.com/'
+[17/12/21 09:34:56][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsUID'] from '' to ''
+[17/12/21 09:34:57][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsUID'] from '' to 'zhangc42'
+[17/12/21 09:34:57][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsPwd'] from '' to ''
+[17/12/21 09:34:57][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsPwd'] from '' to 'Zhh131109'
+[17/12/21 09:34:57][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //input[@id='submitButton']
+[17/12/21 09:35:02][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //span[@class = 'glyphicon glyphicon-menu-hamburger']
+[17/12/21 09:35:02][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //a[@data-toggle= 'dropdown']
+[17/12/21 09:35:02][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id =  'dealerSearch'] from '' to ''
+[17/12/21 09:35:03][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id =  'dealerSearch'] from '' to 'TD00'
+[17/12/21 09:35:08][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //input[@id =  'dealerSearch']
+[17/12/21 09:35:18][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-101] Click on the element find By.xpath: //li[@class = 'dropdown-submenu open']//div[@class='item'] by javascript
+[17/12/21 09:35:19][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //li[@class = 'dropdown-submenu open']//span[@class='glyphicon glyphicon-ok']
+[17/12/21 09:35:23][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-415] .\errorImages\20171221093523.png
+[17/12/21 09:35:23][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 0 is: java.lang.Thread.getStackTrace(Unknown Source)
+[17/12/21 09:35:23][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 0 stack trace is: -1
+[17/12/21 09:35:23][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 1 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.logStackTraceInfo(CustomAssertion.java:451)
+[17/12/21 09:35:23][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 1 stack trace is: 452
+[17/12/21 09:35:23][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 2 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.printError(CustomAssertion.java:416)
+[17/12/21 09:35:23][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 2 stack trace is: 416
+[17/12/21 09:35:23][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 3 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.assertEquals(CustomAssertion.java:76)
+[17/12/21 09:35:23][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 3 stack trace is: 76
+[17/12/21 09:35:23][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 4 is: com.perficient.test.cat.catinspectweb.testcase.UserAdmin.TC2858_OpenUserprofileAndEditorganization.verify_TC2858_OpenUserprofileAndEditorganization(TC2858_OpenUserprofileAndEditorganization.java:53)
+[17/12/21 09:35:23][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 4 stack trace is: 53
+[17/12/21 09:35:23][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 5 is: sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[17/12/21 09:35:23][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 5 stack trace is: -2
+[17/12/21 09:35:23][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 6 is: sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[17/12/21 09:35:23][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 6 stack trace is: -1
+[17/12/21 09:35:23][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-455] StackTrace for Assert is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.assertEquals(CustomAssertion.java:76)
+[17/12/21 09:35:23][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-456] Assert LineNumber is: 76
+[17/12/21 09:39:15][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-67] 20171221093915
+[17/12/21 09:39:20][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-83] Before Deletion
+[17/12/21 09:39:20][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-115] 20171221093523.png
+[17/12/21 09:39:20][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-88] File is moved successful!
+[17/12/21 09:39:25][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-qa.cat.com/'
+[17/12/21 09:40:12][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsUID'] from '' to ''
+[17/12/21 09:40:12][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsUID'] from '' to 'zhangc42'
+[17/12/21 09:40:13][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsPwd'] from '' to ''
+[17/12/21 09:40:13][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsPwd'] from '' to 'Zhh131109'
+[17/12/21 09:40:13][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //input[@id='submitButton']
+[17/12/21 09:40:18][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //span[@class = 'glyphicon glyphicon-menu-hamburger']
+[17/12/21 09:40:19][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //a[@data-toggle= 'dropdown']
+[17/12/21 09:40:19][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //input[@id =  'dealerSearch']
+[17/12/21 09:40:19][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id =  'dealerSearch'] from '' to ''
+[17/12/21 09:40:19][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id =  'dealerSearch'] from '' to 'TD00'
+[17/12/21 09:40:24][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //input[@id =  'dealerSearch']
+[17/12/21 09:40:35][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-101] Click on the element find By.xpath: //li[@class = 'dropdown-submenu open']//div[@class='item'] by javascript
+[17/12/21 09:40:36][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //li[@class = 'dropdown-submenu open']//span[@class='glyphicon glyphicon-ok']
+[17/12/21 09:43:56][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-67] 20171221094356
+[17/12/21 09:44:01][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-83] Before Deletion
+[17/12/21 09:44:01][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-88] File is moved successful!
+[17/12/21 09:44:07][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-qa.cat.com/'
+[17/12/21 09:44:55][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsUID'] from '' to ''
+[17/12/21 09:44:55][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsUID'] from '' to 'zhangc42'
+[17/12/21 09:44:55][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsPwd'] from '' to ''
+[17/12/21 09:44:55][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsPwd'] from '' to 'Zhh131109'
+[17/12/21 09:44:55][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //input[@id='submitButton']
+[17/12/21 09:45:01][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //span[@class = 'glyphicon glyphicon-menu-hamburger']
+[17/12/21 09:45:01][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //a[@data-toggle= 'dropdown']
+[17/12/21 09:45:01][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //input[@id =  'dealerSearch']
+[17/12/21 09:45:01][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id =  'dealerSearch'] from '' to ''
+[17/12/21 09:45:01][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id =  'dealerSearch'] from '' to 'TD00'
+[17/12/21 09:45:01][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //input[@id =  'dealerSearch']
+[17/12/21 09:45:06][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-101] Click on the element find By.xpath: //li[@class = 'dropdown-submenu open']//div[@class='item'] by javascript
+[17/12/21 09:45:07][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //li[@class = 'dropdown-submenu open']//span[@class='glyphicon glyphicon-ok']
+[17/12/21 09:45:08][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-415] .\errorImages\20171221094508.png
+[17/12/21 09:45:08][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 0 is: java.lang.Thread.getStackTrace(Unknown Source)
+[17/12/21 09:45:08][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 0 stack trace is: -1
+[17/12/21 09:45:08][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 1 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.logStackTraceInfo(CustomAssertion.java:451)
+[17/12/21 09:45:08][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 1 stack trace is: 452
+[17/12/21 09:45:08][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 2 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.printError(CustomAssertion.java:416)
+[17/12/21 09:45:08][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 2 stack trace is: 416
+[17/12/21 09:45:08][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 3 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.assertEquals(CustomAssertion.java:76)
+[17/12/21 09:45:08][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 3 stack trace is: 76
+[17/12/21 09:45:08][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 4 is: com.perficient.test.cat.catinspectweb.testcase.UserAdmin.TC2858_OpenUserprofileAndEditorganization.verify_TC2858_OpenUserprofileAndEditorganization(TC2858_OpenUserprofileAndEditorganization.java:49)
+[17/12/21 09:45:08][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 4 stack trace is: 49
+[17/12/21 09:45:08][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 5 is: sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[17/12/21 09:45:08][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 5 stack trace is: -2
+[17/12/21 09:45:08][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 6 is: sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[17/12/21 09:45:08][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 6 stack trace is: -1
+[17/12/21 09:45:08][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-455] StackTrace for Assert is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.assertEquals(CustomAssertion.java:76)
+[17/12/21 09:45:08][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-456] Assert LineNumber is: 76
+[17/12/21 09:45:08][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //div[@class = 'modal-footer']//span[@class='glyphicon glyphicon-ok']
+[17/12/21 09:45:20][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //span[@class='admin']
+[17/12/21 09:47:33][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-67] 20171221094733
+[17/12/21 09:47:38][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-83] Before Deletion
+[17/12/21 09:47:38][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-115] 20171221094508.png
+[17/12/21 09:47:38][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-88] File is moved successful!
+[17/12/21 09:47:44][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-qa.cat.com/'
+[17/12/21 09:48:33][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsUID'] from '' to ''
+[17/12/21 09:48:33][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsUID'] from '' to 'zhangc42'
+[17/12/21 09:48:34][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsPwd'] from '' to ''
+[17/12/21 09:48:34][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsPwd'] from '' to 'Zhh131109'
+[17/12/21 09:48:34][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //input[@id='submitButton']
+[17/12/21 09:48:39][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //span[@class = 'glyphicon glyphicon-menu-hamburger']
+[17/12/21 09:48:39][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //a[@data-toggle= 'dropdown']
+[17/12/21 09:48:40][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id =  'dealerSearch'] from '' to ''
+[17/12/21 09:48:40][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id =  'dealerSearch'] from '' to 'TD00'
+[17/12/21 09:48:40][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //input[@id =  'dealerSearch']
+[17/12/21 09:48:44][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-101] Click on the element find By.xpath: //li[@class = 'dropdown-submenu open']//div[@class='item'] by javascript
+[17/12/21 09:48:45][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //li[@class = 'dropdown-submenu open']//span[@class='glyphicon glyphicon-ok']
+[17/12/21 09:48:46][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-415] .\errorImages\20171221094846.png
+[17/12/21 09:48:46][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 0 is: java.lang.Thread.getStackTrace(Unknown Source)
+[17/12/21 09:48:46][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 0 stack trace is: -1
+[17/12/21 09:48:46][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 1 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.logStackTraceInfo(CustomAssertion.java:451)
+[17/12/21 09:48:46][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 1 stack trace is: 452
+[17/12/21 09:48:46][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 2 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.printError(CustomAssertion.java:416)
+[17/12/21 09:48:46][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 2 stack trace is: 416
+[17/12/21 09:48:46][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 3 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.assertEquals(CustomAssertion.java:76)
+[17/12/21 09:48:46][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 3 stack trace is: 76
+[17/12/21 09:48:46][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 4 is: com.perficient.test.cat.catinspectweb.testcase.UserAdmin.TC2858_OpenUserprofileAndEditorganization.verify_TC2858_OpenUserprofileAndEditorganization(TC2858_OpenUserprofileAndEditorganization.java:49)
+[17/12/21 09:48:46][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 4 stack trace is: 49
+[17/12/21 09:48:46][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 5 is: sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[17/12/21 09:48:46][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 5 stack trace is: -2
+[17/12/21 09:48:46][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 6 is: sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[17/12/21 09:48:46][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 6 stack trace is: -1
+[17/12/21 09:48:46][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-455] StackTrace for Assert is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.assertEquals(CustomAssertion.java:76)
+[17/12/21 09:48:46][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-456] Assert LineNumber is: 76
+[17/12/21 09:48:46][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //div[@class = 'modal-footer']//span[@class='glyphicon glyphicon-ok']
+[17/12/21 09:48:58][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //span[@class='admin']
+[17/12/21 09:52:09][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-67] 20171221095209
+[17/12/21 09:52:14][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-83] Before Deletion
+[17/12/21 09:52:14][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-115] 20171221094846.png
+[17/12/21 09:52:14][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-88] File is moved successful!
+[17/12/21 09:52:20][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-qa.cat.com/'
+[17/12/21 09:53:08][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsUID'] from '' to ''
+[17/12/21 09:53:08][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsUID'] from '' to 'zhangc42'
+[17/12/21 09:53:08][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsPwd'] from '' to ''
+[17/12/21 09:53:08][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsPwd'] from '' to 'Zhh131109'
+[17/12/21 09:53:08][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //input[@id='submitButton']
+[17/12/21 09:53:14][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //span[@class = 'glyphicon glyphicon-menu-hamburger']
+[17/12/21 09:53:14][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //a[@data-toggle= 'dropdown']
+[17/12/21 09:53:14][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id =  'dealerSearch'] from '' to ''
+[17/12/21 09:53:15][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id =  'dealerSearch'] from '' to 'CATERPILLAR DEMO DEALER'
+[17/12/21 09:53:15][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //input[@id =  'dealerSearch']
+[17/12/21 09:53:19][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-101] Click on the element find By.xpath: //li[@class = 'dropdown-submenu open']//div[@class='item'] by javascript
+[17/12/21 09:53:20][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //li[@class = 'dropdown-submenu open']//span[@class='glyphicon glyphicon-ok']
+[17/12/21 09:53:21][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-415] .\errorImages\20171221095321.png
+[17/12/21 09:53:21][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 0 is: java.lang.Thread.getStackTrace(Unknown Source)
+[17/12/21 09:53:21][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 0 stack trace is: -1
+[17/12/21 09:53:21][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 1 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.logStackTraceInfo(CustomAssertion.java:451)
+[17/12/21 09:53:21][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 1 stack trace is: 452
+[17/12/21 09:53:21][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 2 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.printError(CustomAssertion.java:416)
+[17/12/21 09:53:21][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 2 stack trace is: 416
+[17/12/21 09:53:21][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 3 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.assertEquals(CustomAssertion.java:76)
+[17/12/21 09:53:21][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 3 stack trace is: 76
+[17/12/21 09:53:21][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 4 is: com.perficient.test.cat.catinspectweb.testcase.UserAdmin.TC2858_OpenUserprofileAndEditorganization.verify_TC2858_OpenUserprofileAndEditorganization(TC2858_OpenUserprofileAndEditorganization.java:50)
+[17/12/21 09:53:21][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 4 stack trace is: 50
+[17/12/21 09:53:21][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 5 is: sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[17/12/21 09:53:21][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 5 stack trace is: -2
+[17/12/21 09:53:21][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 6 is: sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[17/12/21 09:53:21][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 6 stack trace is: -1
+[17/12/21 09:53:21][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-455] StackTrace for Assert is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.assertEquals(CustomAssertion.java:76)
+[17/12/21 09:53:21][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-456] Assert LineNumber is: 76
+[17/12/21 09:53:21][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //div[@class = 'modal-footer']//span[@class='glyphicon glyphicon-ok']
+[17/12/21 09:53:37][ERROR][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-45] WebDriver error:
+org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=62.0.3202.89)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.09 seconds
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'H2600-0463L', ip: '10.2.7.10', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f), userDataDir=C:\Users\herby.he\AppData\Local\Temp\scoped_dir1048_4780}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=62.0.3202.89, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 55e3239d0044c5cfa54d935355f90d12
+*** Element info: {Using=xpath, value=//span[@class='admin']}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:647)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:490)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:345)
+	at sun.reflect.GeneratedMethodAccessor5.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:102)
+	at com.sun.proxy.$Proxy11.findElement(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:187)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy13.isDisplayed(Unknown Source)
+	at com.perficient.test.cat.catinspectweb.util.FunctionUtil.isElementExist(FunctionUtil.java:600)
+	at com.perficient.test.cat.catinspectweb.util.FunctionUtil.waitForElementExist(FunctionUtil.java:836)
+	at com.perficient.test.cat.catinspectweb.util.FunctionUtil.click(FunctionUtil.java:299)
+	at com.perficient.test.cat.catinspectweb.util.CustomizedFunctionUtil.click(CustomizedFunctionUtil.java:20)
+	at com.perficient.test.cat.catinspectweb.testcase.UserAdmin.TC2858_OpenUserprofileAndEditorganization.verify_TC2858_OpenUserprofileAndEditorganization(TC2858_OpenUserprofileAndEditorganization.java:55)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:254)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+[17/12/21 09:53:46][ERROR][com.perficient.test.cat.catinspectweb.util.TestCaseBase-199] Driver have quited by other thread or by hand.
+[17/12/21 09:59:08][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-67] 20171221095908
+[17/12/21 09:59:13][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-83] Before Deletion
+[17/12/21 09:59:13][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-115] 20171221095321.png
+[17/12/21 09:59:13][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-88] File is moved successful!
+[17/12/21 09:59:18][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-qa.cat.com/'
+[17/12/21 10:00:13][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsUID'] from '' to ''
+[17/12/21 10:00:13][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsUID'] from '' to 'zhangc42'
+[17/12/21 10:00:13][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsPwd'] from '' to ''
+[17/12/21 10:00:13][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsPwd'] from '' to 'Zhh131109'
+[17/12/21 10:00:13][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //input[@id='submitButton']
+[17/12/21 10:00:19][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //span[@class = 'glyphicon glyphicon-menu-hamburger']
+[17/12/21 10:00:19][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //a[@data-toggle= 'dropdown']
+[17/12/21 10:00:19][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //input[@id =  'dealerSearch']
+[17/12/21 10:00:19][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id =  'dealerSearch'] from '' to ''
+[17/12/21 10:00:19][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id =  'dealerSearch'] from '' to 'TD00'
+[17/12/21 10:00:19][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //input[@id =  'dealerSearch']
+[17/12/21 10:00:24][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-101] Click on the element find By.xpath: //li[@class = 'dropdown-submenu open']//div[@class='item'] by javascript
+[17/12/21 10:00:25][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //li[@class = 'dropdown-submenu open']//span[@class='glyphicon glyphicon-ok']
+[17/12/21 10:00:26][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-415] .\errorImages\20171221100026.png
+[17/12/21 10:00:26][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 0 is: java.lang.Thread.getStackTrace(Unknown Source)
+[17/12/21 10:00:26][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 0 stack trace is: -1
+[17/12/21 10:00:26][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 1 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.logStackTraceInfo(CustomAssertion.java:451)
+[17/12/21 10:00:26][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 1 stack trace is: 452
+[17/12/21 10:00:26][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 2 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.printError(CustomAssertion.java:416)
+[17/12/21 10:00:26][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 2 stack trace is: 416
+[17/12/21 10:00:26][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 3 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.assertEquals(CustomAssertion.java:76)
+[17/12/21 10:00:26][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 3 stack trace is: 76
+[17/12/21 10:00:26][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 4 is: com.perficient.test.cat.catinspectweb.testcase.UserAdmin.TC2858_OpenUserprofileAndEditorganization.verify_TC2858_OpenUserprofileAndEditorganization(TC2858_OpenUserprofileAndEditorganization.java:50)
+[17/12/21 10:00:26][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 4 stack trace is: 50
+[17/12/21 10:00:26][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 5 is: sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[17/12/21 10:00:26][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 5 stack trace is: -2
+[17/12/21 10:00:26][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 6 is: sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[17/12/21 10:00:26][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 6 stack trace is: -1
+[17/12/21 10:00:26][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-455] StackTrace for Assert is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.assertEquals(CustomAssertion.java:76)
+[17/12/21 10:00:26][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-456] Assert LineNumber is: 76
+[17/12/21 10:00:26][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //div[@class = 'modal-footer']//span[@class='glyphicon glyphicon-ok']
+[17/12/21 10:00:45][ERROR][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-45] WebDriver error:
+org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=62.0.3202.89)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4.01 seconds
+Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'
+System info: host: 'H2600-0463L', ip: '10.2.7.10', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f), userDataDir=C:\Users\herby.he\AppData\Local\Temp\scoped_dir7464_4084}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=62.0.3202.89, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 5a6a31749aba4cc82dc9b97459793852
+*** Element info: {Using=xpath, value=//span[@class='admin']}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:647)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:490)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:345)
+	at sun.reflect.GeneratedMethodAccessor5.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:102)
+	at com.sun.proxy.$Proxy11.findElement(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:187)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy13.isDisplayed(Unknown Source)
+	at com.perficient.test.cat.catinspectweb.util.FunctionUtil.isElementExist(FunctionUtil.java:600)
+	at com.perficient.test.cat.catinspectweb.util.FunctionUtil.waitForElementExist(FunctionUtil.java:836)
+	at com.perficient.test.cat.catinspectweb.util.FunctionUtil.click(FunctionUtil.java:299)
+	at com.perficient.test.cat.catinspectweb.util.CustomizedFunctionUtil.click(CustomizedFunctionUtil.java:20)
+	at com.perficient.test.cat.catinspectweb.testcase.UserAdmin.TC2858_OpenUserprofileAndEditorganization.verify_TC2858_OpenUserprofileAndEditorganization(TC2858_OpenUserprofileAndEditorganization.java:55)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:254)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+[17/12/21 10:00:53][ERROR][com.perficient.test.cat.catinspectweb.util.TestCaseBase-199] Driver have quited by other thread or by hand.
+[17/12/21 10:51:23][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-67] 20171221105123
+[17/12/21 10:51:28][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-83] Before Deletion
+[17/12/21 10:51:28][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-115] 20171221100026.png
+[17/12/21 10:51:28][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-88] File is moved successful!
+[17/12/21 10:51:34][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-qa.cat.com/'
+[17/12/21 10:52:24][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsUID'] from '' to ''
+[17/12/21 10:52:25][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsUID'] from '' to 'zhangc42'
+[17/12/21 10:52:25][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsPwd'] from '' to ''
+[17/12/21 10:52:25][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsPwd'] from '' to 'Zhh131109'
+[17/12/21 10:52:25][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //input[@id='submitButton']
+[17/12/21 10:52:30][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //span[@class = 'glyphicon glyphicon-menu-hamburger']
+[17/12/21 10:52:30][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //a[@data-toggle= 'dropdown']
+[17/12/21 10:52:31][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //input[@id =  'dealerSearch']
+[17/12/21 10:52:32][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id =  'dealerSearch'] from '' to ''
+[17/12/21 10:52:32][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id =  'dealerSearch'] from '' to 'TD00'
+[17/12/21 10:52:32][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //input[@id =  'dealerSearch']
+[17/12/21 10:52:36][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-101] Click on the element find By.xpath: //li[@class = 'dropdown-submenu open']//div[@class='item'] by javascript
+[17/12/21 10:52:37][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //li[@class = 'dropdown-submenu open']//span[@class='glyphicon glyphicon-ok']
+[17/12/21 10:52:38][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //div[@class = 'modal-footer']//span[@class='glyphicon glyphicon-ok']
+[17/12/21 10:52:50][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //span[@class='admin']
+[17/12/21 10:52:53][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: (//table[@id= 'table_width']//tr)//td[6]
+[17/12/21 10:52:56][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-43] Element is still not found By.xpath: (//table[@id= 'table_width']//tr)//td[6]
+[17/12/21 10:52:57][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-428] .\errorImages\20171221105257.png
+[17/12/21 10:52:57][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 0 is: java.lang.Thread.getStackTrace(Unknown Source)
+[17/12/21 10:52:57][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 0 stack trace is: -1
+[17/12/21 10:52:57][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 1 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.logStackTraceInfo(CustomAssertion.java:451)
+[17/12/21 10:52:57][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 1 stack trace is: 452
+[17/12/21 10:52:57][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 2 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.printError(CustomAssertion.java:429)
+[17/12/21 10:52:57][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 2 stack trace is: 429
+[17/12/21 10:52:57][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 3 is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.afterMethod(TestCaseBase.java:209)
+[17/12/21 10:52:57][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 3 stack trace is: 209
+[17/12/21 10:52:57][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 4 is: sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[17/12/21 10:52:57][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 4 stack trace is: -2
+[17/12/21 10:52:57][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 5 is: sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[17/12/21 10:52:57][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 5 stack trace is: -1
+[17/12/21 10:52:57][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 6 is: sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[17/12/21 10:52:57][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 6 stack trace is: -1
+[17/12/21 10:52:57][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-455] StackTrace for Assert is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.afterMethod(TestCaseBase.java:209)
+[17/12/21 10:52:57][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-456] Assert LineNumber is: 209
+[17/12/21 10:57:58][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-67] 20171221105758
+[17/12/21 10:58:03][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-83] Before Deletion
+[17/12/21 10:58:03][INFO][com.perficient.test.cat.catinspectweb.util.FunctionUtil-115] 20171221105257.png
+[17/12/21 10:58:03][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-88] File is moved successful!
+[17/12/21 10:58:09][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-qa.cat.com/'
+[17/12/21 10:59:08][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsUID'] from '' to ''
+[17/12/21 10:59:08][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsUID'] from '' to 'zhangc42'
+[17/12/21 10:59:08][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsPwd'] from '' to ''
+[17/12/21 10:59:08][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsPwd'] from '' to 'Zhh131109'
+[17/12/21 10:59:09][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //input[@id='submitButton']
+[17/12/21 10:59:15][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //span[@class = 'glyphicon glyphicon-menu-hamburger']
+[17/12/21 10:59:16][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //a[@data-toggle= 'dropdown']
+[17/12/21 10:59:17][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //input[@id =  'dealerSearch']
+[17/12/21 10:59:21][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id =  'dealerSearch'] from '' to ''
+[17/12/21 10:59:21][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id =  'dealerSearch'] from '' to 'TD00'
+[17/12/21 10:59:21][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //input[@id =  'dealerSearch']
+[17/12/21 10:59:25][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-101] Click on the element find By.xpath: //li[@class = 'dropdown-submenu open']//div[@class='item'] by javascript
+[17/12/21 10:59:27][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //li[@class = 'dropdown-submenu open']//span[@class='glyphicon glyphicon-ok']
+[17/12/21 10:59:27][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //div[@class = 'modal-footer']//span[@class='glyphicon glyphicon-ok']
+[17/12/21 10:59:41][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //span[@class='admin']
+[17/12/21 10:59:46][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: (//table[@id= 'table_width']//tr)//td[6]/span
+[17/12/21 10:59:46][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@name= 'organization'] from 'TD00' to ''
+[17/12/21 10:59:47][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@name= 'organization'] from '' to 'L12D'
+[17/12/21 10:59:47][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //div[@class='modal-footer']//button[@class ='btn btn-success']
+[17/12/21 10:59:49][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //span[@title = 'Refresh']
+[17/12/21 10:59:53][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 0 is: java.lang.Thread.getStackTrace(Unknown Source)
+[17/12/21 10:59:53][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 0 stack trace is: -1
+[17/12/21 10:59:53][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 1 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.logStackTraceInfo(CustomAssertion.java:451)
+[17/12/21 10:59:53][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 1 stack trace is: 452
+[17/12/21 10:59:53][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 2 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.printError(CustomAssertion.java:435)
+[17/12/21 10:59:53][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 2 stack trace is: 435
+[17/12/21 10:59:53][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 3 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.assertTrue(CustomAssertion.java:325)
+[17/12/21 10:59:53][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 3 stack trace is: 325
+[17/12/21 10:59:53][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 4 is: com.perficient.test.cat.catinspectweb.testcase.UserAdmin.TC2858_OpenUserprofileAndEditorganization.verify_TC2858_OpenUserprofileAndEditorganization(TC2858_OpenUserprofileAndEditorganization.java:83)
+[17/12/21 10:59:53][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 4 stack trace is: 83
+[17/12/21 10:59:53][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 5 is: sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[17/12/21 10:59:53][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 5 stack trace is: -2
+[17/12/21 10:59:53][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 6 is: sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[17/12/21 10:59:53][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 6 stack trace is: -1
+[17/12/21 10:59:53][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-455] StackTrace for Assert is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.assertTrue(CustomAssertion.java:325)
+[17/12/21 10:59:53][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-456] Assert LineNumber is: 325
+[17/12/21 10:59:53][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //span[@class = 'glyphicon glyphicon-menu-hamburger']
+[17/12/21 10:59:53][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //a[@data-toggle= 'dropdown']
+[17/12/21 10:59:54][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //input[@id =  'dealerSearch']
+[17/12/21 10:59:55][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id =  'dealerSearch'] from '' to ''
+[17/12/21 10:59:55][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id =  'dealerSearch'] from '' to 'L12D'
+[17/12/21 10:59:55][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //input[@id =  'dealerSearch']
+[17/12/21 10:59:59][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //span[@class='admin']

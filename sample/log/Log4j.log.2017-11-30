@@ -1,0 +1,521 @@
+[17/11/30 09:22:39][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-288] 20171130092239
+[17/11/30 09:22:44][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-268] File is moved successful!
+[17/11/30 09:22:44][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-277] Deleting old screen shots created 2 days ago............
+[17/11/30 09:22:44][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-279] Deletion completed!
+[17/11/30 09:22:45][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-89] com.perficient.test.cat.catinspectweb.testcase.debug.VerifyDealerRetailsFormInfo
+[17/11/30 09:23:11][ERROR][com.perficient.test.cat.catinspectweb.util.TestCaseBase-244] Driver have quited by other thread or by hand.
+[17/11/30 09:24:13][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-288] 20171130092413
+[17/11/30 09:24:18][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-268] File is moved successful!
+[17/11/30 09:24:18][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-277] Deleting old screen shots created 2 days ago............
+[17/11/30 09:24:18][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-279] Deletion completed!
+[17/11/30 09:24:18][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-89] com.perficient.test.cat.catinspectweb.testcase.debug.VerifyDealerRetailsFormInfo
+[17/11/30 09:24:39][ERROR][com.perficient.test.cat.catinspectweb.util.TestCaseBase-244] Driver have quited by other thread or by hand.
+[17/11/30 09:39:26][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-288] 20171130093926
+[17/11/30 09:39:31][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-268] File is moved successful!
+[17/11/30 09:39:31][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-277] Deleting old screen shots created 2 days ago............
+[17/11/30 09:39:31][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-279] Deletion completed!
+[17/11/30 09:39:31][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-89] com.perficient.test.cat.catinspectweb.testcase.debug.VerifyDealerRetailsFormInfo
+[17/11/30 09:40:06][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-211] Run in Browser: =Chrome
+[17/11/30 09:40:06][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-212] Run in Environment: =QA
+[17/11/30 09:40:06][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-213] Current Test Case Name =VerifyDealerRetailsFormInfo
+[17/11/30 09:40:06][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-qa.cat.com/'
+[17/11/30 09:41:00][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsUID'] from '' to ''
+[17/11/30 09:41:00][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsUID'] from '' to 'fengm1'
+[17/11/30 09:41:00][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsPwd'] from '' to ''
+[17/11/30 09:41:00][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsPwd'] from '' to 'Wsx12edc'
+[17/11/30 09:41:01][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //input[@id='submitButton']
+[17/11/30 09:41:24][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-428] .\errorImages\20171130094124.png
+[17/11/30 09:41:24][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 0 is: java.lang.Thread.getStackTrace(Unknown Source)
+[17/11/30 09:41:24][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 0 stack trace is: -1
+[17/11/30 09:41:24][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 1 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.logStackTraceInfo(CustomAssertion.java:451)
+[17/11/30 09:41:24][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 1 stack trace is: 452
+[17/11/30 09:41:24][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 2 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.printError(CustomAssertion.java:429)
+[17/11/30 09:41:24][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 2 stack trace is: 429
+[17/11/30 09:41:24][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 3 is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.tearDown(TestCaseBase.java:233)
+[17/11/30 09:41:24][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 3 stack trace is: 233
+[17/11/30 09:41:24][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 4 is: sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[17/11/30 09:41:24][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 4 stack trace is: -2
+[17/11/30 09:41:24][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 5 is: sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[17/11/30 09:41:24][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 5 stack trace is: -1
+[17/11/30 09:41:24][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 6 is: sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[17/11/30 09:41:24][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 6 stack trace is: -1
+[17/11/30 09:41:24][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-455] StackTrace for Assert is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.tearDown(TestCaseBase.java:233)
+[17/11/30 09:41:24][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-456] Assert LineNumber is: 233
+[17/11/30 09:43:06][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-288] 20171130094306
+[17/11/30 09:43:11][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-268] File is moved successful!
+[17/11/30 09:43:11][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-277] Deleting old screen shots created 2 days ago............
+[17/11/30 09:43:11][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-279] Deletion completed!
+[17/11/30 09:43:11][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-89] com.perficient.test.cat.catinspectweb.testcase.debug.VerifyDealerRetailsFormInfo
+[17/11/30 09:43:17][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-211] Run in Browser: =Chrome
+[17/11/30 09:43:17][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-212] Run in Environment: =QA
+[17/11/30 09:43:17][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-213] Current Test Case Name =VerifyDealerRetailsFormInfo
+[17/11/30 09:43:18][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-qa.cat.com/'
+[17/11/30 09:44:17][INFO][com.perficient.selenium.support.TimeoutListener-68] System have been waiting for 1 min(s).
+[17/11/30 09:44:31][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsUID'] from '' to ''
+[17/11/30 09:44:31][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsUID'] from '' to 'fengm1'
+[17/11/30 09:44:31][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsPwd'] from '' to ''
+[17/11/30 09:44:32][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsPwd'] from '' to 'Wsx12edc'
+[17/11/30 09:44:32][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //input[@id='submitButton']
+[17/11/30 09:44:55][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-428] .\errorImages\20171130094455.png
+[17/11/30 09:44:55][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 0 is: java.lang.Thread.getStackTrace(Unknown Source)
+[17/11/30 09:44:55][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 0 stack trace is: -1
+[17/11/30 09:44:55][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 1 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.logStackTraceInfo(CustomAssertion.java:451)
+[17/11/30 09:44:55][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 1 stack trace is: 452
+[17/11/30 09:44:55][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 2 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.printError(CustomAssertion.java:429)
+[17/11/30 09:44:55][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 2 stack trace is: 429
+[17/11/30 09:44:55][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 3 is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.tearDown(TestCaseBase.java:233)
+[17/11/30 09:44:55][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 3 stack trace is: 233
+[17/11/30 09:44:55][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 4 is: sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[17/11/30 09:44:55][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 4 stack trace is: -2
+[17/11/30 09:44:55][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 5 is: sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[17/11/30 09:44:55][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 5 stack trace is: -1
+[17/11/30 09:44:55][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 6 is: sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[17/11/30 09:44:55][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 6 stack trace is: -1
+[17/11/30 09:44:55][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-455] StackTrace for Assert is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.tearDown(TestCaseBase.java:233)
+[17/11/30 09:44:55][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-456] Assert LineNumber is: 233
+[17/11/30 09:48:51][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-288] 20171130094851
+[17/11/30 09:48:56][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-268] File is moved successful!
+[17/11/30 09:48:56][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-277] Deleting old screen shots created 2 days ago............
+[17/11/30 09:48:56][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-279] Deletion completed!
+[17/11/30 09:48:56][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-89] com.perficient.test.cat.catinspectweb.testcase.debug.VerifyDealerRetailsFormInfo
+[17/11/30 09:49:02][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-211] Run in Browser: =Chrome
+[17/11/30 09:49:02][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-212] Run in Environment: =QA
+[17/11/30 09:49:02][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-213] Current Test Case Name =VerifyDealerRetailsFormInfo
+[17/11/30 09:49:02][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-qa.cat.com/'
+[17/11/30 09:49:49][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsUID'] from '' to ''
+[17/11/30 09:49:52][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsUID'] from '' to 'fengm1'
+[17/11/30 09:49:52][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsPwd'] from '' to ''
+[17/11/30 09:49:52][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsPwd'] from '' to 'Wsx12edc'
+[17/11/30 09:49:52][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //input[@id='submitButton']
+[17/11/30 09:50:16][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-428] .\errorImages\20171130095015.png
+[17/11/30 09:50:16][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 0 is: java.lang.Thread.getStackTrace(Unknown Source)
+[17/11/30 09:50:16][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 0 stack trace is: -1
+[17/11/30 09:50:16][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 1 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.logStackTraceInfo(CustomAssertion.java:451)
+[17/11/30 09:50:16][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 1 stack trace is: 452
+[17/11/30 09:50:16][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 2 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.printError(CustomAssertion.java:429)
+[17/11/30 09:50:16][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 2 stack trace is: 429
+[17/11/30 09:50:16][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 3 is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.tearDown(TestCaseBase.java:233)
+[17/11/30 09:50:16][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 3 stack trace is: 233
+[17/11/30 09:50:16][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 4 is: sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[17/11/30 09:50:16][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 4 stack trace is: -2
+[17/11/30 09:50:16][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 5 is: sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[17/11/30 09:50:16][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 5 stack trace is: -1
+[17/11/30 09:50:16][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 6 is: sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[17/11/30 09:50:16][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 6 stack trace is: -1
+[17/11/30 09:50:16][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-455] StackTrace for Assert is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.tearDown(TestCaseBase.java:233)
+[17/11/30 09:50:16][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-456] Assert LineNumber is: 233
+[17/11/30 09:51:25][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-288] 20171130095125
+[17/11/30 09:51:30][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-268] File is moved successful!
+[17/11/30 09:51:30][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-277] Deleting old screen shots created 2 days ago............
+[17/11/30 09:51:30][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-279] Deletion completed!
+[17/11/30 09:51:30][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-89] com.perficient.test.cat.catinspectweb.testcase.debug.VerifyDealerRetailsFormInfo
+[17/11/30 09:51:39][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-211] Run in Browser: =Chrome
+[17/11/30 09:51:39][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-212] Run in Environment: =QA
+[17/11/30 09:51:39][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-213] Current Test Case Name =VerifyDealerRetailsFormInfo
+[17/11/30 09:51:39][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-qa.cat.com/'
+[17/11/30 09:52:26][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsUID'] from '' to ''
+[17/11/30 09:52:26][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsUID'] from '' to 'fengm1'
+[17/11/30 09:52:27][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsPwd'] from '' to ''
+[17/11/30 09:52:27][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsPwd'] from '' to 'Wsx12edc'
+[17/11/30 09:52:27][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //input[@id='submitButton']
+[17/11/30 09:52:53][WARN][org.apache.pdfbox.cos.COSDocument-639] Warning: You did not close a PDF Document
+[17/11/30 09:55:39][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-288] 20171130095539
+[17/11/30 09:55:44][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-268] File is moved successful!
+[17/11/30 09:55:44][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-277] Deleting old screen shots created 2 days ago............
+[17/11/30 09:55:44][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-279] Deletion completed!
+[17/11/30 09:55:44][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-89] com.perficient.test.cat.catinspectweb.testcase.debug.VerifyDealerRetailsFormInfo
+[17/11/30 09:55:50][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-211] Run in Browser: =Chrome
+[17/11/30 09:55:50][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-212] Run in Environment: =QA
+[17/11/30 09:55:50][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-213] Current Test Case Name =VerifyDealerRetailsFormInfo
+[17/11/30 09:55:50][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-qa.cat.com/'
+[17/11/30 09:56:49][INFO][com.perficient.selenium.support.TimeoutListener-68] System have been waiting for 1 min(s).
+[17/11/30 09:57:39][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsUID'] from '' to ''
+[17/11/30 09:57:39][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsUID'] from '' to 'fengm1'
+[17/11/30 09:57:40][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsPwd'] from '' to ''
+[17/11/30 09:57:40][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsPwd'] from '' to 'Wsx12edc'
+[17/11/30 09:57:43][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //input[@id='submitButton']
+[17/11/30 09:58:09][WARN][org.apache.pdfbox.cos.COSDocument-639] Warning: You did not close a PDF Document
+[17/11/30 10:04:45][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-288] 20171130100445
+[17/11/30 10:04:50][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-268] File is moved successful!
+[17/11/30 10:04:50][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-277] Deleting old screen shots created 2 days ago............
+[17/11/30 10:04:50][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-279] Deletion completed!
+[17/11/30 10:04:50][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-89] com.perficient.test.cat.catinspectweb.testcase.debug.VerifyDealerRetailsFormInfo
+[17/11/30 10:04:55][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-211] Run in Browser: =Chrome
+[17/11/30 10:04:55][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-212] Run in Environment: =QA
+[17/11/30 10:04:55][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-213] Current Test Case Name =VerifyDealerRetailsFormInfo
+[17/11/30 10:04:55][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-qa.cat.com/'
+[17/11/30 10:05:46][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsUID'] from '' to ''
+[17/11/30 10:05:46][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsUID'] from '' to 'fengm1'
+[17/11/30 10:05:46][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsPwd'] from '' to ''
+[17/11/30 10:05:46][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsPwd'] from '' to 'Wsx12edc'
+[17/11/30 10:05:46][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //input[@id='submitButton']
+[17/11/30 10:06:12][WARN][org.apache.pdfbox.cos.COSDocument-639] Warning: You did not close a PDF Document
+[17/11/30 10:16:04][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-288] 20171130101604
+[17/11/30 10:16:09][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-268] File is moved successful!
+[17/11/30 10:16:09][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-277] Deleting old screen shots created 2 days ago............
+[17/11/30 10:16:09][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-279] Deletion completed!
+[17/11/30 10:16:09][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-89] com.perficient.test.cat.catinspectweb.testcase.debug.VerifyDealerRetailsFormInfo
+[17/11/30 10:16:15][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-211] Run in Browser: =Chrome
+[17/11/30 10:16:15][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-212] Run in Environment: =QA
+[17/11/30 10:16:15][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-213] Current Test Case Name =VerifyDealerRetailsFormInfo
+[17/11/30 10:16:15][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-qa.cat.com/'
+[17/11/30 10:17:01][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsUID'] from '' to ''
+[17/11/30 10:17:01][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsUID'] from '' to 'fengm1'
+[17/11/30 10:17:01][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsPwd'] from '' to ''
+[17/11/30 10:17:01][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsPwd'] from '' to 'Wsx12edc'
+[17/11/30 10:17:01][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //input[@id='submitButton']
+[17/11/30 10:17:27][WARN][org.apache.pdfbox.cos.COSDocument-639] Warning: You did not close a PDF Document
+[17/11/30 10:25:32][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-288] 20171130102532
+[17/11/30 10:25:37][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-268] File is moved successful!
+[17/11/30 10:25:37][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-277] Deleting old screen shots created 2 days ago............
+[17/11/30 10:25:37][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-279] Deletion completed!
+[17/11/30 10:25:37][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-89] com.perficient.test.cat.catinspectweb.testcase.debug.VerifyDealerRetailsFormInfo
+[17/11/30 10:25:43][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-211] Run in Browser: =Chrome
+[17/11/30 10:25:43][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-212] Run in Environment: =QA
+[17/11/30 10:25:43][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-213] Current Test Case Name =VerifyDealerRetailsFormInfo
+[17/11/30 10:25:43][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-qa.cat.com/'
+[17/11/30 10:26:29][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsUID'] from '' to ''
+[17/11/30 10:26:29][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsUID'] from '' to 'fengm1'
+[17/11/30 10:26:29][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsPwd'] from '' to ''
+[17/11/30 10:26:29][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsPwd'] from '' to 'Wsx12edc'
+[17/11/30 10:26:30][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //input[@id='submitButton']
+[17/11/30 10:26:55][WARN][org.apache.pdfbox.cos.COSDocument-639] Warning: You did not close a PDF Document
+[17/11/30 11:10:20][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-288] 20171130111020
+[17/11/30 11:10:25][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-268] File is moved successful!
+[17/11/30 11:10:25][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-277] Deleting old screen shots created 2 days ago............
+[17/11/30 11:10:25][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-279] Deletion completed!
+[17/11/30 11:10:25][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-89] com.perficient.test.cat.catinspectweb.testcase.debug.VerifyDealerRetailsFormInfo
+[17/11/30 11:10:46][ERROR][com.perficient.test.cat.catinspectweb.util.TestCaseBase-244] Driver have quited by other thread or by hand.
+[17/11/30 11:11:18][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-288] 20171130111118
+[17/11/30 11:11:23][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-268] File is moved successful!
+[17/11/30 11:11:23][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-277] Deleting old screen shots created 2 days ago............
+[17/11/30 11:11:23][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-279] Deletion completed!
+[17/11/30 11:11:23][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-89] com.perficient.test.cat.catinspectweb.testcase.debug.VerifyDealerRetailsFormInfo
+[17/11/30 11:11:44][ERROR][com.perficient.test.cat.catinspectweb.util.TestCaseBase-244] Driver have quited by other thread or by hand.
+[17/11/30 11:12:11][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-288] 20171130111211
+[17/11/30 11:12:17][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-268] File is moved successful!
+[17/11/30 11:12:17][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-277] Deleting old screen shots created 2 days ago............
+[17/11/30 11:12:17][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-279] Deletion completed!
+[17/11/30 11:12:17][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-89] com.perficient.test.cat.catinspectweb.testcase.debug.VerifyDealerRetailsFormInfo
+[17/11/30 11:12:22][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-211] Run in Browser: =Chrome
+[17/11/30 11:12:22][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-212] Run in Environment: =QA
+[17/11/30 11:12:22][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-213] Current Test Case Name =VerifyDealerRetailsFormInfo
+[17/11/30 11:12:22][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-20] WebDriver navigating to:'https://catinspectweb-qa.cat.com/'
+[17/11/30 11:13:09][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsUID'] from '' to ''
+[17/11/30 11:13:09][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsUID'] from '' to 'fengm1'
+[17/11/30 11:13:10][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsPwd'] from '' to ''
+[17/11/30 11:13:10][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-30] WebDriver changing value in element found By.xpath: //input[@id='cwsPwd'] from '' to 'Wsx12edc'
+[17/11/30 11:13:10][INFO][com.perficient.test.cat.catinspectweb.util.LogWebDriverEventListener-63] Click the element found By.xpath: //input[@id='submitButton']
+[17/11/30 11:13:34][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-428] .\errorImages\20171130111334.png
+[17/11/30 11:13:34][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 0 is: java.lang.Thread.getStackTrace(Unknown Source)
+[17/11/30 11:13:34][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 0 stack trace is: -1
+[17/11/30 11:13:34][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 1 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.logStackTraceInfo(CustomAssertion.java:451)
+[17/11/30 11:13:34][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 1 stack trace is: 452
+[17/11/30 11:13:34][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 2 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.printError(CustomAssertion.java:429)
+[17/11/30 11:13:34][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 2 stack trace is: 429
+[17/11/30 11:13:34][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 3 is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.tearDown(TestCaseBase.java:233)
+[17/11/30 11:13:34][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 3 stack trace is: 233
+[17/11/30 11:13:34][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 4 is: sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[17/11/30 11:13:34][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 4 stack trace is: -2
+[17/11/30 11:13:34][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 5 is: sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[17/11/30 11:13:34][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 5 stack trace is: -1
+[17/11/30 11:13:34][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 6 is: sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[17/11/30 11:13:34][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 6 stack trace is: -1
+[17/11/30 11:13:34][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-455] StackTrace for Assert is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.tearDown(TestCaseBase.java:233)
+[17/11/30 11:13:34][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-456] Assert LineNumber is: 233
+[17/11/30 11:13:36][WARN][org.apache.pdfbox.cos.COSDocument-639] Warning: You did not close a PDF Document
+[17/11/30 11:17:58][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-288] 20171130111758
+[17/11/30 11:18:03][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-268] File is moved successful!
+[17/11/30 11:18:03][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-277] Deleting old screen shots created 2 days ago............
+[17/11/30 11:18:03][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-279] Deletion completed!
+[17/11/30 11:18:03][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-89] com.perficient.test.cat.catinspectweb.testcase.debug.VerifyDealerRetailsFormInfo
+[17/11/30 11:18:12][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-211] Run in Browser: =Chrome
+[17/11/30 11:18:12][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-212] Run in Environment: =QA
+[17/11/30 11:18:12][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-213] Current Test Case Name =VerifyDealerRetailsFormInfo
+[17/11/30 11:18:34][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-428] .\errorImages\20171130111834.png
+[17/11/30 11:18:34][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 0 is: java.lang.Thread.getStackTrace(Unknown Source)
+[17/11/30 11:18:34][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 0 stack trace is: -1
+[17/11/30 11:18:34][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 1 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.logStackTraceInfo(CustomAssertion.java:451)
+[17/11/30 11:18:34][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 1 stack trace is: 452
+[17/11/30 11:18:34][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 2 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.printError(CustomAssertion.java:429)
+[17/11/30 11:18:34][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 2 stack trace is: 429
+[17/11/30 11:18:34][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 3 is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.tearDown(TestCaseBase.java:233)
+[17/11/30 11:18:34][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 3 stack trace is: 233
+[17/11/30 11:18:34][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 4 is: sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[17/11/30 11:18:34][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 4 stack trace is: -2
+[17/11/30 11:18:34][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 5 is: sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[17/11/30 11:18:34][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 5 stack trace is: -1
+[17/11/30 11:18:34][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 6 is: sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[17/11/30 11:18:34][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 6 stack trace is: -1
+[17/11/30 11:18:34][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-455] StackTrace for Assert is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.tearDown(TestCaseBase.java:233)
+[17/11/30 11:18:34][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-456] Assert LineNumber is: 233
+[17/11/30 11:18:36][WARN][org.apache.pdfbox.cos.COSDocument-639] Warning: You did not close a PDF Document
+[17/11/30 11:22:00][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-288] 20171130112200
+[17/11/30 11:22:05][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-268] File is moved successful!
+[17/11/30 11:22:05][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-277] Deleting old screen shots created 2 days ago............
+[17/11/30 11:22:05][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-279] Deletion completed!
+[17/11/30 11:22:05][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-89] com.perficient.test.cat.catinspectweb.testcase.debug.VerifyDealerRetailsFormInfo
+[17/11/30 11:22:11][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-211] Run in Browser: =Chrome
+[17/11/30 11:22:11][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-212] Run in Environment: =QA
+[17/11/30 11:22:11][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-213] Current Test Case Name =VerifyDealerRetailsFormInfo
+[17/11/30 11:22:34][WARN][org.apache.pdfbox.cos.COSDocument-639] Warning: You did not close a PDF Document
+[17/11/30 12:09:19][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-288] 20171130120919
+[17/11/30 12:09:24][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-270] File is failed to move!
+[17/11/30 12:09:24][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-277] Deleting old screen shots created 2 days ago............
+[17/11/30 12:09:24][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-279] Deletion completed!
+[17/11/30 12:09:24][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-89] com.perficient.test.cat.catinspectweb.testcase.debug.VerifyDealerRetailsFormInfo
+[17/11/30 12:09:35][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-211] Run in Browser: =Chrome
+[17/11/30 12:09:35][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-212] Run in Environment: =QA
+[17/11/30 12:09:35][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-213] Current Test Case Name =VerifyDealerRetailsFormInfo
+[17/11/30 12:10:03][WARN][org.apache.pdfbox.cos.COSDocument-639] Warning: You did not close a PDF Document
+[17/11/30 12:19:18][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-288] 20171130121918
+[17/11/30 12:19:23][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-268] File is moved successful!
+[17/11/30 12:19:23][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-277] Deleting old screen shots created 2 days ago............
+[17/11/30 12:19:23][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-279] Deletion completed!
+[17/11/30 12:19:23][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-89] com.perficient.test.cat.catinspectweb.testcase.debug.VerifyDealerRetailsFormInfo
+[17/11/30 12:19:30][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-211] Run in Browser: =Chrome
+[17/11/30 12:19:30][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-212] Run in Environment: =QA
+[17/11/30 12:19:30][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-213] Current Test Case Name =VerifyDealerRetailsFormInfo
+[17/11/30 12:23:19][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-288] 20171130122319
+[17/11/30 12:23:24][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-268] File is moved successful!
+[17/11/30 12:23:24][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-277] Deleting old screen shots created 2 days ago............
+[17/11/30 12:23:24][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-279] Deletion completed!
+[17/11/30 12:23:24][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-89] com.perficient.test.cat.catinspectweb.testcase.debug.VerifyDealerRetailsFormInfo
+[17/11/30 12:23:31][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-211] Run in Browser: =Chrome
+[17/11/30 12:23:31][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-212] Run in Environment: =QA
+[17/11/30 12:23:31][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-213] Current Test Case Name =VerifyDealerRetailsFormInfo
+[17/11/30 12:52:42][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-288] 20171130125242
+[17/11/30 12:52:47][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-268] File is moved successful!
+[17/11/30 12:52:47][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-277] Deleting old screen shots created 2 days ago............
+[17/11/30 12:52:47][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-279] Deletion completed!
+[17/11/30 12:52:47][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-89] com.perficient.test.cat.catinspectweb.testcase.debug.VerifyDealerRetailsFormInfo
+[17/11/30 12:52:52][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-211] Run in Browser: =Chrome
+[17/11/30 12:52:52][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-212] Run in Environment: =QA
+[17/11/30 12:52:52][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-213] Current Test Case Name =VerifyDealerRetailsFormInfo
+[17/11/30 12:53:15][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-428] .\errorImages\20171130125315.png
+[17/11/30 12:53:15][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 0 is: java.lang.Thread.getStackTrace(Unknown Source)
+[17/11/30 12:53:15][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 0 stack trace is: -1
+[17/11/30 12:53:15][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 1 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.logStackTraceInfo(CustomAssertion.java:451)
+[17/11/30 12:53:15][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 1 stack trace is: 452
+[17/11/30 12:53:15][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 2 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.printError(CustomAssertion.java:429)
+[17/11/30 12:53:15][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 2 stack trace is: 429
+[17/11/30 12:53:15][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 3 is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.tearDown(TestCaseBase.java:233)
+[17/11/30 12:53:15][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 3 stack trace is: 233
+[17/11/30 12:53:15][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 4 is: sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[17/11/30 12:53:15][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 4 stack trace is: -2
+[17/11/30 12:53:15][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 5 is: sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[17/11/30 12:53:15][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 5 stack trace is: -1
+[17/11/30 12:53:15][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 6 is: sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[17/11/30 12:53:15][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 6 stack trace is: -1
+[17/11/30 12:53:15][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-455] StackTrace for Assert is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.tearDown(TestCaseBase.java:233)
+[17/11/30 12:53:15][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-456] Assert LineNumber is: 233
+[17/11/30 12:56:56][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-288] 20171130125656
+[17/11/30 12:57:01][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-268] File is moved successful!
+[17/11/30 12:57:01][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-277] Deleting old screen shots created 2 days ago............
+[17/11/30 12:57:01][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-279] Deletion completed!
+[17/11/30 12:57:01][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-89] com.perficient.test.cat.catinspectweb.testcase.debug.VerifyDealerRetailsFormInfo
+[17/11/30 12:57:23][ERROR][com.perficient.test.cat.catinspectweb.util.TestCaseBase-244] Driver have quited by other thread or by hand.
+[17/11/30 12:57:40][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-288] 20171130125740
+[17/11/30 12:57:45][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-268] File is moved successful!
+[17/11/30 12:57:45][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-277] Deleting old screen shots created 2 days ago............
+[17/11/30 12:57:45][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-279] Deletion completed!
+[17/11/30 12:57:45][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-89] com.perficient.test.cat.catinspectweb.testcase.debug.VerifyDealerRetailsFormInfo
+[17/11/30 12:57:50][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-211] Run in Browser: =Chrome
+[17/11/30 12:57:50][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-212] Run in Environment: =QA
+[17/11/30 12:57:50][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-213] Current Test Case Name =VerifyDealerRetailsFormInfo
+[17/11/30 12:58:13][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-428] .\errorImages\20171130125813.png
+[17/11/30 12:58:13][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 0 is: java.lang.Thread.getStackTrace(Unknown Source)
+[17/11/30 12:58:13][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 0 stack trace is: -1
+[17/11/30 12:58:13][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 1 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.logStackTraceInfo(CustomAssertion.java:451)
+[17/11/30 12:58:13][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 1 stack trace is: 452
+[17/11/30 12:58:13][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 2 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.printError(CustomAssertion.java:429)
+[17/11/30 12:58:13][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 2 stack trace is: 429
+[17/11/30 12:58:13][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 3 is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.tearDown(TestCaseBase.java:233)
+[17/11/30 12:58:13][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 3 stack trace is: 233
+[17/11/30 12:58:13][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 4 is: sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[17/11/30 12:58:13][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 4 stack trace is: -2
+[17/11/30 12:58:13][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 5 is: sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[17/11/30 12:58:13][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 5 stack trace is: -1
+[17/11/30 12:58:13][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 6 is: sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[17/11/30 12:58:13][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 6 stack trace is: -1
+[17/11/30 12:58:13][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-455] StackTrace for Assert is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.tearDown(TestCaseBase.java:233)
+[17/11/30 12:58:13][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-456] Assert LineNumber is: 233
+[17/11/30 13:57:12][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-288] 20171130135712
+[17/11/30 13:57:17][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-268] File is moved successful!
+[17/11/30 13:57:17][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-277] Deleting old screen shots created 2 days ago............
+[17/11/30 13:57:17][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-279] Deletion completed!
+[17/11/30 13:57:17][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-89] com.perficient.test.cat.catinspectweb.testcase.debug.VerifyDealerRetailsFormInfo
+[17/11/30 13:57:23][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-211] Run in Browser: =Chrome
+[17/11/30 13:57:23][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-212] Run in Environment: =QA
+[17/11/30 13:57:23][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-213] Current Test Case Name =VerifyDealerRetailsFormInfo
+[17/11/30 13:57:45][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-428] .\errorImages\20171130135745.png
+[17/11/30 13:57:45][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 0 is: java.lang.Thread.getStackTrace(Unknown Source)
+[17/11/30 13:57:45][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 0 stack trace is: -1
+[17/11/30 13:57:45][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 1 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.logStackTraceInfo(CustomAssertion.java:451)
+[17/11/30 13:57:45][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 1 stack trace is: 452
+[17/11/30 13:57:45][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 2 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.printError(CustomAssertion.java:429)
+[17/11/30 13:57:45][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 2 stack trace is: 429
+[17/11/30 13:57:45][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 3 is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.tearDown(TestCaseBase.java:233)
+[17/11/30 13:57:45][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 3 stack trace is: 233
+[17/11/30 13:57:45][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 4 is: sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[17/11/30 13:57:45][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 4 stack trace is: -2
+[17/11/30 13:57:45][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 5 is: sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[17/11/30 13:57:45][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 5 stack trace is: -1
+[17/11/30 13:57:45][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 6 is: sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[17/11/30 13:57:45][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 6 stack trace is: -1
+[17/11/30 13:57:45][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-455] StackTrace for Assert is: com.perficient.test.cat.catinspectweb.util.TestCaseBase.tearDown(TestCaseBase.java:233)
+[17/11/30 13:57:45][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-456] Assert LineNumber is: 233
+[17/11/30 14:38:41][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-288] 20171130143841
+[17/11/30 14:38:46][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-268] File is moved successful!
+[17/11/30 14:38:46][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-277] Deleting old screen shots created 2 days ago............
+[17/11/30 14:38:46][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-279] Deletion completed!
+[17/11/30 14:38:46][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-89] com.perficient.test.cat.catinspectweb.testcase.debug.VerifyDealerRetailsFormInfo
+[17/11/30 14:39:08][ERROR][com.perficient.test.cat.catinspectweb.util.TestCaseBase-244] Driver have quited by other thread or by hand.
+[17/11/30 14:39:33][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-288] 20171130143933
+[17/11/30 14:39:38][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-268] File is moved successful!
+[17/11/30 14:39:38][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-277] Deleting old screen shots created 2 days ago............
+[17/11/30 14:39:38][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-279] Deletion completed!
+[17/11/30 14:39:38][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-89] com.perficient.test.cat.catinspectweb.testcase.debug.VerifyDealerRetailsFormInfo
+[17/11/30 14:39:43][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-211] Run in Browser: =Chrome
+[17/11/30 14:39:43][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-212] Run in Environment: =QA
+[17/11/30 14:39:43][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-213] Current Test Case Name =VerifyDealerRetailsFormInfo
+[17/11/30 14:42:54][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-288] 20171130144254
+[17/11/30 14:42:59][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-268] File is moved successful!
+[17/11/30 14:42:59][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-277] Deleting old screen shots created 2 days ago............
+[17/11/30 14:42:59][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-279] Deletion completed!
+[17/11/30 14:42:59][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-89] com.perficient.test.cat.catinspectweb.testcase.debug.VerifyDealerRetailsFormInfo
+[17/11/30 14:43:20][ERROR][com.perficient.test.cat.catinspectweb.util.TestCaseBase-244] Driver have quited by other thread or by hand.
+[17/11/30 14:43:34][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-288] 20171130144334
+[17/11/30 14:43:39][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-268] File is moved successful!
+[17/11/30 14:43:39][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-277] Deleting old screen shots created 2 days ago............
+[17/11/30 14:43:39][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-279] Deletion completed!
+[17/11/30 14:43:39][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-89] com.perficient.test.cat.catinspectweb.testcase.debug.VerifyDealerRetailsFormInfo
+[17/11/30 14:43:44][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-211] Run in Browser: =Chrome
+[17/11/30 14:43:44][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-212] Run in Environment: =QA
+[17/11/30 14:43:44][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-213] Current Test Case Name =VerifyDealerRetailsFormInfo
+[17/11/30 14:52:50][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-288] 20171130145250
+[17/11/30 14:52:55][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-268] File is moved successful!
+[17/11/30 14:52:55][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-277] Deleting old screen shots created 2 days ago............
+[17/11/30 14:52:55][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-279] Deletion completed!
+[17/11/30 14:52:55][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-89] com.perficient.test.cat.catinspectweb.testcase.debug.VerifyDealerRetailsFormInfo
+[17/11/30 14:53:01][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-211] Run in Browser: =Chrome
+[17/11/30 14:53:01][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-212] Run in Environment: =QA
+[17/11/30 14:53:01][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-213] Current Test Case Name =VerifyDealerRetailsFormInfo
+[17/11/30 15:01:18][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-288] 20171130150118
+[17/11/30 15:01:23][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-268] File is moved successful!
+[17/11/30 15:01:23][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-277] Deleting old screen shots created 2 days ago............
+[17/11/30 15:01:23][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-279] Deletion completed!
+[17/11/30 15:01:23][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-89] com.perficient.test.cat.catinspectweb.testcase.debug.VerifyDealerRetailsFormInfo
+[17/11/30 15:01:28][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-211] Run in Browser: =Chrome
+[17/11/30 15:01:28][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-212] Run in Environment: =QA
+[17/11/30 15:01:28][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-213] Current Test Case Name =VerifyDealerRetailsFormInfo
+[17/11/30 15:01:51][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 0 is: java.lang.Thread.getStackTrace(Unknown Source)
+[17/11/30 15:01:51][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 0 stack trace is: -1
+[17/11/30 15:01:51][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 1 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.logStackTraceInfo(CustomAssertion.java:451)
+[17/11/30 15:01:51][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 1 stack trace is: 452
+[17/11/30 15:01:51][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 2 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.printError(CustomAssertion.java:435)
+[17/11/30 15:01:51][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 2 stack trace is: 435
+[17/11/30 15:01:51][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 3 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.assertTrue(CustomAssertion.java:325)
+[17/11/30 15:01:51][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 3 stack trace is: 325
+[17/11/30 15:01:51][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 4 is: com.perficient.test.cat.catinspectweb.testcase.debug.VerifyDealerRetailsFormInfo.name(VerifyDealerRetailsFormInfo.java:36)
+[17/11/30 15:01:51][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 4 stack trace is: 36
+[17/11/30 15:01:51][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 5 is: sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[17/11/30 15:01:51][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 5 stack trace is: -2
+[17/11/30 15:01:51][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 6 is: sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[17/11/30 15:01:51][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 6 stack trace is: -1
+[17/11/30 15:01:51][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-455] StackTrace for Assert is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.assertTrue(CustomAssertion.java:325)
+[17/11/30 15:01:51][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-456] Assert LineNumber is: 325
+[17/11/30 15:04:09][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-288] 20171130150409
+[17/11/30 15:04:14][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-268] File is moved successful!
+[17/11/30 15:04:14][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-277] Deleting old screen shots created 2 days ago............
+[17/11/30 15:04:14][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-279] Deletion completed!
+[17/11/30 15:04:14][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-89] com.perficient.test.cat.catinspectweb.testcase.debug.VerifyDealerRetailsFormInfo
+[17/11/30 15:04:20][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-211] Run in Browser: =Chrome
+[17/11/30 15:04:20][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-212] Run in Environment: =QA
+[17/11/30 15:04:20][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-213] Current Test Case Name =VerifyDealerRetailsFormInfo
+[17/11/30 15:04:43][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 0 is: java.lang.Thread.getStackTrace(Unknown Source)
+[17/11/30 15:04:43][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 0 stack trace is: -1
+[17/11/30 15:04:43][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 1 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.logStackTraceInfo(CustomAssertion.java:451)
+[17/11/30 15:04:43][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 1 stack trace is: 452
+[17/11/30 15:04:43][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 2 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.printError(CustomAssertion.java:435)
+[17/11/30 15:04:43][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 2 stack trace is: 435
+[17/11/30 15:04:43][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 3 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.assertTrue(CustomAssertion.java:325)
+[17/11/30 15:04:43][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 3 stack trace is: 325
+[17/11/30 15:04:43][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 4 is: com.perficient.test.cat.catinspectweb.testcase.debug.VerifyDealerRetailsFormInfo.name(VerifyDealerRetailsFormInfo.java:36)
+[17/11/30 15:04:43][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 4 stack trace is: 36
+[17/11/30 15:04:43][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 5 is: sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[17/11/30 15:04:43][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 5 stack trace is: -2
+[17/11/30 15:04:43][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 6 is: sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[17/11/30 15:04:43][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 6 stack trace is: -1
+[17/11/30 15:04:43][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-455] StackTrace for Assert is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.assertTrue(CustomAssertion.java:325)
+[17/11/30 15:04:43][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-456] Assert LineNumber is: 325
+[17/11/30 15:06:28][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-288] 20171130150628
+[17/11/30 15:06:33][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-268] File is moved successful!
+[17/11/30 15:06:33][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-277] Deleting old screen shots created 2 days ago............
+[17/11/30 15:06:33][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-279] Deletion completed!
+[17/11/30 15:06:33][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-89] com.perficient.test.cat.catinspectweb.testcase.debug.VerifyDealerRetailsFormInfo
+[17/11/30 15:06:54][ERROR][com.perficient.test.cat.catinspectweb.util.TestCaseBase-244] Driver have quited by other thread or by hand.
+[17/11/30 15:07:05][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-288] 20171130150705
+[17/11/30 15:07:10][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-268] File is moved successful!
+[17/11/30 15:07:10][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-277] Deleting old screen shots created 2 days ago............
+[17/11/30 15:07:10][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-279] Deletion completed!
+[17/11/30 15:07:10][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-89] com.perficient.test.cat.catinspectweb.testcase.debug.VerifyDealerRetailsFormInfo
+[17/11/30 15:07:16][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-211] Run in Browser: =Chrome
+[17/11/30 15:07:16][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-212] Run in Environment: =QA
+[17/11/30 15:07:16][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-213] Current Test Case Name =VerifyDealerRetailsFormInfo
+[17/11/30 15:07:39][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 0 is: java.lang.Thread.getStackTrace(Unknown Source)
+[17/11/30 15:07:39][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 0 stack trace is: -1
+[17/11/30 15:07:39][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 1 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.logStackTraceInfo(CustomAssertion.java:451)
+[17/11/30 15:07:39][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 1 stack trace is: 452
+[17/11/30 15:07:39][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 2 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.printError(CustomAssertion.java:435)
+[17/11/30 15:07:39][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 2 stack trace is: 435
+[17/11/30 15:07:39][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 3 is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.assertTrue(CustomAssertion.java:325)
+[17/11/30 15:07:39][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 3 stack trace is: 325
+[17/11/30 15:07:39][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 4 is: com.perficient.test.cat.catinspectweb.testcase.debug.VerifyDealerRetailsFormInfo.name(VerifyDealerRetailsFormInfo.java:36)
+[17/11/30 15:07:39][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 4 stack trace is: 36
+[17/11/30 15:07:39][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 5 is: sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[17/11/30 15:07:39][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 5 stack trace is: -2
+[17/11/30 15:07:39][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-451] StackTrace 6 is: sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[17/11/30 15:07:39][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-452] LineNumber for 6 stack trace is: -1
+[17/11/30 15:07:39][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-455] StackTrace for Assert is: com.perficient.test.cat.catinspectweb.util.CustomAssertion.assertTrue(CustomAssertion.java:325)
+[17/11/30 15:07:39][INFO][com.perficient.test.cat.catinspectweb.util.CustomAssertion-456] Assert LineNumber is: 325
+[17/11/30 15:08:49][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-288] 20171130150849
+[17/11/30 15:08:54][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-268] File is moved successful!
+[17/11/30 15:08:54][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-277] Deleting old screen shots created 2 days ago............
+[17/11/30 15:08:54][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-279] Deletion completed!
+[17/11/30 15:08:54][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-89] com.perficient.test.cat.catinspectweb.testcase.debug.VerifyDealerRetailsFormInfo
+[17/11/30 15:09:16][ERROR][com.perficient.test.cat.catinspectweb.util.TestCaseBase-244] Driver have quited by other thread or by hand.
+[17/11/30 15:09:26][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-288] 20171130150926
+[17/11/30 15:09:31][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-268] File is moved successful!
+[17/11/30 15:09:31][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-277] Deleting old screen shots created 2 days ago............
+[17/11/30 15:09:31][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-279] Deletion completed!
+[17/11/30 15:09:31][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-89] com.perficient.test.cat.catinspectweb.testcase.debug.VerifyDealerRetailsFormInfo
+[17/11/30 15:09:36][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-211] Run in Browser: =Chrome
+[17/11/30 15:09:36][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-212] Run in Environment: =QA
+[17/11/30 15:09:36][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-213] Current Test Case Name =VerifyDealerRetailsFormInfo
+[17/11/30 15:16:31][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-288] 20171130151631
+[17/11/30 15:16:36][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-268] File is moved successful!
+[17/11/30 15:16:36][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-277] Deleting old screen shots created 2 days ago............
+[17/11/30 15:16:36][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-279] Deletion completed!
+[17/11/30 15:16:36][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-89] com.perficient.test.cat.catinspectweb.testcase.debug.VerifyDealerRetailsFormInfo
+[17/11/30 15:16:58][ERROR][com.perficient.test.cat.catinspectweb.util.TestCaseBase-244] Driver have quited by other thread or by hand.
+[17/11/30 15:17:10][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-288] 20171130151710
+[17/11/30 15:17:15][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-268] File is moved successful!
+[17/11/30 15:17:15][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-277] Deleting old screen shots created 2 days ago............
+[17/11/30 15:17:15][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-279] Deletion completed!
+[17/11/30 15:17:15][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-89] com.perficient.test.cat.catinspectweb.testcase.debug.VerifyDealerRetailsFormInfo
+[17/11/30 15:17:36][ERROR][com.perficient.test.cat.catinspectweb.util.TestCaseBase-244] Driver have quited by other thread or by hand.
+[17/11/30 15:18:11][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-288] 20171130151811
+[17/11/30 15:18:16][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-268] File is moved successful!
+[17/11/30 15:18:16][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-277] Deleting old screen shots created 2 days ago............
+[17/11/30 15:18:16][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-279] Deletion completed!
+[17/11/30 15:18:16][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-89] com.perficient.test.cat.catinspectweb.testcase.debug.VerifyDealerRetailsFormInfo
+[17/11/30 15:18:38][ERROR][com.perficient.test.cat.catinspectweb.util.TestCaseBase-244] Driver have quited by other thread or by hand.
+[17/11/30 15:19:16][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-288] 20171130151916
+[17/11/30 15:19:21][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-268] File is moved successful!
+[17/11/30 15:19:21][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-277] Deleting old screen shots created 2 days ago............
+[17/11/30 15:19:21][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-279] Deletion completed!
+[17/11/30 15:19:21][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-89] com.perficient.test.cat.catinspectweb.testcase.debug.VerifyDealerRetailsFormInfo
+[17/11/30 15:19:26][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-211] Run in Browser: =Chrome
+[17/11/30 15:19:26][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-212] Run in Environment: =QA
+[17/11/30 15:19:26][INFO][com.perficient.test.cat.catinspectweb.util.TestCaseBase-213] Current Test Case Name =VerifyDealerRetailsFormInfo
